@@ -1,0 +1,24 @@
+# регенерируются скриптами, не нужны в git
+*.npz
+*_deps.jsonl
+candidates_*.tsv
+tikhomirov_notes.jsonl
+*.pdf
+
+# сырой скрейпинг ilibrary.ru — заменён .fb2, оставлен только как урок в README
+pin_chapters*/
+*.html
+
+.DS_Store
+__pycache__/
+*.pyc
+
+# текст романа с rvb.ru и кэш страниц: скачивается fetch_rvb_novel.py
+data/target/bk_rvb.tsv
+data/target/id_rvb.tsv
+data/target/dm_rvb.tsv
+data/target/ad_rvb.tsv
+data/ext/source/classics_books.tsv
+reports/ext/_*.tsv
+data/ext/source/ru_units2.tsv
+data/ext/source/ru_units_e.tsv

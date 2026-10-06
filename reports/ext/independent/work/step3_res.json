@@ -1,0 +1,1376 @@
+[
+ {
+  "rid": "R001",
+  "rl": [
+   "brood"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid book 4",
+  "note": "1:woe",
+  "unit": "Aeneid.4"
+ },
+ {
+  "rid": "R002",
+  "rl": [],
+  "bg": [
+   "hid noth"
+  ],
+  "rl_a": [],
+  "bg_a": [
+   "hid noth"
+  ],
+  "ref": "Iliad 2.484-85",
+  "note": "1:iliad",
+  "unit": "Iliad.2"
+ },
+ {
+  "rid": "R003",
+  "rl": [],
+  "bg": [
+   "happ stat",
+   "impiou war"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 1.8",
+  "note": "1:iliad",
+  "unit": "Aeneid.1"
+ },
+ {
+  "rid": "R004",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6.548",
+  "note": "1:adamantine",
+  "unit": "Aeneid.6"
+ },
+ {
+  "rid": "R005",
+  "rl": [
+   "obliuiou"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 11.489-91",
+  "note": "1:servitude",
+  "unit": "Odyssey.11"
+ },
+ {
+  "rid": "R006",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 8.626-29",
+  "note": "1:ethereal",
+  "unit": "Aeneid.8"
+ },
+ {
+  "rid": "R007",
+  "rl": [],
+  "bg": [
+   "shad high"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6.307-14",
+  "note": "1:leaves",
+  "unit": "Aeneid.6"
+ },
+ {
+  "rid": "R008",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 6.145-50",
+  "note": "1:leaves",
+  "unit": "Iliad.6"
+ },
+ {
+  "rid": "R009",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 1. 535",
+  "note": "1:orion",
+  "unit": "Aeneid.1"
+ },
+ {
+  "rid": "R010",
+  "rl": [
+   "brittl",
+   "considerat"
+  ],
+  "bg": [
+   "ran purpl",
+   "summer day"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 3. 1-5",
+  "note": "1:cranes",
+  "unit": "Iliad.3"
+ },
+ {
+  "rid": "R011",
+  "rl": [
+   "abomination",
+   "adoni",
+   "astart",
+   "brittl",
+   "brut",
+   "dorian",
+   "emperor",
+   "ezekiel",
+   "feminin",
+   "guis",
+   "lebanon",
+   "religion",
+   "sanctuar",
+   "solomon",
+   "stea",
+   "syrian",
+   "thammuz"
+  ],
+  "bg": [
+   "burst for",
+   "human sacrific"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 10. 318",
+  "note": "1:phlegra",
+  "unit": "Metamorphoses.10"
+ },
+ {
+  "rid": "R012",
+  "rl": [
+   "architect",
+   "rifl"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 1. 591-5",
+  "note": "1:relate",
+  "unit": "Iliad.1"
+ },
+ {
+  "rid": "R013",
+  "rl": [],
+  "bg": [
+   "angr iou",
+   "pour for",
+   "summer day"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 2. 87-90",
+  "note": "1:Bees",
+  "unit": "Iliad.2"
+ },
+ {
+  "rid": "R014",
+  "rl": [
+   "belu"
+  ],
+  "bg": [
+   "stat high"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 1.430-36",
+  "note": "1:Bees",
+  "unit": "Aeneid.1"
+ },
+ {
+  "rid": "R015",
+  "rl": [
+   "penanc"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6. 126-129",
+  "note": "2:ascentiseasy",
+  "unit": "Aeneid.6"
+ },
+ {
+  "rid": "R016",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 4. 3-4",
+  "note": "2:line245",
+  "unit": "Iliad.4"
+ },
+ {
+  "rid": "R017",
+  "rl": [
+   "arbitrar"
+  ],
+  "bg": [
+   "hurl headlong",
+   "imperial power"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 1. 530",
+  "note": "2:oath",
+  "unit": "Iliad.1"
+ },
+ {
+  "rid": "R018",
+  "rl": [],
+  "bg": [
+   "dusk cloud"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6.438",
+  "note": "2:lines434-436",
+  "unit": "Aeneid.6"
+ },
+ {
+  "rid": "R019",
+  "rl": [
+   "damn",
+   "disgorg",
+   "forlorn",
+   "labyrin"
+  ],
+  "bg": [
+   "rag fir"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 5.604",
+  "note": "2:line530",
+  "unit": "Aeneid.5"
+ },
+ {
+  "rid": "R020",
+  "rl": [
+   "antagonist"
+  ],
+  "bg": [
+   "dea liu"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 23. 800",
+  "note": "2:line530",
+  "unit": "Iliad.23"
+ },
+ {
+  "rid": "R021",
+  "rl": [
+   "antagonist",
+   "inclination",
+   "licha",
+   "period",
+   "prouidenc"
+  ],
+  "bg": [
+   "rag fir"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 9. 134",
+  "note": "2:oechalia",
+  "unit": "Metamorphoses.9"
+ },
+ {
+  "rid": "R022",
+  "rl": [
+   "antagonist",
+   "inclination",
+   "licha",
+   "period",
+   "prouidenc"
+  ],
+  "bg": [
+   "rag fir"
+  ],
+  "rl_a": [
+   "licha"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 9. 134",
+  "note": "2:lines542-546",
+  "unit": "Metamorphoses.9"
+ },
+ {
+  "rid": "R023",
+  "rl": [
+   "acheron",
+   "cocytu",
+   "prouidenc"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey book 10",
+  "note": "2:ravishment",
+  "unit": "Odyssey.10"
+ },
+ {
+  "rid": "R024",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 3.211-217",
+  "note": "2:harpy-footedFuries",
+  "unit": "Aeneid.3"
+ },
+ {
+  "rid": "R025",
+  "rl": [
+   "dolorou",
+   "pythian"
+  ],
+  "bg": [
+   "water fli"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 11.582",
+  "note": "2:smalldrop",
+  "unit": "Odyssey.11"
+ },
+ {
+  "rid": "R026",
+  "rl": [
+   "dolorou",
+   "pythian"
+  ],
+  "bg": [
+   "water fli"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 11.627",
+  "note": "2:Medusa",
+  "unit": "Odyssey.11"
+ },
+ {
+  "rid": "R027",
+  "rl": [
+   "dolorou",
+   "pythian"
+  ],
+  "bg": [
+   "water fli"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 11.582",
+  "note": "2:Tantalus",
+  "unit": "Odyssey.11"
+ },
+ {
+  "rid": "R028",
+  "rl": [
+   "acheron",
+   "cocytu",
+   "irksom"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6",
+  "note": "2:gorgons",
+  "unit": "Aeneid.6"
+ },
+ {
+  "rid": "R029",
+  "rl": [
+   "calabria",
+   "laplan",
+   "witch"
+  ],
+  "bg": [
+   "either sid",
+   "laplan witch",
+   "right han"
+  ],
+  "rl_a": [
+   "calabria"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 14",
+  "note": "2:lines649-660",
+  "unit": "Metamorphoses.14"
+ },
+ {
+  "rid": "R030",
+  "rl": [],
+  "bg": [
+   "either sid",
+   "hell explor"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 8.365",
+  "note": "2:Cerberian",
+  "unit": "Iliad.8"
+ },
+ {
+  "rid": "R031",
+  "rl": [
+   "calabria",
+   "laplan",
+   "witch"
+  ],
+  "bg": [
+   "either sid",
+   "laplan witch",
+   "right han"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 14",
+  "note": "2:waist",
+  "unit": "Metamorphoses.14"
+ },
+ {
+  "rid": "R032",
+  "rl": [
+   "atom",
+   "consistenc",
+   "harsh",
+   "lighter",
+   "moist",
+   "recoil",
+   "torri"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1.5-20",
+  "note": "2:lines895-897",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R033",
+  "rl": [],
+  "bg": [
+   "wid benea"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 8. 15-24",
+  "note": "2:goldenChain",
+  "unit": "Iliad.8"
+ },
+ {
+  "rid": "R034",
+  "rl": [
+   "calmer",
+   "whirlpool"
+  ],
+  "bg": [
+   "argo pass"
+  ],
+  "rl_a": [
+   "whirlpool"
+  ],
+  "bg_a": [],
+  "ref": "Odyssey 12. 234-259",
+  "note": "2:Charybdis",
+  "unit": "Odyssey.12"
+ },
+ {
+  "rid": "R035",
+  "rl": [
+   "reuisit",
+   "soiourn",
+   "stea"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 10",
+  "note": "3:orphean",
+  "unit": "Metamorphoses.10"
+ },
+ {
+  "rid": "R036",
+  "rl": [
+   "thamyri"
+  ],
+  "bg": [],
+  "rl_a": [
+   "thamyri"
+  ],
+  "bg_a": [],
+  "ref": "Iliad 2.591-4",
+  "note": "3:thamyris",
+  "unit": "Iliad.2"
+ },
+ {
+  "rid": "R037",
+  "rl": [
+   "andromeda",
+   "brightnes",
+   "splendor"
+  ],
+  "bg": [
+   "radiant light"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 4. 632-40",
+  "note": "3:hesperian",
+  "unit": "Metamorphoses.4"
+ },
+ {
+  "rid": "R038",
+  "rl": [
+   "assyrian",
+   "entwin",
+   "immortalit",
+   "mirror",
+   "tuft",
+   "unadorn",
+   "usher"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 4. 632-680",
+  "note": "4:fable",
+  "unit": "Metamorphoses.4"
+ },
+ {
+  "rid": "R039",
+  "rl": [
+   "assyrian",
+   "bush",
+   "chew",
+   "enna",
+   "pearl",
+   "unadorn"
+  ],
+  "bg": [],
+  "rl_a": [
+   "enna"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 5",
+  "note": "4:milt",
+  "unit": "Metamorphoses.5"
+ },
+ {
+  "rid": "R040",
+  "rl": [
+   "bush",
+   "daphn",
+   "eastwar",
+   "gran",
+   "impli",
+   "pearl",
+   "pendant",
+   "simplicit",
+   "uegetabl",
+   "unadorn",
+   "usher"
+  ],
+  "bg": [
+   "eternal spr",
+   "liu creatur",
+   "open fiel"
+  ],
+  "rl_a": [
+   "daphn"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 1.452-68",
+  "note": "4:dap",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R041",
+  "rl": [
+   "assyrian",
+   "bush",
+   "compliant",
+   "daphn",
+   "pearl",
+   "pendant",
+   "ruminat",
+   "tendril",
+   "tuft"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 10.163-219",
+  "note": "4:lok",
+  "unit": "Metamorphoses.10"
+ },
+ {
+  "rid": "R042",
+  "rl": [
+   "hyacinthin",
+   "umbrageou"
+  ],
+  "bg": [
+   "hyacinthin lock"
+  ],
+  "rl_a": [
+   "hyacinthin"
+  ],
+  "bg_a": [
+   "hyacinthin lock"
+  ],
+  "ref": "Odyssey 6. 231",
+  "note": "4:lok",
+  "unit": "Odyssey.6"
+ },
+ {
+  "rid": "R043",
+  "rl": [
+   "barr",
+   "bowr",
+   "disheuel",
+   "entwin",
+   "grot",
+   "oront"
+  ],
+  "bg": [
+   "myrtl crown"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 1.590-91",
+  "note": "4:lok",
+  "unit": "Aeneid.1"
+ },
+ {
+  "rid": "R044",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 3.402-510",
+  "note": "4:met",
+  "unit": "Metamorphoses.3"
+ },
+ {
+  "rid": "R045",
+  "rl": [],
+  "bg": [
+   "superior lou"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 14.346-51",
+  "note": "4:juno",
+  "unit": "Iliad.14"
+ },
+ {
+  "rid": "R046",
+  "rl": [
+   "adoration",
+   "patriarch"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1. 468",
+  "note": "4:lov",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R047",
+  "rl": [],
+  "bg": [
+   "golden scal"
+  ],
+  "rl_a": [],
+  "bg_a": [
+   "golden scal"
+  ],
+  "ref": "Iliad 8. 69-72",
+  "note": "4:asz",
+  "unit": "Iliad.8"
+ },
+ {
+  "rid": "R048",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 22. 209",
+  "note": "4:asz",
+  "unit": "Iliad.22"
+ },
+ {
+  "rid": "R049",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 12. 725-727",
+  "note": "4:asz",
+  "unit": "Aeneid.12"
+ },
+ {
+  "rid": "R050",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 2.1",
+  "note": "5:rosie",
+  "unit": "Odyssey.2"
+ },
+ {
+  "rid": "R051",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 6.440-670",
+  "note": "5:bird",
+  "unit": "Metamorphoses.6"
+ },
+ {
+  "rid": "R052",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 22. 315",
+  "note": "5:fairest",
+  "unit": "Iliad.22"
+ },
+ {
+  "rid": "R053",
+  "rl": [],
+  "bg": [
+   "gau way",
+   "open wid"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 10.275",
+  "note": "5:maia",
+  "unit": "Odyssey.10"
+ },
+ {
+  "rid": "R054",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 4.219-278",
+  "note": "5:maia",
+  "unit": "Aeneid.4"
+ },
+ {
+  "rid": "R055",
+  "rl": [
+   "alcinou"
+  ],
+  "bg": [],
+  "rl_a": [
+   "alcinou"
+  ],
+  "bg_a": [],
+  "ref": "Odyssey 7.115-34",
+  "note": "5:alcinous",
+  "unit": "Odyssey.7"
+ },
+ {
+  "rid": "R056",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 9",
+  "note": "5:reveal",
+  "unit": "Odyssey.9"
+ },
+ {
+  "rid": "R057",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 2.1",
+  "note": "6:rosie",
+  "unit": "Odyssey.2"
+ },
+ {
+  "rid": "R058",
+  "rl": [
+   "twixt"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 22.98",
+  "note": "6:undaunted",
+  "unit": "Iliad.22"
+ },
+ {
+  "rid": "R059",
+  "rl": [],
+  "bg": [
+   "mortal woun"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 5.334-417",
+  "note": "6:humor",
+  "unit": "Iliad.5"
+ },
+ {
+  "rid": "R060",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 9",
+  "note": "6:Raphael",
+  "unit": "Odyssey.9"
+ },
+ {
+  "rid": "R061",
+  "rl": [
+   "impair"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 2.42",
+  "note": "6:chariot",
+  "unit": "Metamorphoses.2"
+ },
+ {
+  "rid": "R062",
+  "rl": [
+   "rhodop"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 11",
+  "note": "7:thracianbard",
+  "unit": "Metamorphoses.11"
+ },
+ {
+  "rid": "R063",
+  "rl": [],
+  "bg": [
+   "first began"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 1.1",
+  "note": "7:invoke",
+  "unit": "Iliad.1"
+ },
+ {
+  "rid": "R064",
+  "rl": [
+   "listn"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 4. 378",
+  "note": "7:interpreter",
+  "unit": "Aeneid.4"
+ },
+ {
+  "rid": "R065",
+  "rl": [
+   "dreg"
+  ],
+  "bg": [
+   "turn roun"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1. 18",
+  "note": "7:balanced",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R066",
+  "rl": [
+   "bush",
+   "ferment",
+   "humi",
+   "unadorn",
+   "unsight"
+  ],
+  "bg": [
+   "brought for",
+   "god saw",
+   "great mother"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1. 150",
+  "note": "7:prolific",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R067",
+  "rl": [
+   "calu",
+   "clod",
+   "equalit",
+   "omnipotent"
+  ],
+  "bg": [
+   "cam for",
+   "creep thing",
+   "liu creatur",
+   "tawn lion"
+  ],
+  "rl_a": [
+   "calu",
+   "clod"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 1",
+  "note": "7:ovid",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R068",
+  "rl": [
+   "calu",
+   "clod",
+   "equalit",
+   "omnipotent"
+  ],
+  "bg": [
+   "cam for",
+   "creep thing",
+   "liu creatur",
+   "tawn lion"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1.76-82",
+  "note": "7:master",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R069",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 10.275",
+  "note": "8:line561-570",
+  "unit": "Odyssey.10"
+ },
+ {
+  "rid": "R070",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 4.238-48",
+  "note": "8:line561-570",
+  "unit": "Aeneid.4"
+ },
+ {
+  "rid": "R071",
+  "rl": [
+   "slumbr",
+   "tragic"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid book 4",
+  "note": "9:worldofwoe",
+  "unit": "Aeneid.4"
+ },
+ {
+  "rid": "R072",
+  "rl": [],
+  "bg": [
+   "stern achill"
+  ],
+  "rl_a": [],
+  "bg_a": [
+   "stern achill"
+  ],
+  "ref": "Iliad 22",
+  "note": "9:line15a",
+  "unit": "Iliad.22"
+ },
+ {
+  "rid": "R073",
+  "rl": [
+   "caparison",
+   "unsung"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 7",
+  "note": "9:line17",
+  "unit": "Aeneid.7"
+ },
+ {
+  "rid": "R074",
+  "rl": [
+   "distast",
+   "sewer",
+   "uenial",
+   "unblam"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 1.19-20",
+  "note": "9:line19",
+  "unit": "Odyssey.1"
+ },
+ {
+  "rid": "R075",
+  "rl": [
+   "slumbr"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 1",
+  "note": "9:line19a",
+  "unit": "Aeneid.1"
+ },
+ {
+  "rid": "R076",
+  "rl": [
+   "coniugal"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 9.749",
+  "note": "9:foodoflove",
+  "unit": "Metamorphoses.9"
+ },
+ {
+  "rid": "R077",
+  "rl": [
+   "speciou"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 4.381",
+  "note": "9:begone",
+  "unit": "Aeneid.4"
+ },
+ {
+  "rid": "R078",
+  "rl": [
+   "adoni",
+   "anno",
+   "feminin",
+   "permission",
+   "pomona",
+   "uertumnu"
+  ],
+  "bg": [],
+  "rl_a": [
+   "pomona",
+   "uertumnu"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 14.628",
+  "note": "9:line394",
+  "unit": "Metamorphoses.14"
+ },
+ {
+  "rid": "R079",
+  "rl": [
+   "abstract",
+   "bush",
+   "proserpina",
+   "riuulet"
+  ],
+  "bg": [
+   "tim remain"
+  ],
+  "rl_a": [
+   "proserpina"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 5.341",
+  "note": "9:line395",
+  "unit": "Metamorphoses.5"
+ },
+ {
+  "rid": "R080",
+  "rl": [
+   "alcinou"
+  ],
+  "bg": [
+   "sinc first"
+  ],
+  "rl_a": [
+   "alcinou"
+  ],
+  "bg_a": [],
+  "ref": "Odyssey 7",
+  "note": "9:line441",
+  "unit": "Odyssey.7"
+ },
+ {
+  "rid": "R081",
+  "rl": [
+   "hermion",
+   "illyria"
+  ],
+  "bg": [],
+  "rl_a": [
+   "illyria"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 4.563-603",
+  "note": "9:line505",
+  "unit": "Metamorphoses.4"
+ },
+ {
+  "rid": "R082",
+  "rl": [
+   "carbuncl",
+   "epidauru",
+   "scipio"
+  ],
+  "bg": [],
+  "rl_a": [
+   "epidauru"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 15.669-74",
+  "note": "9:line506",
+  "unit": "Metamorphoses.15"
+ },
+ {
+  "rid": "R083",
+  "rl": [
+   "fraudulent"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 10.238",
+  "note": "9:line522",
+  "unit": "Odyssey.10"
+ },
+ {
+  "rid": "R084",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 4.554",
+  "note": "9:line953",
+  "unit": "Aeneid.4"
+ },
+ {
+  "rid": "R085",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 14.292-353",
+  "note": "9:line1037",
+  "unit": "Iliad.14"
+ },
+ {
+  "rid": "R086",
+  "rl": [
+   "entwin"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses  4. 575-89",
+  "note": "10:line533",
+  "unit": "Metamorphoses.4"
+ },
+ {
+  "rid": "R087",
+  "rl": [
+   "heathen",
+   "pythian",
+   "python",
+   "slim"
+  ],
+  "bg": [
+   "clos follow",
+   "grown larger",
+   "open fiel"
+  ],
+  "rl_a": [
+   "pythian",
+   "python"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses  1. 421-40",
+  "note": "10:line531",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R088",
+  "rl": [
+   "bluster",
+   "euru",
+   "tropic"
+  ],
+  "bg": [
+   "twic ten"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 1. 56-123",
+  "note": "10:dungeon",
+  "unit": "Aeneid.1"
+ },
+ {
+  "rid": "R089",
+  "rl": [
+   "pyrrha"
+  ],
+  "bg": [],
+  "rl_a": [
+   "pyrrha"
+  ],
+  "bg_a": [],
+  "ref": "Metamorphoses 1.314-449",
+  "note": "11:pair",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R090",
+  "rl": [
+   "ianu"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1.673-715",
+  "note": "11:Argus",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R091",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Odyssey 2",
+  "note": "11:rosie",
+  "unit": "Odyssey.2"
+ },
+ {
+  "rid": "R092",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Iliad 5.127",
+  "note": "11:film",
+  "unit": "Iliad.5"
+ },
+ {
+  "rid": "R093",
+  "rl": [
+   "film"
+  ],
+  "bg": [],
+  "rl_a": [
+   "film"
+  ],
+  "bg_a": [],
+  "ref": "Aeneid 2.604",
+  "note": "11:film",
+  "unit": "Aeneid.2"
+ },
+ {
+  "rid": "R094",
+  "rl": [],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6:680-686",
+  "note": "11:behold",
+  "unit": "Aeneid.6"
+ },
+ {
+  "rid": "R095",
+  "rl": [],
+  "bg": [
+   "eye appear"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6.237",
+  "note": "11:cave",
+  "unit": "Aeneid.6"
+ },
+ {
+  "rid": "R096",
+  "rl": [
+   "moist"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1.264-226",
+  "note": "11:wind",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R097",
+  "rl": [
+   "abat",
+   "clamor",
+   "whereon"
+  ],
+  "bg": [],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Metamorphoses 1.328",
+  "note": "11:North-winde",
+  "unit": "Metamorphoses.1"
+ },
+ {
+  "rid": "R098",
+  "rl": [
+   "attain",
+   "entr"
+  ],
+  "bg": [
+   "law ordain"
+  ],
+  "rl_a": [],
+  "bg_a": [],
+  "ref": "Aeneid 6. 800",
+  "note": "12:seaven",
+  "unit": "Aeneid.6"
+ }
+]

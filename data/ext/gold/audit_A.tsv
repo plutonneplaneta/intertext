@@ -1,0 +1,395 @@
+note	place	book	line	ref_text	verse_first	verse_last	status	note_head	cov_head_par	quote	flags
+1:messiah	PL.1.p001	1	4	Romans 5:19	b.ROM.5.19	b.ROM.5.19	ok	one greater Man.  Jesus, or the "second Adam,"  the Messiah. See Romans 5:19: "For as by one man's disobedience many were made sinners, so b	1.00	QUOTE_IN_VERSE	
+1:blissful	PL.1.p001	1	5	Genesis 2:9-15	b.GEN.2.9	b.GEN.2.15	ok	Blissful seat. Paradise, the garden planted by God in the east of Eden for Adam; see Genesis 2:9-15.	1.00		
+1:Oreb	PL.1.p001	1	7	Deuteronomy 4: 10	b.DEU.4.10	b.DEU.4.10	ok	Oreb.  Moses, "That Shepherd," received the Law on Mt. Horeb (Deuteronomy 4: 10) or its spur, Mt. Sinai (Exodus 19: 20).	1.00		
+1:Oreb	PL.1.p001	1	7	Exodus 19: 20	b.EXO.19.20	b.EXO.19.20	ok	Oreb.  Moses, "That Shepherd," received the Law on Mt. Horeb (Deuteronomy 4: 10) or its spur, Mt. Sinai (Exodus 19: 20).	1.00		
+1:chaos2	PL.1.p001	1	10	Genesis 1:2	b.GEN.1.2	b.GEN.1.2	ok	out of Chaos.  One of Milton's several heterodox positions.  Orthodoxy held that God created everything ex nihilo, out of nothing (the "void	1.00		
+1:dove	PL.1.p001	1	21	John 1: 32	b.JOH.1.32	b.JOH.1.32	ok	Dove-like.  The Holy Spirit appears as a dove in John 1: 32.  See also Paradise Regain'd 1.30-1.	1.00		
+1:brooding	PL.1.p001	1	21	Genesis 1:2	b.GEN.1.2	b.GEN.1.2	ok	brooding on the vast Abyss.  Milton's "brooding" is a better translation of the Hebrew than the familiar "moved upon the face of the waters"	1.00	QUOTE_IN_VERSE	
+1:restraint	PL.1.p002	1	32	Genesis 2: 17	b.GEN.2.17	b.GEN.2.17	ok	one restraint.  That is, the single injunction against eating from the tree of the knowledge of good and evil (Genesis 2: 17).	1.00		
+1:Lords	PL.1.p002	1	32	Genesis 1:28	b.GEN.1.28	b.GEN.1.28	ok	Lords of the World.  According to Genesis 1:28, human beings were created to "have dominion" over the rest of creation.	1.00		
+1:warinheaven	PL.1.p002	1	43	Revelation 12:7-13	b.REV.12.7	b.REV.12.13	ok	War in Heav'n.  The book of Revelation recounts a war in heaven between angels led by Michael and the "dragon," or Satan and his angels, pre	1.00		
+1:warinheaven	PL.1.p002	1	43	Luke 10:18	b.LUK.10.18	b.LUK.10.18	ok	War in Heav'n.  The book of Revelation recounts a war in heaven between angels led by Michael and the "dragon," or Satan and his angels, pre	1.00		
+1:darknessvisible	PL.1.p002	1	63	Job 10:20-22	b.JOB.10.20	b.JOB.10.22	ok	darkness visible. See a similar description in Job 10:20-22. This may also allude to the "pitchy gloom" in Euripides's Bacchae 509-13.	1.00		
+1:beelzebub	PL.1.p002	1	81	Matthew 10: 25	b.MAT.10.25	b.MAT.10.25	ok	Beelzebub.  "Lord of the flies" or  "Chief of the devils." See Matthew 10: 25, Mark 3: 22, and Luke 11: 15.  See also Christopher Marlowe's 	1.00	QUOTE_IN_VERSE	
+1:beelzebub	PL.1.p002	1	81	Mark 3: 22	b.MAR.3.22	b.MAR.3.22	ok	Beelzebub.  "Lord of the flies" or  "Chief of the devils." See Matthew 10: 25, Mark 3: 22, and Luke 11: 15.  See also Christopher Marlowe's 	1.00	QUOTE_IN_VERSE	
+1:beelzebub	PL.1.p002	1	81	Luke 11: 15	b.LUK.11.15	b.LUK.11.15	ok	Beelzebub.  "Lord of the flies" or  "Chief of the devils." See Matthew 10: 25, Mark 3: 22, and Luke 11: 15.  See also Christopher Marlowe's 	1.00	QUOTE_IN_VERSE	
+1:Leviathan	PL.1.p007	1	201	Isaiah 27:1	b.ISA.27.1	b.ISA.27.1	ok	Leviathan.  See Isaiah 27:1 and Job 41.	1.00		
+1:servitude	PL.1.p008	1	263	Psalm 84:10	b.PSA.84.10	b.PSA.84.10	ok	serve in Heav'n.  But see Abdiel's (chronologically) prior warning to Satan: 6. 178-88.  Homer's Odysseus says that when he interviewed Achi	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+1:beelzebub2	PL.1.p009	1	271	Matthew 10: 25	b.MAT.10.25	b.MAT.10.25	ok	Beelzebub.  "Lord of the flies" or  "Chief of the devils." See Matthew 10: 25, Mark 3: 22, and Luke 11: 15.  See also Christopher Marlowe's 	1.00	QUOTE_IN_VERSE	
+1:beelzebub2	PL.1.p009	1	271	Mark 3: 22	b.MAR.3.22	b.MAR.3.22	ok	Beelzebub.  "Lord of the flies" or  "Chief of the devils." See Matthew 10: 25, Mark 3: 22, and Luke 11: 15.  See also Christopher Marlowe's 	1.00	QUOTE_IN_VERSE	
+1:beelzebub2	PL.1.p009	1	271	Luke 11: 15	b.LUK.11.15	b.LUK.11.15	ok	Beelzebub.  "Lord of the flies" or  "Chief of the devils." See Matthew 10: 25, Mark 3: 22, and Luke 11: 15.  See also Christopher Marlowe's 	1.00	QUOTE_IN_VERSE	
+1:Etrurian	PL.1.p010	1	303	Psalm 23:4	b.PSA.23.4	b.PSA.23.4	ok	Etrurian shades.  "Etrurian" is another way of saying Etruscan, that is of or from Tuscany and parts of Umbria, both regions of Italy.  "Sha	1.00		
+1:amram	PL.1.p011	1	339	Exodus 10: 12-15	b.EXO.10.12	b.EXO.10.15	ok	Amrams Son.  Moses.  See Exodus 10: 12-15.	1.00		
+1:booksoflife	PL.1.p011	1	363	Revelation 20:11-15	b.REV.20.11	b.REV.20.15	ok	Books of Life. See Revelation 20:11-15 and Exodus 32:31-34.	1.00		
+1:booksoflife	PL.1.p011	1	363	Exodus 32:31-34	b.EXO.32.31	b.EXO.32.34	ok	Books of Life. See Revelation 20:11-15 and Exodus 32:31-34.	1.00		
+1:hinnom	PL.1.p011	1	404	Jeremiah 19: 6	b.JER.19.6	b.JER.19.6	ok	Hinnom.  See Jeremiah 19: 6.  Gehenna, or Gehinnom, is Hebrew for the place or valley of the damned, especially the valley where Moloch was 	1.00		
+1:chemos	PL.1.p011	1	406	Numbers 21: 29	b.NUM.21.29	b.NUM.21.29	ok	Chemos.  Chemosh a Moabite diety to whom Solomon built a shrine according to 1 Kings 11:7.  See also Numbers 21: 29.	1.00		
+1:nebo	PL.1.p011	1	407	Deuteronomy 32:49	b.DEU.32.49	b.DEU.32.49	ok	Nebo.  A southern Moabite town; also the name of the mountain from which Moses first glimpsed the promised land of Canaan (Deuteronomy 32:49	1.00		
+1:pagans	PL.1.p011	1	413	Numbers 25: 1-3	b.NUM.25.1	b.NUM.25.3	ok	Israel in Sittim. The Isrealites "began to commit whoredom" with the daughters of Moab at Shittim, on the flight from Egypt to Canaan. See N	1.00	QUOTE_IN_VERSE	
+1:idolatries	PL.1.p011	1	456	Ezekiel 8: 14	b.EZE.8.14	b.EZE.8.14	ok	the dark Idolatries.  See Ezekiel 8: 14.	1.00		
+1:calf	PL.1.p011	1	484	Exodus 32: 1-20	b.EXO.32.1	b.EXO.32.20	ok	The Calf.  Exodus 32: 1-20.	1.00		
+1:firstborn	PL.1.p011	1	488	Exodus 12: 12	b.EXO.12.12	b.EXO.12.12	ok	equal'd with one stroke. See Exodus 12: 12.	1.00		
+1:bugger	PL.1.p011	1	505	Genesis 19:4-13	b.GEN.19.4	b.GEN.19.13	ok	worse rape.  See the stories in Genesis 19:4-13 and Judges 19.  Milton's notion that rape of men is "worse" than rape of women, even when a 	1.00		
+1:javan	PL.1.p011	1	508	Genesis 10:2	b.GEN.10.2	b.GEN.10.2	ok	Javan.  Japhet's son and therefore Noah's grandson (Genesis 10:2).  The Geneva notes to Genesis 10:2 identify Javan as the progenitor of the	1.00	QUOTE_NEITHER	OTHER_VERSION,QUOTE_NOT_IN_CITED_VERSE
+1:azazel	PL.1.p011	1	534	Leviticus 16:8-20	b.LEV.16.8	b.LEV.16.20	ok	Azazel.  Also spelled Azazael, the Hebrew word for "scapegoat."  See Leviticus 16:8-20.  According to some Cabbalistic writers, one of the f	1.00		
+1:babel	PL.1.p014	1	694	Genesis  11:4	b.GEN.11.4	b.GEN.11.4	ok	Babel.  The famous tower of Babel, erected by Nimrod; see Genesis  11:4 and PL  12.38-62.  See also Pieter Bruegel's depiction of the Tower 	1.00		
+1:Belus	PL.1.p014	1	720	Jeremiah 51:44	b.JER.51.44	b.JER.51.44	ok	Belus or Serapis.  Belus is Latinized Bel, Mesopotamian god of the air, also know to the ancient Hebrews as Baal (Jeremiah 51:44).  Sarapis 	1.00		
+2:powers	PL.2.p002	2	11	Colossians 1: 16	b.COL.1.16	b.COL.1.16	ok	Powers and Dominions.    Two orders of angels. See Colossians 1: 16.	1.00		
+2:strangefire	PL.2.p004	2	69	Leviticus 10:1-3	b.LEV.10.1	b.LEV.10.3	ok	strange fire.  See the story of Nadab and Abihu  and the "strange fire" they offered before the Lord in Leviticus 10:1-3. Leviticus 16:12 sp	1.00		
+2:strangefire	PL.2.p004	2	69	Leviticus 16:12	b.LEV.16.12	b.LEV.16.12	ok	strange fire.  See the story of Nadab and Abihu  and the "strange fire" they offered before the Lord in Leviticus 10:1-3. Leviticus 16:12 sp	1.00		
+2:vassals	PL.2.p004	2	90	Romans 9: 22	b.ROM.9.22	b.ROM.9.22	ok	Vassals.    This could  be a reference either to the original Latin meaning of "servant" or "slave," or as Richard Bentley suggests, it coul	1.00		
+2:manna	PL.2.p005	2	113	Exodus 16:31	b.EXO.16.31	b.EXO.16.31	ok	Manna. The divine substance that God provided as nourishment to the Israelites in Exodus 16 (see Exodus 16:31 for the origin of the name).	1.00		
+2:grimfires	PL.2.p006	2	170	Isaiah 30:30-33	b.ISA.30.30	b.ISA.30.33	ok	grim fires.  See Isaiah 30:30-33.	1.00		
+2:line191	PL.2.p006	2	191	Psalm 2: 4	b.PSA.2.4	b.PSA.2.4	ok	sees and derides.    This echoes Psalm 2: 4: "He that sitteth in the heavens shall laugh; the Lord shall have them in derision."   	1.00	QUOTE_IN_VERSE	
+2:line264	PL.2.p008	2	264	Psalms 18: 11-13	b.PSA.18.11	b.PSA.18.13	ok	Thick clouds and dark.    See 2 Chronicles 5: 13, 6:1 and Psalms 18: 11-13.  	1.00		
+2:line324	PL.2.p010	2	324	Revelation  21: 6	b.REV.21.6	b.REV.21.6	ok	first and last.   In Revelation  21: 6, the voice of the Lord says, "I am the Alpha and the Omega, the beginning and the end."  There is som	1.00	QUOTE_IN_VERSE	
+2:IronSceptre	PL.2.p010	2	327	Psalms 2: 9	b.PSA.2.9	b.PSA.2.9	ok	Iron Scepter.    Psalms 2: 9. 	1.00		
+2:thoughless	PL.2.p010	2	349	Psalm 8:5	b.PSA.8.5	b.PSA.8.5	ok	though less.  See Psalm 8:5.  	1.00		
+2:oath	PL.2.p010	2	352	Hebrews 6: 13	b.HEB.6.13	b.HEB.6.13	ok	by an Oath.    Milton combines biblical representations of God taking an oath by himself "because he could swear by no greater" (Hebrews 6: 	1.00	QUOTE_IN_VERSE	
+2:oath	PL.2.p010	2	352	Genesis 22: 16	b.GEN.22.16	b.GEN.22.16	ok	by an Oath.    Milton combines biblical representations of God taking an oath by himself "because he could swear by no greater" (Hebrews 6: 	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+2:abolishhisownworks	PL.2.p010	2	370	Genesis 6: 7	b.GEN.6.7	b.GEN.6.7	ok	abolish his own works.    See Genesis 6: 7.  	1.00		
+2:sitindarkness	PL.2.p010	2	377	Psalm 107:8-11	b.PSA.107.8	b.PSA.107.11	ok	sit in darkness. See Psalm 107:8-11.	1.00		
+2:palpableobscure	PL.2.p011	2	406	Exodus 10: 22	b.EXO.10.22	b.EXO.10.22	ok	palpable obscure.  A darkness so thick as to be palpable; see, for example,   Exodus 10: 22. 	1.00		
+2:norest	PL.2.p014	2	618	Matthew 12: 43	b.MAT.12.43	b.MAT.12.43	ok	No rest.    See Matthew 12: 43. 	1.00		
+2:othershape	PL.2.p015	2	666	Revelation 13:  18	b.REV.13.18	b.REV.13.18	ok	The other shape.   Death, whom Milton deliberately introduces on line 666.  666 is the number of the Beast in Revelation 13:  18.  The inver	1.00		
+2:line692	PL.2.p017	2	692	Revelation 12: 3-4	b.REV.12.3	b.REV.12.4	ok	the third part of Heav'n's Sons.    See Revelation 12: 3-4. 	1.00		
+2:begotten	PL.2.p022	2	782	John 1:14	b.JOH.1.14	b.JOH.1.14	ok	own begotten.  The phrase echoes (parodically) John 1:14 and John 3:16.	1.00		
+2:begotten	PL.2.p022	2	782	John 3:16	b.JOH.3.16	b.JOH.3.16	ok	own begotten.  The phrase echoes (parodically) John 1:14 and John 3:16.	1.00		
+2:Death	PL.2.p022	2	787	James 1:15	b.JAM.1.15	b.JAM.1.15	ok	cry'd out Death.  Milton's allegory, the only overt allegory in this epic poem, dramatizes (literalizes?) the metaphors of James 1:15.	1.00		
+2:houseofpain	PL.2.p023	2	823	Job 30: 23	b.JOB.30.23	b.JOB.30.23	ok	house of pain.    As referred to in Job 30: 23. 	1.00		
+2:hubbub	PL.2.p025	2	951	Genesis 11:1-9	b.GEN.11.1	b.GEN.11.9	ok	universal hubbub.  This may allude to the "curse" of linguistic diversity following the incident of the Tower of Babel as recounted in Genes	1.00		
+2:line1050	PL.2.p028	2	1050	Revelations 21: 19	b.REV.21.19	b.REV.21.19	ok	living Saphire.    See Revelations 21: 19. 	1.00		
+3:Light	PL.3.p001	3	3	1 John 1: 5	b.1JO.1.5	b.1JO.1.5	ok	God is light.  As in 1 John 1: 5.	1.00		
+3:Before	PL.3.p001	3	9	Genesis 1:3	b.GEN.1.3	b.GEN.1.3	ok	Before the Heavens.  See Genesis 1:3, which states that light was the first created thing.	1.00		
+3:void	PL.3.p001	3	12	Genesis 1:2	b.GEN.1.2	b.GEN.1.2	ok	void and formless.  See the description of the "world" before creation in Genesis 1:2.	1.00		
+3:sion	PL.3.p001	3	30	Deuteronomy 4:48	b.DEU.4.48	b.DEU.4.48	ok	Mt. Sion.  The sacred Mount Zion, purported to be the site of Moses's "lore and teaching" from God.  Milton apparently prefers its image to 	1.00		
+3:radiantimage	PL.3.p002	3	63	Hebrews 1:1-9	b.HEB.1.1	b.HEB.1.9	ok	radiant image of his Glory.  For the biblical version of this, see Hebrews 1:1-9.	1.00		
+3:solecommand	PL.3.p003	3	94	Genesis 2:15-17	b.GEN.2.15	b.GEN.2.17	ok	the sole Command.  God's command that Adam and Eve leave the tree of knowledge untouched. See Genesis 2:15-17.	1.00		
+3:judgest	PL.3.p005	3	155	Genesis 18:23-33	b.GEN.18.23	b.GEN.18.33	ok	judgest onely right.  See the story of Abraham pleading with Yahweh concerning the fate of the cities of Sodom and Gomorrah in Genesis 18:23	1.00		
+3:Abolish	PL.3.p005	3	163	Genesis 6:6-7	b.GEN.6.6	b.GEN.6.7	ok	Abolish thy Creation.  See Genesis 6:6-7 and PL 2. 370. 	1.00		
+3:chiefdelight	PL.3.p006	3	168	Matthew 3:13-17	b.MAT.3.13	b.MAT.3.17	ok	chief delight.  See Matthew 3:13-17.	1.00		
+3:myword	PL.3.p006	3	170	John 1:1-5	b.JOH.1.1	b.JOH.1.5	ok	My word.  The Son is here defined as the sole agent of God, the outward expression in word, wisdom, and might of an otherwise invisible (see	1.00		
+3:stonie	PL.3.p006	3	189	Ezekiel 11:17-20	b.EZE.11.17	b.EZE.11.20	ok	stonie hearts.  See Ezekiel 11:17-20.	1.00		
+3:bythee	PL.3.p008	3	244	John 5:19-27	b.JOH.5.19	b.JOH.5.27	ok	by thee I live. See John 5:19-27.	1.00		
+3:grave	PL.3.p008	3	247	Psalm 16:8-10	b.PSA.16.8	b.PSA.16.10	ok	loathsom grave. See Psalm 16:8-10. Many Christians believed (and still do) that the Psalms of David prefigured Jesus Christ.	1.00		
+3:flesh	PL.3.p010	3	284	John 1: 14	b.JOH.1.14	b.JOH.1.14	ok	Made flesh.  Echoes John 1: 14: "The Word was made flesh."	1.00	QUOTE_IN_VERSE	
+3:newlife	PL.3.p010	3	294	Romans 5: 14-21	b.ROM.5.14	b.ROM.5.21	ok	new life.  These lines, 290-94, virtually paraphrase Paul's doctrine in Romans 5: 14-21.	1.00		
+3:allknees	PL.3.p010	3	321	Romans 14:9-12	b.ROM.14.9	b.ROM.14.12	ok	All knees.  This echoes Romans 14:9-12 and Philippians 2:5-11, which, in turn, echo and re-interpret Isaiah 45:21-23.	1.00		
+3:allknees	PL.3.p010	3	321	Philippians 2:5-11	b.PHI.2.5	b.PHI.2.11	ok	All knees.  This echoes Romans 14:9-12 and Philippians 2:5-11, which, in turn, echo and re-interpret Isaiah 45:21-23.	1.00		
+3:allknees	PL.3.p010	3	321	Isaiah 45:21-23	b.ISA.45.21	b.ISA.45.23	ok	All knees.  This echoes Romans 14:9-12 and Philippians 2:5-11, which, in turn, echo and re-interpret Isaiah 45:21-23.	1.00		
+3:fountoflife	PL.3.p011	3	357	Revelation 7:13-17	b.REV.7.13	b.REV.7.17	ok	Fount of Life. See Revelation 7:13-17.	1.00		
+3:seaofjasper	PL.3.p011	3	363	Revelation 21:9-11	b.REV.21.9	b.REV.21.11	ok	Sea of Jasper. See Revelation 21:9-11.	1.00		
+3:saints	PL.3.p013	3	461	Genesis 5:24	b.GEN.5.24	b.GEN.5.24	ok	Translated Saints.  Enoch (Genesis 5:24) and Elijah (2 Kings 2: 1-11) were both transported to heaven alive.  	1.00		
+3:giants	PL.3.p013	3	463	Genesis 6: 4	b.GEN.6.4	b.GEN.6.4	ok	ill-joynd Sons and Daughters.  Genesis 6: 4 tells the story of how a race of giants was born to women who coupled with the "sons of God."  M	1.00		
+3:sennaar	PL.3.p013	3	467	Genesis 10: 10	b.GEN.10.10	b.GEN.10.10	ok	Sennaar.  The plain of Shinar from Genesis 10: 10.	1.00		
+3:golgotha	PL.3.p013	3	477	Matthew 27:33	b.MAT.27.33	b.MAT.27.33	ok	Golgotha.  The site of the crucifixion.  See Matthew 27:33.	1.00		
+3:hiskeys	PL.3.p013	3	485	Matthew 16:13-19	b.MAT.16.13	b.MAT.16.19	ok	his Keys.  See Matthew 16:13-19.	1.00		
+3:padan	PL.3.p013	3	513	Genesis 28:5	b.GEN.28.5	b.GEN.28.5	ok	Padan-Aram.  Padanaram was the home of Jacob's uncle Laban, who provided him sanctuary from the rage of Esau. See Genesis 28:5.	1.00		
+3:after	PL.3.p013	3	520	Genesis 5: 21-24	b.GEN.5.21	b.GEN.5.24	ok	Who after came from Earth.  Enoch (Genesis 5: 21-24)  and Elijah (2 Kings 2: 11) are two who were said to have sailed from earth to heaven.	1.00		
+3:sion2	PL.3.p013	3	530	Deuteronomy 4:48	b.DEU.4.48	b.DEU.4.48	ok	Mount Sion.  The sacred Mount Zion, purported to be the site of Moses's "lore and teaching" from God.  Milton apparently prefers its image t	1.00		
+3:twelve	PL.3.p013	3	597	Exodus 28: 17-24	b.EXO.28.17	b.EXO.28.24	ok	the Twelve that shon.  Aaron,  high priest of Israel and Moses's brother, wore a ceremonial breastplate in which twelve gemstones were set, 	1.00		
+3:John	PL.3.p013	3	623	Revelation 19: 17	b.REV.19.17	b.REV.19.17	ok	The same whom John saw.  See Revelation 19: 17.	1.00		
+3:light	PL.3.p015	3	713	Genesis 1:2	b.GEN.1.2	b.GEN.1.2	ok	Light.  Genesis 1:2 names Light as the first creation.	1.00		
+4:john	PL.4.p001	4	1	Revelation 12: 3-12	b.REV.12.3	b.REV.12.12	ok	warning voice.  Milton refers to John's parable of the defeat of Satan in Revelation 12: 3-12.	1.00		
+4:accuser	PL.4.p001	4	10	Revelation 12:7-10	b.REV.12.7	b.REV.12.10	ok	Accuser.  See Revelation 12:7-10.	1.00		
+4:relent	PL.4.p002	4	79	Hebrews 12: 17	b.HEB.12.17	b.HEB.12.17	ok	at last relent.  Lines 79-80 appear to echo Claudius's attempts at repentance in Hamlet 3.3.40 and following.  The phrase "place for repenta	1.00		
+4:relent	PL.4.p002	4	79	Genesis 25: 24-34	b.GEN.25.24	b.GEN.25.34	ok	at last relent.  Lines 79-80 appear to echo Claudius's attempts at repentance in Hamlet 3.3.40 and following.  The phrase "place for repenta	1.00		
+4:fraud	PL.4.p003	4	121	John 8:44	b.JOH.8.44	b.JOH.8.44	ok	Artificer of fraud.  Satan has been called the father of  lies. See John 8:44 and 3.681-690. 	1.00		
+4:nether	PL.4.p003	4	145	Genesis 1: 28	b.GEN.1.28	b.GEN.1.28	ok	nether Empire.  That is, all the lower parts of the world outside of the garden of Eden.  The idea of Adam as an emperor is derived from God	0.50		
+4:similes	PL.4.p004	4	192	John 10:1-10	b.JOH.10.1	b.JOH.10.10	ok	first grand Thief.  The extended similes raise lots of questions.  Are we invited to think of God as a less than adequate shepherd and manki	1.00		
+4:eastofeden	PL.4.p004	4	210	Genesis 2:8	b.GEN.2.8	b.GEN.2.8	ok	Eden planted.  As described in Genesis 2:8. 	1.00		
+4:tel	PL.4.p004	4	214	Isaiah 37: 12	b.ISA.37.12	b.ISA.37.12	ok	Telassar.  Thelesar is a city mentioned in 2 Kings 19: 12 and  Isaiah 37: 12. 	1.00		
+4:treeoflife	PL.4.p004	4	218	Genesis 2:9	b.GEN.2.9	b.GEN.2.9	ok	Tree of Life.  According to Genesis 2:9, the tree of life stood close by the forbidden tree of the knowledge of good and evil. 	1.00		
+4:river	PL.4.p004	4	223	Genesis 2: 10	b.GEN.2.10	b.GEN.2.10	ok	a River large.  Genesis 2: 10 mentions such a river in Eden, dividing into four streams.  The fountain is Milton's imagination.	1.00		
+4:withoutthorn	PL.4.p004	4	256	Genesis 3:17-19	b.GEN.3.17	b.GEN.3.19	ok	without Thorn the Rose.  See Genesis 3:17-19. 	1.00		
+4:image	PL.4.p004	4	292	Gen. 1.27	b.GEN.1.27	b.GEN.1.27	ok	image of thir glorious Maker shon.  In Milton's view, does God's image in man signify or constitute human superiority over the rest of creat	1.00		
+4:image	PL.4.p004	4	292	Genesis 1: 26-31	b.GEN.1.26	b.GEN.1.31	ok	image of thir glorious Maker shon.  In Milton's view, does God's image in man signify or constitute human superiority over the rest of creat	1.00		
+4:mysterious	PL.4.p004	4	312	Ephesians 5:31-32	b.EPH.5.31	b.EPH.5.32	ok	mysterious parts.  That is, their genitals.  Milton chooses the word "mysterious" to remind readers that "connubial rites" (line 743) are tr	1.00		
+4:kid	PL.4.p004	4	344	Isaiah 11:6-10	b.ISA.11.6	b.ISA.11.10	ok	Dandl'd the Kid.  Isaiah 11:6-10 describes a future paradise where all beasts will lie down and play together, even with children.	1.00		
+4:echo	PL.4.p005	4	383	Isaiah 14: 9	b.ISA.14.9	b.ISA.14.9	ok	send forth all her Kings.  The lines echo Isaiah 14: 9, but the tone with which Satan echoes the prophet is worth pondering. John Leonard, i	1.00		
+4:dust	PL.4.p007	4	416	Genesis 3: 19	b.GEN.3.19	b.GEN.3.19	ok	dust.  Adam was made by God from the dust of the earth and Eve made from his rib according to Genesis 2.    See also Genesis 3: 19: "for dus	1.00	QUOTE_IN_VERSE	
+4:dominion	PL.4.p007	4	430	Genesis 1: 26	b.GEN.1.26	b.GEN.1.26	ok	Dominion.  This recalls Genesis 1: 26, in which God intends Adam to have dominion over "every creeping thing that creepeth upon the earth."	1.00	QUOTE_IN_VERSE	
+4:noend	PL.4.p008	4	442	Genesis 2: 23	b.GEN.2.23	b.GEN.2.23	ok	without whom am to no end.  Milton was not alone in believing that the only purpose for which woman was created is to remedy a man's lonelin	1.00	QUOTE_IN_VERSE	
+4:gab	PL.4.p011	4	549	Luke 1:19	b.LUK.1.19	b.LUK.1.19	ok	Gabriel.  Gabriel is one of the four archangels of Hebrew tradition. The others were Michael, Uriel,  and Raphael; each was assigned one qua	1.00		
+4:dailywork	PL.4.p015	4	618	Genesis 2: 15	b.GEN.2.15	b.GEN.2.15	ok	daily work.  God commands Adam and Eve to "dress" and "keep" Eden in Genesis 2: 15.  The dignity of work, along with walking erect, speaking	1.00		
+4:sex	PL.4.p020	4	743	Ephesians 5: 31-32	b.EPH.5.31	b.EPH.5.32	ok	connubial Love.  Milton probably shocked his earliest readers by suggesting that Adam and Eve had sexual relations before the fall, but we s	1.00		
+4:mult	PL.4.p020	4	748	Genesis 1:28	b.GEN.1.28	b.GEN.1.28	ok	bids increase.  "Be fruitful, and multiply, and replenish the earth" (Genesis 1:28).  On the matter of the devil bidding abstention, see 1 T	1.00	QUOTE_IN_VERSE	
+4:mysterious2	PL.4.p020	4	750	Genesis 2:24	b.GEN.2.24	b.GEN.2.24	ok	mysterious Law.  The poem alludes to Paul's interpretation of "one flesh" (Genesis 2:24) in Ephesians 5: 31-32.  For other instances of the 	1.00		
+4:mysterious2	PL.4.p020	4	750	Ephesians 5: 31-32	b.EPH.5.31	b.EPH.5.32	ok	mysterious Law.  The poem alludes to Paul's interpretation of "one flesh" (Genesis 2:24) in Ephesians 5: 31-32.  For other instances of the 	1.00		
+4:undefil	PL.4.p020	4	761	Hebrews 13:4	b.HEB.13.4	b.HEB.13.4	ok	bed is undefil'd.  The narrator quotes from Hebrews 13:4.  The Greek underlying "undefiled" is amiantos, a word also used in Hebrews 7:26, J	1.00		
+4:undefil	PL.4.p020	4	761	Hebrews 7:26	b.HEB.7.26	b.HEB.7.26	ok	bed is undefil'd.  The narrator quotes from Hebrews 13:4.  The Greek underlying "undefiled" is amiantos, a word also used in Hebrews 7:26, J	1.00		
+4:undefil	PL.4.p020	4	761	James 1:27	b.JAM.1.27	b.JAM.1.27	ok	bed is undefil'd.  The narrator quotes from Hebrews 13:4.  The Greek underlying "undefiled" is amiantos, a word also used in Hebrews 7:26, J	1.00		
+4:artweighed	PL.4.p039	4	1012	Daniel 5:22-28	b.DAN.5.22	b.DAN.5.28	ok	thou art weigh'd. See Daniel 5:22-28.	1.00		
+5:tasted	PL.5.p003	5	65	Genesis 3:1-6	b.GEN.3.1	b.GEN.3.6	ok	he tasted.  The dream dramatizes for Eve the false claim the serpent makes in book 9.595-601 that he has tasted the fruit and it has endowed	1.00		
+5:haire	PL.5.p005	5	131	Luke 7:38	b.LUK.7.38	b.LUK.7.38	ok	with her haire.  Wiping tears with hair is bound to evoke the image of Mary Magdalene in Luke 7:38.	1.00		
+5:himfirst	PL.5.p007	5	165	Revelation 22:13	b.REV.22.13	b.REV.22.13	ok	Him first. See Revelation 22:13.	1.00		
+5:seraph	PL.5.p010	5	277	Isaiah 6:2	b.ISA.6.2	b.ISA.6.2	ok	Seraph.  In addition to cherubim and  thrones, seraphim constituted the loftiest triad of the nine  orders of angels. Seraphim are described	1.00		
+5:hail	PL.5.p015	5	385	Luke 1: 28	b.LUK.1.28	b.LUK.1.28	ok	Haile. The angel of the annunciation greets Mary with the word "hail" in Luke 1: 28.	1.00		
+5:out	PL.5.p016	5	399	James 1: 17	b.JAM.1.17	b.JAM.1.17	ok	perfet good unmeasur'd out, descends.  These lines echo James 1: 17.  	1.00		
+5:manna	PL.5.p017	5	430	Exodus 16:14-17	b.EXO.16.14	b.EXO.16.17	ok	pearly grain.  Perhaps an allusion to the manna spoken of in Exodus 16:14-17.  	1.00		
+5:humbleaccess	PL.5.p019	5	463	Matthew 8:8	b.MAT.8.8	b.MAT.8.8	ok	lowly roof.  Once again, the poem faintly echoes a familiar liturgical prayer known as the Domine, non sum dignus, recited immediately befor	1.00		
+5:whose	PL.5.p020	5	503	Acts 17.28	b.ACT.17.28	b.ACT.17.28	ok	Whose progenie. Much the same phrase is found in  Paul's sermon to the  Athenians in Acts 17.28. 	1.00		
+5:begotten	PL.5.p027	5	603	Psalm  2: 6-7	b.PSA.2.6	b.PSA.2.7	ok	This day I have begot. The Father's words echo Psalm  2: 6-7.  For Luther's interesting commentary on this passage ("But here, when the eter	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+5:confess	PL.5.p027	5	608	Philippians 2: 9-11	b.PHI.2.9	b.PHI.2.11	ok	shall confess him Lord.  These lines echo Philippians 2: 9-11.	1.00		
+5:livingstreams	PL.5.p028	5	652	Revelation 22:1-4	b.REV.22.1	b.REV.22.4	ok	living Streams.  See Revelation 22:1-4.	1.00		
+5:north	PL.5.p029	5	689	Isaiah 14: 12	b.ISA.14.12	b.ISA.14.12	ok	Quarters of the North.   The idea that Lucifer once resided in the North is derived from Isaiah 14: 12, 13.	1.00		
+5:third	PL.5.p030	5	710	Revelation 12:1-4	b.REV.12.1	b.REV.12.4	ok	the third part.  See book 2. 692. See also Revelation 12:1-4.	1.00		
+5:inderision	PL.5.p032	5	736	Psalm 2:1-4	b.PSA.2.1	b.PSA.2.4	ok	in derision. See Psalm 2:1-4.	1.00		
+5:congregation	PL.5.p033	5	766	Isaiah 14:13	b.ISA.14.13	b.ISA.14.13	ok	Mountain of the Congregation. See Isaiah 14:13.	1.00		
+5:thisyoke	PL.5.p034	5	786	Matthew 11:28-30	b.MAT.11.28	b.MAT.11.30	ok	this Yoke.  Jesus taught his disciples that his yoke is "easy."  See Matthew 11:28-30.	1.00		
+5:exec	PL.5.p036	5	836	Colossians 1:16-18	b.COL.1.16	b.COL.1.18	ok	by whom/ As by his Word.  Abdiel cites the Son as the agent of God, his executive word, in creation of all things, including him. See Coloss	1.00		
+5:distinguish	PL.5.p039	5	889	Numbers 16: 26	b.NUM.16.26	b.NUM.16.26	ok	I fly.  Abdiel flees the scene not because he has been  frightened by Satan's threats but because he does not want to  be caught in God's wr	1.00	QUOTE_IN_VERSE	
+6:isolation	PL.6.p001	6	24	Genesis 18: 20-19	b.GEN.18.20	b.GEN.18.20	ok	one/ Return'd not lost.   Milton's emphasis on the importance of one righteous individual surrounded by wickedness is supported by many bibl	0.75		RANGE_BACKWARDS
+6:cloud	PL.6.p001	6	28	Exodus 34: 5-7	b.EXO.34.5	b.EXO.34.7	ok	Golden Cloud.  The Bible sometimes describes God as speaking from a cloud. See Exodus 34: 5-7, for example. 	1.00		
+6:welldone	PL.6.p002	6	29	Matthew 25: 21	b.MAT.25.21	b.MAT.25.21	ok	Servant of God, well done.  This is addressed to Abdiel whose name literally means "servant of God."  The phrase also echoes the words of th	1.00		
+6:michael	PL.6.p002	6	44	Revelation 12:7-9	b.REV.12.7	b.REV.12.9	ok	Michael.  Michael is Hebrew for "God-like" or "strength of God." See Revelation 12:7-9.	1.00		
+6:armed	PL.6.p002	6	47	Ephesians 6:10-18	b.EPH.6.10	b.EPH.6.18	ok	armed Saints.   Milton's angels resemble in some ways the biblical descriptions of the church militant in  Ephesians 6:10-18.  Homer's and V	1.00		
+6:sign	PL.6.p003	6	58	Exodus 19: 18	b.EXO.19.18	b.EXO.19.18	ok	the signe.   Milton models the presence of God on Exodus 19: 18, where God appears to Moses on Mount Sinai. 	1.00		
+6:line73	PL.6.p003	6	76	Genesis 2: 19	b.GEN.2.19	b.GEN.2.19	ok	Thir names of thee.  Genesis 2: 19 tells the story of God bringing all beasts and birds before Adam for naming.  Adam retells this story in 	1.00		
+6:idol	PL.6.p003	6	101	Exodus 20:3-5	b.EXO.20.3	b.EXO.20.5	ok	Idol of Majesty Divine.  In portraying himself as a god, Satan has violated what will be handed down in Exodus 20:3-5 as the first commandme	1.00		
+6:fierydarts	PL.6.p009	6	213	Ephesians 6:16	b.EPH.6.16	b.EPH.6.16	ok	fiery Darts.  See Ephesians 6:16.	1.00		
+6:armorie	PL.6.p012	6	321	Jeremiah 50:25-29	b.JER.50.25	b.JER.50.29	ok	Armorie.  See Jeremiah 50:25-29.	1.00		
+6:arioch	PL.6.p013	6	371	Genesis 14: 1	b.GEN.14.1	b.GEN.14.1	ok	Arioc. The name means "lion-like."  Abraham is said to have fought a King Arioch (Genesis 14: 1) amongst a list of other adversary kings som	1.00		
+6:arioch	PL.6.p013	6	371	Daniel 2: 14	b.DAN.2.14	b.DAN.2.14	ok	Arioc. The name means "lion-like."  Abraham is said to have fought a King Arioch (Genesis 14: 1) amongst a list of other adversary kings som	1.00		
+6:third	PL.6.p025	6	699	Matthew 16:21	b.MAT.16.21	b.MAT.16.21	ok	the third.   Milton's emphasis on the Son's single combat against all of Satan's forces on the third day of battle also alludes to Jesus' pa	1.00		
+6:glorifie	PL.6.p027	6	725	John 17:1-10	b.JOH.17.1	b.JOH.17.10	ok	glorifie thy Son.   See John 17:1-10. 	1.00		
+6:ihate	PL.6.p027	6	734	Psalm 139:20-21	b.PSA.139.20	b.PSA.139.21	ok	I hate.   See Psalm 139:20-21. 	1.00		
+6:mansion	PL.6.p027	6	738	John 14:2	b.JOH.14.2	b.JOH.14.2	ok	ill Mansion. Here used as a contrast to Heaven. Christ says "In my Father's house are many mansions: if it were not so, I would have told yo	1.00	QUOTE_IN_VERSE	
+6:undyingworm	PL.6.p027	6	739	Mark 9:43-48	b.MAR.9.43	b.MAR.9.48	ok	undying Worm.   See Mark 9:43-48.	1.00		
+6:wheel	PL.6.p027	6	751	Ezekiel 1: 5-21	b.EZE.1.5	b.EZE.1.21	ok	Wheele within Wheele.  The imagery of the divine chariot comes from Ezekiel 1: 5-21 and Ezekiel 10: 6-19.	1.00		
+6:wheel	PL.6.p027	6	751	Ezekiel 10: 6-19	b.EZE.10.6	b.EZE.10.19	ok	Wheele within Wheele.  The imagery of the divine chariot comes from Ezekiel 1: 5-21 and Ezekiel 10: 6-19.	1.00		
+6:Beril	PL.6.p027	6	756	Ezekiel 10:9	b.EZE.10.9	b.EZE.10.9	ok	Beril.   A transparent precious stone mentioned in Ezekiel 10:9 as part of the description of God's heavenly chariot (OED). 	1.00		
+6:urim	PL.6.p027	6	761	Exodus 28: 30	b.EXO.28.30	b.EXO.28.30	ok	Urim.  One of the types of mystical stones (along with the thummim) said to decorate the breast plate of Aaron the high priest and brother o	1.00		
+6:Ezekiel	PL.6.p027	6	766	Ezekiel 1: 4-14	b.EZE.1.4	b.EZE.1.14	ok	Lines 750-766.   Milton uses Ezekiel's vision of God's presence (Ezekiel 1: 4-14) to indicate the majesty of God the Father made manifest in	0.00		HEAD_NOT_IN_PARAGRAPH
+6:Wonders	PL.6.p027	6	790	Matthew 13: 39	b.MAT.13.39	b.MAT.13.39	ok	Wonders.   Milton recalls Christ's alleged frustration with the Pharisees, saying, "A wicked and adulterous generation asks for a miraculous	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+6:stand	PL.6.p028	6	801	Ephesians 6:11-16	b.EPH.6.11	b.EPH.6.16	ok	stand.  The Son's command to stand echoes the final line of Milton's Sonnet 19. See also Ephesians 6:11-16.	1.00		
+6:venge	PL.6.p028	6	808	Romans 12: 19	b.ROM.12.19	b.ROM.12.19	ok	Vengeance is his.  God's vengeance is a major theme of the Hebrew Scriptures.  You can search for examples using the Bible Gateway search en	1.00		
+6:revelation6	PL.6.p029	6	843	Revelation 6:14-16	b.REV.6.14	b.REV.6.16	ok	Empyrean.   See Revelation 6:14-16.	1.00		
+6:Goats	PL.6.p029	6	857	Matthew 25: 32	b.MAT.25.32	b.MAT.25.32	ok	Goats.   This allusion also prefigures the last judgment (as described in Matthew 25: 32), when Christ will separate "the sheep from the goa	1.00	QUOTE_IN_VERSE	
+6:palme	PL.6.p030	6	885	John 12:12-16	b.JOH.12.12	b.JOH.12.16	ok	branching Palme. See John 12:12-16. 	1.00		
+6:Victorious	PL.6.p030	6	889	Matthew 21: 8-11	b.MAT.21.8	b.MAT.21.11	ok	Triumphant.   The palm branches and songs of triumph  suggest the image of Jesus' entry into Jerusalem shortly before his crucifixion (Matth	1.00		
+7:wisdom	PL.7.p001	7	9	Proverbs 8:22-30	b.PRO.8.22	b.PRO.8.30	ok	Eternal Wisdom. This notion of Wisdom as a character involved in Creation comes from Proverbs 8:22-30.  Milton also alludes to this biblical	1.00		
+7:interdicted	PL.7.p002	7	46	Genesis 2:16-17	b.GEN.2.16	b.GEN.2.17	ok	interdicted.  Forbidden. See Genesis 2:16-17 and the significantly different words of Eve in Genesis 3:1-3.	1.00		
+7:interdicted	PL.7.p002	7	46	Genesis 3:1-3	b.GEN.3.1	b.GEN.3.3	ok	interdicted.  Forbidden. See Genesis 2:16-17 and the significantly different words of Eve in Genesis 3:1-3.	1.00		
+7:magnifie	PL.7.p003	7	97	Job 36:22-25	b.JOB.36.22	b.JOB.36.25	ok	To magnifie his works.  Adam makes what seems like an important distinction here between the right and the wrong reasons for wanting to acqu	1.00		
+7:Glorie	PL.7.p008	7	182	Luke 2:14	b.LUK.2.14	b.LUK.2.14	ok	Glorie.  These lines echo Luke 2:14.	1.00		
+7:habitations	PL.7.p008	7	186	Proverbs 3.33	b.PRO.3.33	b.PRO.3.33	ok	habitations of the just.  See Proverbs 3.33. 	1.00		
+7:armory	PL.7.p008	7	200	Jeremiah 50: 25	b.JER.50.25	b.JER.50.25	ok	Armoury of God. This refers to the armory of God mentioned in Jeremiah 50: 25.	1.00		
+7:mountains	PL.7.p008	7	201	Zechariah 6:1	b.ZEC.6.1	b.ZEC.6.1	ok	brazen Mountains. The "brazen mountains" recall Zechariah's vision of four chariots coming from heaven between mountains of brass (Zechariah	1.00		
+7:gates	PL.7.p008	7	206	Psalm 24: 9	b.PSA.24.9	b.PSA.24.9	ok	Gates. This suggests the gates of Heaven described in Psalm 24: 9.  See also 3.515-539 and 2.881-882 where the sound of Hell's gates is desc	1.00		
+7:compasses	PL.7.p010	7	225	Proverbs 8:27	b.PRO.8.27	b.PRO.8.27	ok	the golden Compasses.  William Blake imagined much the same image in his The Ancient of Days. See also Proverbs 8:27.	1.00		
+7:void	PL.7.p010	7	233	Genesis 1:1-3	b.GEN.1.1	b.GEN.1.3	ok	unform'd and void. See Genesis 1:1-3.	1.00		
+7:virtue	PL.7.p010	7	236	Genesis 1:2	b.GEN.1.2	b.GEN.1.2	ok	vertue. Power, also particularly masculine or virile (vir-tue) creative power figured as both seminal, but also brooding as a mother hen, a 	1.00		
+7:balanced	PL.7.p010	7	242	Job 26: 7	b.JOB.26.7	b.JOB.26.7	ok	Earth self-balanc't.  Milton echoes much that is found in Ovid's account of creation (Metamorphoses 1. 18), even though Ovid's description a	0.67		
+7:genesis1	PL.7.p011	7	243	Genesis 1: 4-8	b.GEN.1.4	b.GEN.1.8	ok	Let ther be Light. The passage is a paraphrase of the account of creation in Genesis 1: 4-8.	1.00		
+7:suncreation	PL.7.p011	7	247	Genesis 1: 4-5	b.GEN.1.4	b.GEN.1.5	ok	the Sun. This account closely follows Genesis which describes the creation of light on the first day in Genesis 1: 4-5 and the creation of t	1.00		
+7:suncreation	PL.7.p011	7	247	Genesis 1: 16	b.GEN.1.16	b.GEN.1.16	ok	the Sun. This account closely follows Genesis which describes the creation of light on the first day in Genesis 1: 4-5 and the creation of t	1.00		
+7:tabernacle	PL.7.p011	7	248	Psalm 19:1-4	b.PSA.19.1	b.PSA.19.4	ok	cloudie Tabernacle. See Psalm 19:1-4.	1.00		
+7:firmament	PL.7.p012	7	261	Genesis 1:6	b.GEN.1.6	b.GEN.1.6	ok	Firmament.  See Genesis 1:6.  In this context, "firmament" is used by Milton to describe the entire mass of air and vapor between the earth 	1.00		
+7:waters	PL.7.p013	7	283	Genesis 1:9	b.GEN.1.9	b.GEN.1.9	ok	Waters under Heav'n.  See Genesis 1:9. 	1.00		
+7:lettheearth	PL.7.p013	7	309	Genesis 1:11-12	b.GEN.1.11	b.GEN.1.12	ok	Let th' Earth.  See Genesis 1:11-12. 	1.00		
+7:rain	PL.7.p013	7	331	Genesis 2: 5-6	b.GEN.2.5	b.GEN.2.6	ok	yet not rain'd. This passage  paraphrases  the Genesis account of the first precipitation on earth  (Genesis 2: 5-6).	1.00		
+7:till	PL.7.p013	7	332	Genesis 1:11-13	b.GEN.1.11	b.GEN.1.13	ok	man to till the ground.  Philip J. Gallagher points out that Milton removes the discrepancy between Genesis 1:11-13 and Genesis 2:5-7 about 	1.00		
+7:till	PL.7.p013	7	332	Genesis 2:5-7	b.GEN.2.5	b.GEN.2.7	ok	man to till the ground.  Philip J. Gallagher points out that Milton removes the discrepancy between Genesis 1:11-13 and Genesis 2:5-7 about 	1.00		
+7:greatlights	PL.7.p014	7	346	Genesis 1:16-8	b.GEN.1.16	b.GEN.1.16	ok	two great Lights.  See Genesis 1:16-8. 	1.00		RANGE_SHORTHAND
+7:pleiades	PL.7.p014	7	374	Job 38: 31	b.JOB.38.31	b.JOB.38.31	ok	the Pleiades.  A group of seven stars, the Pleiades, according to legend, were originally seven daughters of Atlas. This may also allude to 	1.00		
+7:reptile	PL.7.p015	7	388	Genesis 1:20-5	b.GEN.1.20	b.GEN.1.20	ok	Reptil.  Any reptile or creeping creature.  See Genesis 1:20-5.	1.00		RANGE_SHORTHAND
+7:foul	PL.7.p016	7	451	Genesis 1: 24	b.GEN.1.24	b.GEN.1.24	ok	Foul. Since fowl already have been created on the fifth day (line 389), every modern editor I have consulted (including John Leonard) amends	1.00	QUOTE_IN_VERSE	
+7:behemoth	PL.7.p016	7	471	Job 40: 15	b.JOB.40.15	b.JOB.40.15	ok	Behemoth. "A huge biblical beast mentioned in Job 40: 15; in Milton's time this probably referred to an elephant" (Orgel & Goldberg 897).	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+7:names	PL.7.p016	7	493	Genesis 2:19-20	b.GEN.2.19	b.GEN.2.20	ok	gav'st them Names.  See Raphael's account in 6.73-6 and Adam's in 8.342-54.  See also Genesis 2:19-20. 	1.00		
+7:beast	PL.7.p016	7	495	Genesis 3:1	b.GEN.3.1	b.GEN.3.1	ok	suttl'st Beast of all the field.  See Genesis 3:1. 	1.00		
+7:image	PL.7.p017	7	519	Genesis 1:26	b.GEN.1.26	b.GEN.1.26	ok	Let us make now Man in our image.  See Genesis 1:26.  In Genesis, the plural pronoun seems problematic;  Milton removes the problem by havin	1.00		
+7:nostrils	PL.7.p017	7	525	Genesis 2:7	b.GEN.2.7	b.GEN.2.7	ok	in thy nostrils breath'd.  See Genesis 2:7.    	1.00		
+7:fruitful	PL.7.p017	7	531	Genesis 1:28	b.GEN.1.28	b.GEN.1.28	ok	Be fruitful.  See Genesis 1:28. 	1.00		
+7:tree	PL.7.p017	7	542	Genesis 2: 16-17	b.GEN.2.16	b.GEN.2.17	ok	the Tree. The proscription of the Tree of Knowledge and the warning of the death penalty come from Genesis 2: 16-17.	1.00		
+7:Gates	PL.7.p017	7	565	Psalm 24:7	b.PSA.24.7	b.PSA.24.7	ok	ye everlasting Gates.  This closely echoes Psalm 24:7.	1.00		
+7:resting	PL.7.p017	7	592	Genesis 2:2-3	b.GEN.2.2	b.GEN.2.3	ok	Seav'nth day.  See Genesis 2:2-3.     	1.00		
+7:hyaline	PL.7.p017	7	619	Revelation 4: 6	b.REV.4.6	b.REV.4.6	ok	Hyaline. A translation of the Greek word for glassy; also refers to the "sea of glass" in Revelation 4: 6 (Orgel & Goldberg 898).	1.00		
+8:line19	PL.8.p001	8	19	Psalm 147:4	b.PSA.147.4	b.PSA.147.4	ok	numberd.   Intended to mean "numerous," but note the resemblance to Psalm 147:4:  "He telleth the number of stars:  He calleth them by their	1.00	QUOTE_IN_VERSE	
+8:hislaughter	PL.8.p003	8	78	Psalm 2:4	b.PSA.2.4	b.PSA.2.4	ok	His laughter.  See Psalm 2:4.	1.00		
+8:line102	PL.8.p003	8	102	Job 38: 5	b.JOB.38.5	b.JOB.38.5	ok	Line.    In the book of Job, God asks this question concerning the earth: "Who hath laid the measures thereof, if thou knowest?  or who hath	1.00	QUOTE_IN_VERSE	
+8:suttly	PL.8.p004	8	207	Philippians 3:20	b.PHI.3.20	b.PHI.3.20	ok	suttly to detaine thee.  Is Adam being a little coy here, suggesting that the chief reason he offers to tell his story is to keep Raphael ne	1.00		
+8:lips	PL.8.p005	8	218	Psalm 45:2	b.PSA.45.2	b.PSA.45.2	ok	lips ungraceful.  See Psalm 45:2.  Apparently Raphael appreciates Adam's appearance as much as he does his eloquence.	1.00		
+8:fellowservant	PL.8.p005	8	225	Revelation 22:8-9	b.REV.22.8	b.REV.22.9	ok	our fellow servant.   See St. John's report of an angel calling him a "fellowservant" in Revelation 22:8-9.	1.00		
+8:line281	PL.8.p006	8	281	Acts 17:28	b.ACT.17.28	b.ACT.17.28	ok	move and live.    See Acts 17:28.	1.00		
+8:line296	PL.8.p006	8	296	Genesis 2:8	b.GEN.2.8	b.GEN.2.8	ok	Mansion.    A dwelling-place; in this case the garden planted by God in the east of Eden (Genesis 2:8).  See the word used in John 14:2.	1.00		
+8:line296	PL.8.p006	8	296	John 14:2	b.JOH.14.2	b.JOH.14.2	ok	Mansion.    A dwelling-place; in this case the garden planted by God in the east of Eden (Genesis 2:8).  See the word used in John 14:2.	1.00		
+8:line320-328	PL.8.p006	8	324	Genesis 2: 15-17	b.GEN.2.15	b.GEN.2.17	ok	Knowledg.    See  Genesis 2: 15-17.	1.00		
+8:thatdaymortal	PL.8.p006	8	331	Genesis 2:17	b.GEN.2.17	b.GEN.2.17	ok	From that day mortal.  See Genesis 2:17.	1.00		
+8:two	PL.8.p006	8	350	Genesis 2:19-20	b.GEN.2.19	b.GEN.2.20	ok	two and two.  See Genesis 2:19-20 for the story of naming the animals, but note that the phrase "two by two" recalls the story of Noah and h	1.00		
+8:line355	PL.8.p006	8	355	Genesis 2: 20	b.GEN.2.20	b.GEN.2.20	ok	I wanted still.    See Genesis 2: 20.	1.00		
+8:play	PL.8.p008	8	372	Proverbs 8:30	b.PRO.8.30	b.PRO.8.30	ok	play before thee.  See Proverbs 8:30 for a sense of God's notion of entertainment.  See also how Milton uses the passage in Tetrachordon.	1.00		
+8:line379	PL.8.p009	8	379	Genesis 18:30	b.GEN.18.30	b.GEN.18.30	ok	offend thee.    Abraham also feared trying God's patience in Genesis 18:30.	1.00		
+8:beget	PL.8.p010	8	423	John 3:16	b.JOH.3.16	b.JOH.3.16	ok	beget.  This word cannot help but remind us of the Father "begetting" the Son (3.80  and John 3:16), except that, apparently,  Adam does not	1.00		
+8:alone	PL.8.p011	8	445	Genesis 2:18	b.GEN.2.18	b.GEN.2.18	ok	for Man to be alone.  See Genesis 2:18 and Milton's elaborate interpretation of it in Tetrachordon.	1.00		
+8:line466a	PL.8.p012	8	466	Genesis 1:27	b.GEN.1.27	b.GEN.1.27	ok	From thence a rib.    As Mary Nyquist points out ("The Genesis of Gendered Subjectivity in the Divorce Tracts and in Paradise Lost") the poe	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+8:line466a	PL.8.p012	8	466	Genesis 2:7-22	b.GEN.2.7	b.GEN.2.22	ok	From thence a rib.    As Mary Nyquist points out ("The Genesis of Gendered Subjectivity in the Divorce Tracts and in Paradise Lost") the poe	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+8:line495-499	PL.8.p013	8	495	Matthew 19:4-6	b.MAT.19.4	b.MAT.19.6	ok	Bone of my bone.    Matthew 19:4-6 and Mark 10:6-8 both repeat Genesis 2: 23-24, but none of the biblical texts use the word "Self." See  4:	1.00		
+8:line495-499	PL.8.p013	8	495	Mark 10:6-8	b.MAR.10.6	b.MAR.10.8	ok	Bone of my bone.    Matthew 19:4-6 and Mark 10:6-8 both repeat Genesis 2: 23-24, but none of the biblical texts use the word "Self." See  4:	1.00		
+8:line495-499	PL.8.p013	8	495	Genesis 2: 23-24	b.GEN.2.23	b.GEN.2.24	ok	Bone of my bone.    Matthew 19:4-6 and Mark 10:6-8 both repeat Genesis 2: 23-24, but none of the biblical texts use the word "Self." See  4:	1.00		
+8:line508	PL.8.p014	8	508	Hebrews 13:4	b.HEB.13.4	b.HEB.13.4	ok	Honour.   Refers perhaps to Hebrews 13:4:  "Marriage is honorable unto all."  See 7.529-31, and 4.741-47.	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+9:line71	PL.9.p002	9	71	Genesis 2:10	b.GEN.2.10	b.GEN.2.10	ok	Tigris.   According to Josephus (Antiquities 1.1.3) the Tigris is related to the river which "went out of Eden to water the Garden" (Genesis	1.00	QUOTE_IN_VERSE	
+9:barr	PL.9.p002	9	80	Job 38:10	b.JOB.38.10	b.JOB.38.10	ok	barr'd.  Bounded; see this use of the term in Job 38:10.	1.00		
+9:line86	PL.9.p002	9	86	Genesis 3:1	b.GEN.3.1	b.GEN.3.1	ok	Suttlest beast of all.   "The serpent was more subtle than any beast of the field which the Lord made" (Genesis 3:1). 	1.00	QUOTE_IN_VERSE	
+9:satiate	PL.9.p006	9	248	Philippians 3:20	b.PHI.3.20	b.PHI.3.20	ok	satiate.  The idea that Eve could be sated with conjugal conversation, the purpose for which she was created (4.440-49), seems odd.  For his	1.00		
+9:line249	PL.9.p006	9	249	Genesis 2: 18	b.GEN.2.18	b.GEN.2.18	ok	best societie.   A reference to Cicero's comment that Africanus was never so little alone as when he was by himself  (De Republica 1.7.27). 	1.00		
+9:ledeve	PL.9.p023	9	644	Matthew 6:9-13	b.MAT.6.9	b.MAT.6.13	ok	Led Eve.   In Matthew 6:9-13, Jesus teaches his followers how to pray, including the petition "and lead us not into temptation."	1.00	QUOTE_IN_VERSE	
+9:line654	PL.9.p024	9	654	Romans 2:14	b.ROM.2.14	b.ROM.2.14	ok	 Law to ourselves.   Similar to  Paul's remark that virtuous Gentiles  lived outside Hebrew law but were a "law unto themselves" (Romans 2:1	0.50		
+9:line685	PL.9.p028	9	685	Genesis 3:4-5	b.GEN.3.4	b.GEN.3.5	ok	ye shall not Die.  Quotes Genesis 3:4-5: "And the serpent said unto the woman, ye shall not surely die." 	1.00	QUOTE_IN_VERSE	
+9:noontime	PL.9.p029	9	739	Psalm 91:6	b.PSA.91.6	b.PSA.91.6	ok	the hour of Noon.  See Psalm 91:6, and Noonday Demon.	1.00		
+9:agonie	PL.9.p034	9	858	Genesis 3: 16	b.GEN.3.16	b.GEN.3.16	ok	agonie of love.   Milton anticipates Eve's punishment.  According to Genesis 3: 16, Eve's punishment is twofold: pain in childbirth and simu	1.00		
+9:line1058	PL.9.p042	9	1058	Psalm 6:10	b.PSA.6.10	b.PSA.6.10	ok	hee cover'd.   Echoes Psalm 6:10: "Let mine adversaries be clothed with shame."  See also Samson Agonistes 841-42.	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+10:rev4	PL.10.p001	10	33	Revelations 4: 5	b.REV.4.5	b.REV.4.5	ok	in Thunder.   The Bible often represents God's voice as thunder or speaking in thunder or accompanied by thunder (Revelations 4: 5; 1 Samuel	1.00		
+10:rev4	PL.10.p001	10	33	Exodus 19: 9	b.EXO.19.9	b.EXO.19.9	ok	in Thunder.   The Bible often represents God's voice as thunder or speaking in thunder or accompanied by thunder (Revelations 4: 5; 1 Samuel	1.00		
+10:vain	PL.10.p002	10	50	Genesis 2: 17	b.GEN.2.17	b.GEN.2.17	ok	he presumes already vain.  That is, Adam did not die on the day he transgressed as was promised in Genesis 2: 17.  See the Geneva Bible glos	1.00		OTHER_VERSION
+10:vice	PL.10.p002	10	56	Revelation 14: 14	b.REV.14.14	b.REV.14.14	ok	Vicegerent.  The Son can employ the full authority of the Father, and will serve as His deputy in judgement over Adam.  See, for example Rev	1.00		
+10:vice	PL.10.p002	10	56	John 5: 22	b.JOH.5.22	b.JOH.5.22	ok	Vicegerent.  The Son can employ the full authority of the Father, and will serve as His deputy in judgement over Adam.  See, for example Rev	1.00		
+10:pleased	PL.10.p004	10	71	Matthew 3:17	b.MAT.3.17	b.MAT.3.17	ok	well pleas'd.  These words echo the voice of God at Jesus' baptism in Matthew 3:17.  See also Paradise Regain'd 1.282-87.	1.00		
+10:serpent	PL.10.p004	10	84	Genesis 3: 14-15	b.GEN.3.14	b.GEN.3.15	ok	the Serpent.  The Son will judge Adam and Eve; Satan has proved and demonstrated his guilt by fleeing; the serpent, of course, is innocent. 	1.00		
+10:line97	PL.10.p005	10	95	Genesis 3: 8	b.GEN.3.8	b.GEN.3.8	ok	Eevning coole.   Compare to the story in Genesis 3: 8.	1.00		
+10:theecharge	PL.10.p008	10	123	Genesis 3: 11	b.GEN.3.11	b.GEN.3.11	ok	I gave thee charge.   See Genesis 3: 11 for the source of God's statement.	1.00		
+10:herseed	PL.10.p015	10	181	Genesis 3:13-15	b.GEN.3.13	b.GEN.3.15	ok	Her Seed.   See Genesis 3:13-15. Christian theologians call this the protevangelium, or the first expression of the gospel of Jesus Christ a	1.00		
+10:like	PL.10.p016	10	184	Luke 10:18	b.LUK.10.18	b.LUK.10.18	ok	like Lightning.  See Luke 10:18 and the Geneva Bible gloss.	1.00		OTHER_VERSION
+10:airprince	PL.10.p016	10	185	Ephesians 2:2	b.EPH.2.2	b.EPH.2.2	ok	Prince of the Air.   See Ephesians 2:2.	0.67		
+10:principalities	PL.10.p016	10	186	Colossians 2:15	b.COL.2.15	b.COL.2.15	ok	Principalities and Powers.   See Colossians 2:15 and the Geneva Bible notes.	1.00		OTHER_VERSION
+10:captivity	PL.10.p016	10	188	Ephesians 4: 8	b.EPH.4.8	b.EPH.4.8	ok	Captivity led captive.   Echoes Ephesians 4: 8, and in turn Psalm 68:18 and Geneva Bible notes.	1.00		OTHER_VERSION
+10:captivity	PL.10.p016	10	188	Psalm 68:18	b.PSA.68.18	b.PSA.68.18	ok	Captivity led captive.   Echoes Ephesians 4: 8, and in turn Psalm 68:18 and Geneva Bible notes.	1.00		OTHER_VERSION
+10:fatal	PL.10.p016	10	191	Romans 16:20	b.ROM.16.20	b.ROM.16.20	ok	fatal bruise.   See Romans 16:20 in the Geneva Bible version.	1.00		OTHER_VERSION
+10:line208	PL.10.p018	10	208	Genesis 3:17-19	b.GEN.3.17	b.GEN.3.19	ok	to dust returne.   See the Geneva  Genesis 3:17-19.	1.00		OTHER_VERSION
+10:washd	PL.10.p019	10	215	John 13: 5-17	b.JOH.13.5	b.JOH.13.17	ok	when he wash'd.   See John 13: 5-17, where Jesus washes his disciple's feet.	1.00		
+10:robe	PL.10.p019	10	222	Isaiah 61: 10	b.ISA.61.10	b.ISA.61.10	ok	Robe of righteousness.   See Isaiah 61: 10.	1.00		
+10:petros	PL.10.p022	10	294	Matthew 16:18	b.MAT.16.18	b.MAT.16.18	ok	Mace petrific.   This may be a parodic image of the Pope and his symbolic mace; the Pope was often referred to in Latin as Pontifex maximus,	1.00		OTHER_VERSION
+10:inoffensive	PL.10.p022	10	305	Matthew 7: 13-14	b.MAT.7.13	b.MAT.7.14	ok	inoffensive.   With no obstacles.  See also Matthew 7: 13-14.	1.00		
+10:left	PL.10.p022	10	322	Matthew 25: 33	b.MAT.25.33	b.MAT.25.33	ok	on the left hand Hell.   Traditionally, the left hand (in Latin, sinister) side of anything was thought to betoken evil: Sin sprung from Sat	1.00		
+10:quad	PL.10.p023	10	381	Revelation 21: 16	b.REV.21.16	b.REV.21.16	ok	Quadrature.   Heaven here conceived as a square and the created universe as orbs within orbs (orbicular);  see Revelation 21: 16.  In his 17	1.00	QUOTE_IS_MILTON	
+10:bestrong	PL.10.p024	10	409	Deuteronomy 31: 7	b.DEU.31.7	b.DEU.31.7	ok	goe and be strong.   Ironically, Satan is quoting scripture here.  See Deuteronomy 31: 7, 8.	1.00		
+10:unoriginal	PL.10.p026	10	477	Genesis 1.2	b.GEN.1.2	b.GEN.1.2	ok	unoriginal.   Orgel and Goldberg (910n) gloss this word as "Eternal, without any origin" following the OED.  Flannagan  detects quite an opp	1.00	QUOTE_IN_VERSE	OTHER_VERSION
+10:unoriginal	PL.10.p026	10	477	Genesis 1: 5	b.GEN.1.5	b.GEN.1.5	ok	unoriginal.   Orgel and Goldberg (910n) gloss this word as "Eternal, without any origin" following the OED.  Flannagan  detects quite an opp	1.00	QUOTE_IS_MILTON	
+10:dragongrown	PL.10.p027	10	529	Revelation 12:7-9	b.REV.12.7	b.REV.12.9	ok	Dragon.   See Revelation 12:7-9.	1.00		
+10:blake	PL.10.p027	10	562	Deuteronomy 32: 32	b.DEU.32.32	b.DEU.32.32	ok	that bituminous Lake.   The Dead Sea; Sodom, the notorious city of vicious pleasures, was on the Dead Sea before it was destroyed by God; se	1.00		
+10:body	PL.10.p027	10	587	Romans 6: 6	b.ROM.6.6	b.ROM.6.6	ok	now in body.  The distinction between being there in "actual" power and "in body" may owe something to Paul's phrase "body of sin" in Romans	1.00		
+10:horse	PL.10.p027	10	590	Revelation 6: 8	b.REV.6.8	b.REV.6.8	ok	pale Horse.   See Revelation 6: 8.	1.00		
+10:inman	PL.10.p030	10	607	James 1:15	b.JAM.1.15	b.JAM.1.15	ok	I in Man residing.   That is, Sin living in human beings and so congenitally infecting them.  The image certainly encourages the idea that w	1.00		
+10:line642	PL.10.p033	10	643	Revelation 19: 6	b.REV.19.6	b.REV.19.6	ok	multitude.   See Revelation 19: 6.	1.00		
+10:descend	PL.10.p033	10	648	Revelation 21: 10	b.REV.21.10	b.REV.21.10	ok	from Heav'n descend.   See Revelation 21: 10, where Jerusalem, the holy city, descends from the Heavens.	1.00		
+10:troubld	PL.10.p033	10	718	Isaiah 57: 20	b.ISA.57.20	b.ISA.57.20	ok	troubl'd Sea.   See Isaiah 57: 20.	1.00		
+10:increase	PL.10.p034	10	730	Genesis 1: 28	b.GEN.1.28	b.GEN.1.28	ok	Encrease and multiply.   See Genesis 1: 28.	1.00		
+10:maker	PL.10.p034	10	743	Isaiah 45: 9	b.ISA.45.9	b.ISA.45.9	ok	Maker.   See Isaiah 45: 9.  Adam's sense of injustice mixes uneasily with his expressions of ingratitude.	1.00		
+10:beget	PL.10.p034	10	762	Isaiah 45: 10	b.ISA.45.10	b.ISA.45.10	ok	beget.   See Isaiah 45: 10.  1674 has no end-of-line punctuation; 1667 has a colon.	1.00		
+10:fixedday	PL.10.p034	10	773	Genesis 3: 3	b.GEN.3.3	b.GEN.3.3	ok	Fixd on this day.   See Genesis 3: 3 for God's injunction.	1.00		
+10:mate	PL.10.p036	10	899	Genesis 2:18	b.GEN.2.18	b.GEN.2.18	ok	fit Mate.   A translation of "help meet" from Genesis 2:18.  See also Doctrine and Discipline of Divorce 1.2 and 1.3.	1.00		
+10:tresses	PL.10.p037	10	911	Luke 7:38	b.LUK.7.38	b.LUK.7.38	ok	tresses all disorderd.   Eve seems genuinely repentant, with her gentle words and supplication to Adam.  Compare to Adam's unrighteous anger	1.00		
+10:fruit	PL.10.p043	10	1053	Luke 1: 42	b.LUK.1.42	b.LUK.1.42	ok	Fruit of thy Womb.   The phrase echoes Luke 1: 42.	1.00		
+11:seat	PL.11.p001	11	2	Exodus 25:17-22	b.EXO.25.17	b.EXO.25.22	ok	Mercie-seat.  Originally a particular construction placed above the ark of the covenant; see Exodus 25:17-22.  Later a specific place in Sol	1.00		
+11:flesh	PL.11.p001	11	4	Ezekiel 11:19	b.EZE.11.19	b.EZE.11.19	ok	new flesh.  Milton conflates (in a perfectly orthodox fashion) Ezekiel 11:19 with the Christian doctrine of new birth in 2 Corinthians 5:17.	1.00		
+11:groan	PL.11.p001	11	6	Romans 8:26	b.ROM.8.26	b.ROM.8.26	ok	Unutterable.  Romans 8:26 (Geneva) describes how "the Spirit" intercedes for sinners with "groans unutterable."  John Bunyan used this passa	1.00		OTHER_VERSION
+11:incense	PL.11.p001	11	18	Ezekiel 20:41	b.EZE.20.41	b.EZE.20.41	ok	incense.  See Ezekiel 20:41 and Revelation 8:3-5 for similar images of oblations and prayers as incense.	1.00		
+11:incense	PL.11.p001	11	18	Revelation 8:3-5	b.REV.8.3	b.REV.8.5	ok	incense.  See Ezekiel 20:41 and Revelation 8:3-5 for similar images of oblations and prayers as incense.	1.00		
+11:priest	PL.11.p002	11	25	Hebrews 7:25-28	b.HEB.7.25	b.HEB.7.28	ok	Priest.  Milton may refer to Hebrews 7:25-28, where Paul describes Jesus' unique priesthood.	1.00		
+11:advocate	PL.11.p002	11	33	1 John 2:1-2	b.1JO.2.1	b.1JO.2.2	ok	Advocate.  Echoes 1 John 2:1-2.	1.00		
+11:one	PL.11.p002	11	44	John 17:20-23	b.JOH.17.20	b.JOH.17.23	ok	Made one with me.  Milton imagines that the Son has always, even from Adam's day, been an intercessor between man and God, and that the act 	1.00		
+11:cloud	PL.11.p003	11	45	Exodus 16:10	b.EXO.16.10	b.EXO.16.10	ok	without Cloud.  In the Hebrew Bible, God is often said to appear in a cloud, as in Exodus 16:10, but the Son, in Milton's poem, sees God dir	1.00		
+11:trumpet	PL.11.p004	11	74	Exodus 19:14-19	b.EXO.19.14	b.EXO.19.19	ok	Trumpet.  See Exodus 19:14-19.	1.00		
+11:descended	PL.11.p004	11	75	Exodus 20:18	b.EXO.20.18	b.EXO.20.18	ok	When God descended.  When Moses is said to have received the law on Sinai (Oreb); see Exodus 20:18.  See also 1 Thessalonians 4:16.	1.00		
+11:oncemore	PL.11.p004	11	75	Hebrews 12:24-29	b.HEB.12.24	b.HEB.12.29	ok	perhaps once more.  See Hebrews 12:24-29.	1.00		
+11:one2	PL.11.p005	11	84	Genesis 3:22	b.GEN.3.22	b.GEN.3.22	ok	like one of us.  The Father addresses the angels, which offers to account for the use of the plural "us" here and in Genesis 3:22.	1.00		
+11:sword	PL.11.p006	11	120	Genesis 3:24	b.GEN.3.24	b.GEN.3.24	ok	Sword.  See Genesis 3:24.	1.00		
+11:janus	PL.11.p007	11	129	Ezekiel 10:14	b.EZE.10.14	b.EZE.10.14	ok	double Janus.  Since a Janus is a two-faced figure often found on Roman gates, a double Janus would be four-faced; perhaps the cherubs' flam	1.00		
+11:fear	PL.11.p007	11	139	Proverbs 1:7	b.PRO.1.7	b.PRO.1.7	ok	with fear.  See Proverbs 1:7.	1.00		
+11:gift	PL.11.p008	11	142	James 1:17	b.JAM.1.17	b.JAM.1.17	ok	from Heav'n.  See James 1:17.	1.00		
+11:bend	PL.11.p008	11	152	Psalm 17:6	b.PSA.17.6	b.PSA.17.6	ok	Bending his eare.  See Psalm 17:6.	1.00		
+11:hail	PL.11.p008	11	158	Luke 1:28	b.LUK.1.28	b.LUK.1.28	ok	Haile.  Echoes Gabriel's address to Mary in Luke 1:28.  See also 5.385-387.	1.00		
+11:mother	PL.11.p008	11	159	Genesis 3:20	b.GEN.3.20	b.GEN.3.20	ok	Mother of all Mankind.  See Genesis 3:20.	1.00		
+11:snare	PL.11.p009	11	165	Genesis 2:18	b.GEN.2.18	b.GEN.2.18	ok	snare.  See "snare" in Samson Agonistes  230 and A Mask 164.  For Milton's gloss of Genesis 2:18, see Tetrachordon.	1.00		
+11:dust	PL.11.p011	11	199	Genesis 3:19	b.GEN.3.19	b.GEN.3.19	ok	dust. See Genesis 3:19.	1.00		
+11:jasper	PL.11.p012	11	209	Revelation 4:3	b.REV.4.3	b.REV.4.3	ok	Skie of Jasper. See Revelation 4:3.	1.00		
+11:jacob	PL.11.p012	11	214	Genesis 32:1-2	b.GEN.32.1	b.GEN.32.2	ok	Jacob in Mahanaim.  See Genesis 32:1-2; Machanayim is Hebrew for "the place of the angel army."	1.00	QUOTE_IN_VERSE	
+11:behid	PL.11.p019	11	316	Genesis 3:8-10	b.GEN.3.8	b.GEN.3.10	ok	shall be hid.  This theme of hiding from God appears in Genesis 3:8-10.  Psalm 104:29-31 speaks of the face of God sometimes hidden.  See al	1.00		
+11:behid	PL.11.p019	11	316	Psalm 104:29-31	b.PSA.104.29	b.PSA.104.31	ok	shall be hid.  This theme of hiding from God appears in Genesis 3:8-10.  Psalm 104:29-31 speaks of the face of God sometimes hidden.  See al	1.00		
+11:express	PL.11.p020	11	354	Hebrews 1:3	b.HEB.1.3	b.HEB.1.3	ok	Express.  See Hebrews 1:3.	1.00		
+11:visions	PL.11.p021	11	377	Ezekiel 40:2	b.EZE.40.2	b.EZE.40.2	ok	Visions of God.  See Ezekiel 40:2.	1.00		
+11:second	PL.11.p021	11	383	Matthew 4:8	b.MAT.4.8	b.MAT.4.8	ok	second Adam.  That is, Jesus; see Matthew 4:8, Luke 4:5, and Paradise Regain'd 3.251 and following.	1.00		
+11:second	PL.11.p021	11	383	Luke 4:5	b.LUK.4.5	b.LUK.4.5	ok	second Adam.  That is, Jesus; see Matthew 4:8, Luke 4:5, and Paradise Regain'd 3.251 and following.	1.00		
+11:film	PL.11.p021	11	412	Acts 9:18	b.ACT.9.18	b.ACT.9.18	ok	Filme remov'd.  Many epic heroes underwent ritualistic eye-cleaning.  See Homer's Iliad 5.127, Virgil's Aeneid 2.604, Tasso's Jerusalem Deli	1.00		
+11:fruits	PL.11.p023	11	435	Exodus 23:19	b.EXO.23.19	b.EXO.23.19	ok	First Fruits.  See Exodus 23:19.	1.00		
+11:meek	PL.11.p023	11	437	Matthew 5: 5	b.MAT.5.5	b.MAT.5.5	ok	meek.   Milton views meekness as a positive quality in men.  See Raphael in 8.217 and the Son in Paradise Regain'd 4.401, 636.  See also Mat	1.00		
+11:lazar	PL.11.p027	11	479	Luke 16:19-31	b.LUK.16.19	b.LUK.16.31	ok	Lazar-house.  Hospital for incurably ill and infectious patients, especially lepers. The name derives from the story of the rich man and Laz	1.00		
+11:Hymen	PL.11.p034	11	591	Genesis 2:18-24	b.GEN.2.18	b.GEN.2.24	ok	Hymen.  Milton says that marriage was instituted in Paradise before the fall, coincident with the creation of Eve; see 8.484-499  and Genesi	1.00		
+11:bent	PL.11.p034	11	597	Genesis 2:23	b.GEN.2.23	b.GEN.2.23	ok	bent of Nature.  Adam ascribes his decision to disobey God to the "bent" or "bond" or "link"; see 9.914 and 9.956.    Apparently, "bone of m	1.00	QUOTE_IN_VERSE	
+11:bent	PL.11.p034	11	597	Ephesians 5:31-32	b.EPH.5.31	b.EPH.5.32	ok	bent of Nature.  Adam ascribes his decision to disobey God to the "bent" or "bond" or "link"; see 9.914 and 9.956.    Apparently, "bone of m	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+11:thosetents	PL.11.p036	11	607	Genesis 4:20	b.GEN.4.20	b.GEN.4.20	ok	Those tents.  Genesis 4:20 describes Adam's four-times-great-grandson, Jabal, the "father of such as dwell in tents."	1.00	QUOTE_IN_VERSE	
+11:tents	PL.11.p036	11	608	Psalm 84:10	b.PSA.84.10	b.PSA.84.10	ok	Of wickedness.  See Psalm 84:10.	1.00		
+11:giants	PL.11.p039	11	642	Genesis 6:4	b.GEN.6.4	b.GEN.6.4	ok	Giants.  See Genesis 6:4.	1.00		
+11:one3	PL.11.p039	11	665	Genesis 5:21-24	b.GEN.5.21	b.GEN.5.24	ok	one rising, eminent.  Enoch, the first of the "One Just Man" (line 681 below) heroes Milton lists.  Enoch, according to Genesis 5:21-24 (Gen	1.00		OTHER_VERSION
+11:one3	PL.11.p039	11	665	Hebrews 11:5	b.HEB.11.5	b.HEB.11.5	ok	one rising, eminent.  Enoch, the first of the "One Just Man" (line 681 below) heroes Milton lists.  Enoch, according to Genesis 5:21-24 (Gen	1.00		
+11:giants2	PL.11.p040	11	688	Genesis 6:4	b.GEN.6.4	b.GEN.6.4	ok	Giants.  See Genesis 6:4.	1.00		
+11:seventh	PL.11.p040	11	700	Jude 1:14	b.JUD.1.14	b.JUD.1.14	ok	the seventh from thee.  That is, the seventh generation, or Enoch; see Jude 1:14.	1.00		
+11:noah	PL.11.p041	11	719	Genesis 6:9	b.GEN.6.9	b.GEN.6.9	ok	Reverend Sire.  Noah, the second in Milton's line of solitary Just Men.  The story of Noah begins in Genesis 6:9 and ends in chapter 9.  Mil	1.00		
+11:sevens	PL.11.p041	11	735	Genesis 7:2	b.GEN.7.2	b.GEN.7.2	ok	seavens, and pairs.  See Genesis 7:2.	1.00		
+11:enough	PL.11.p042	11	766	Matthew 6:34	b.MAT.6.34	b.MAT.6.34	ok	Anough to bear.  Echoes Matthew 6:34.	1.00		
+11:windows	PL.11.p043	11	849	Genesis 8:2	b.GEN.8.2	b.GEN.8.2	ok	Heav'n his windows.  See Genesis 8:2.	1.00		
+11:Bow	PL.11.p043	11	865	Genesis 8:21	b.GEN.8.21	b.GEN.8.21	ok	Bow.  The rainbow.  See Genesis 8:21 and 9:8-17.	1.00		
+12:nimrod	PL.12.p002	12	33	Genesis 10: 9	b.GEN.10.9	b.GEN.10.9	ok	mightie Hunter.  This is Nimrod, styled in Genesis 10: 9 as "a mighty hunter before the Lord."  See also the Geneva glosses about Nimrod.  F	1.00	QUOTE_IN_VERSE	
+12:name	PL.12.p002	12	45	Genesis 11: 4	b.GEN.11.4	b.GEN.11.4	ok	a name.  See Genesis 11: 4.  Michael never mentions either Nimrod or Babel by name.	1.00		
+12:derision	PL.12.p002	12	52	Psalm 2:4	b.PSA.2.4	b.PSA.2.4	ok	in derision.  This locution echoes Psalm 2:4.	1.00		
+12:confusion	PL.12.p002	12	62	Genesis 11:9	b.GEN.11.9	b.GEN.11.9	ok	Confusion.  The word "Babel" appears in Genesis 11:9, and comes from the Hebrew root  בָּלַל which translates literally as "confusion." In B	1.00		
+12:irreverent	PL.12.p004	12	101	Genesis 9: 20-27	b.GEN.9.20	b.GEN.9.27	ok	irreverent Son.  That is, Ham (father of Canaan), Noah's youngest son, punished by God for uncovering his father's nakedness (Genesis 9: 20-	1.00		
+12:peculiar	PL.12.p004	12	111	Deuteronomy 7: 6	b.DEU.7.6	b.DEU.7.6	ok	one peculiar Nation.  Israel; see Deuteronomy 7: 6 and 14:2.	1.00		
+12:faithful	PL.12.p004	12	113	Genesis 17: 5	b.GEN.17.5	b.GEN.17.5	ok	one faithful man.  Abraham; see Genesis 17: 5.	1.00		
+12:Bred	PL.12.p004	12	115	Joshua 24:2	b.JOS.24.2	b.JOS.24.2	ok	Bred up in Idol-worship.  See Joshua 24:2.	1.00		
+12:believes	PL.12.p004	12	127	Hebrews 11: 8	b.HEB.11.8	b.HEB.11.8	ok	believes.  Hebrews 11: 8 insists that Abraham was blessed by God because of his faith.  So also did Paul in Romans 4:1-3.  Paul and others t	1.00		
+12:believes	PL.12.p004	12	127	Romans 4:1-3	b.ROM.4.1	b.ROM.4.3	ok	believes.  Hebrews 11: 8 insists that Abraham was blessed by God because of his faith.  So also did Paul in Romans 4:1-3.  Paul and others t	1.00		
+12:ur	PL.12.p004	12	130	Genesis 11:28-32	b.GEN.11.28	b.GEN.11.32	ok	Ur of Chaldaea. Ur was once a city near the mouth of the Euphrates River on the Persian Gulf in what is now Iraq. Genesis 11:28-32 identifie	0.00		HEAD_NOT_IN_PARAGRAPH
+12:sechem	PL.12.p004	12	136	Genesis 33:18	b.GEN.33.18	b.GEN.33.18	ok	Sechem.  Shechem was a Canaanite city first mentioned in Genesis 33:18.	1.00		
+12:Moreh	PL.12.p004	12	137	Genesis 12: 6	b.GEN.12.6	b.GEN.12.6	ok	Moreh.  See Genesis 12: 6. Now the plains of Lower Galilee in northern Israel.	1.00		
+12:hamath	PL.12.p004	12	139	Numbers 34:8	b.NUM.34.8	b.NUM.34.8	ok	Hamath.  Hama, a city now located in west central Syria on the Orontes River. See also Numbers 34:8 where Hamath is mentioned as a landmark 	1.00		
+12:Senir	PL.12.p004	12	146	Deuteronomy 3:9	b.DEU.3.9	b.DEU.3.9	ok	Senir.  The Geneva glosses identify Shenir as Mount Hermon.  See also Deuteronomy 3:9 and 1 Chronicles 5:23.	1.00		OTHER_VERSION
+12:line146	PL.12.p004	12	146	Numbers 34: 1-12	b.NUM.34.1	b.NUM.34.12	ok	ridge of Hills.  The description of the boundaries of the "promised land" is found in Numbers 34: 1-12.	1.00		
+12:Seed	PL.12.p004	12	148	Genesis 12: 1-3	b.GEN.12.1	b.GEN.12.3	ok	that Seed.  Here Milton, like most Christian interpreters of the Bible, identifies the promise made to Abraham in Genesis 12: 1-3 with the c	1.00		
+12:Seed	PL.12.p004	12	148	Genesis 3: 15	b.GEN.3.15	b.GEN.3.15	ok	that Seed.  Here Milton, like most Christian interpreters of the Bible, identifies the promise made to Abraham in Genesis 12: 1-3 with the c	1.00		
+12:twelve	PL.12.p004	12	155	Genesis 35: 10	b.GEN.35.10	b.GEN.35.10	ok	twelve Sons.  The twelve sons of Jacob (renamed Israel in Genesis 35: 10) are the patriarchs of the twelve tribes of Israel (Genesis 35: 22-	1.00		
+12:twelve	PL.12.p004	12	155	Genesis 35: 22-26	b.GEN.35.22	b.GEN.35.26	ok	twelve Sons.  The twelve sons of Jacob (renamed Israel in Genesis 35: 10) are the patriarchs of the twelve tribes of Israel (Genesis 35: 22-	1.00		
+12:sequent	PL.12.p004	12	165	Exodus 1: 8	b.EXO.1.8	b.EXO.1.8	ok	sequent King.  A later Pharaoh who forgets Joseph and fears the growth of the Israelites; see Exodus 1: 8 and the chapters that follow.	1.00		
+12:infant	PL.12.p004	12	168	Exodus 1: 15-16	b.EXO.1.15	b.EXO.1.16	ok	kills thir infant Males.  See Exodus 1: 15-16.  For a comparison between Pharaoh and Charles I, see Eikonoklastes 14.	1.00		
+12:dragon	PL.12.p004	12	191	Ezekiel 29: 3	b.EZE.29.3	b.EZE.29.3	ok	River-dragon.  That is, Pharaoh; see Ezekiel 29: 3.	1.00		
+12:christal	PL.12.p004	12	197	Psalm 136:49-50	b.PSA.136.49	b.PSA.136.49	NO_SUCH_VERSE	christal walls.  The story is in Exodus 14, but Milton's diction recalls his translation of Psalm 136:49-50.	1.00		NO_SUCH_VERSE
+12:present	PL.12.p004	12	201	Exodus 33: 2-4	b.EXO.33.2	b.EXO.33.4	ok	present in his Angel.  That is, God does not present himself to Moses as he once did to Adam (8.295ff), but as here and in book 11, is only 	1.00		
+12:line204	PL.12.p004	12	205	Exodus 13: 21	b.EXO.13.21	b.EXO.13.21	ok	th'obdurat King.  See Exodus 13: 21.  The obdurate (hard-hearted) king is Pharaoh.	0.50		
+12:readiest	PL.12.p004	12	216	Exodus 13:17-18	b.EXO.13.17	b.EXO.13.18	ok	not the readiest way. See Exodus 13:17-18. 	1.00		
+12:line222	PL.12.p004	12	222	Exodus 13: 17-18	b.EXO.13.17	b.EXO.13.18	ok	Armes.  Milton's complicated syntax appears basically to render the explanation in Exodus 13: 17-18, with perhaps the added suggestion that 	1.00		
+12:Senate	PL.12.p004	12	225	Exodus 24: 1-9	b.EXO.24.1	b.EXO.24.9	ok	great Senate.  Moses, Aaron, and the seventy elders that constituted their political and religious organization.  See Exodus 24: 1-9 and Num	1.00		
+12:Senate	PL.12.p004	12	225	Numbers 11: 16-30	b.NUM.11.16	b.NUM.11.30	ok	great Senate.  Moses, Aaron, and the seventy elders that constituted their political and religious organization.  See Exodus 24: 1-9 and Num	1.00		
+12:dreadful	PL.12.p004	12	236	Exodus 20: 19	b.EXO.20.19	b.EXO.20.19	ok	dreadful.  See Exodus 20: 19.	1.00		
+12:Tabernacle	PL.12.p004	12	247	Exodus 33: 9	b.EXO.33.9	b.EXO.33.9	ok	Tabernacle.  The Tabernacle, according to Exodus, was the portable dwelling of the spirit of God and his laws.  See Exodus 33: 9, and for an	1.00		
+12:Tabernacle	PL.12.p004	12	247	Exodus 25:5	b.EXO.25.5	b.EXO.25.5	ok	Tabernacle.  The Tabernacle, according to Exodus, was the portable dwelling of the spirit of God and his laws.  See Exodus 33: 9, and for an	1.00		OTHER_VERSION
+12:stand	PL.12.p004	12	263	Joshua 10: 12-14	b.JOS.10.12	b.JOS.10.14	ok	stand still.  See Joshua 10: 12-14.	1.00		
+12:line267	PL.12.p004	12	267	Genesis 32: 28	b.GEN.32.28	b.GEN.32.28	ok	Israel.  Jacob, son of Isaac, son of Abraham (originally Abram).  See Genesis 32: 28.	1.00		
+12:inwhom	PL.12.p005	12	277	Genesis 22:18	b.GEN.22.18	b.GEN.22.18	ok	in whom.  That is, Abraham; see the promise made to Abraham in Genesis 22:18.	1.00		
+12:bloodofbulls	PL.12.p006	12	292	Hebrews 10:1-4	b.HEB.10.1	b.HEB.10.4	ok	bloud of Bulls.  See Hebrews 10:1-4. The "bloud more precious" of the following line echoes 1 Peter 1:18-20.	1.00		
+12:Seed2	PL.12.p006	12	327	Luke 3: 23-38	b.LUK.3.23	b.LUK.3.38	ok	the Womans Seed.  Two gospel accounts trace Jesus' lineage to or from David; see Matthew 1 and Luke 3: 23-38.	1.00		
+12:astarr	PL.12.p006	12	360	Matthew 2:1-2	b.MAT.2.1	b.MAT.2.2	ok	a Starr. See Matthew 2:1-2.	1.00		
+12:Eastern	PL.12.p006	12	362	Matthew 2: 11	b.MAT.2.11	b.MAT.2.11	ok	Eastern Sages.  The so-called Wise Men or Magi; see Matthew 2: 11.	1.00		
+12:Power	PL.12.p006	12	369	Luke 1: 35	b.LUK.1.35	b.LUK.1.35	ok	Power of the most High.  See Luke 1: 35.	1.00		
+12:Haile	PL.12.p008	12	379	Luke 1: 31-35	b.LUK.1.31	b.LUK.1.35	ok	Virgin Mother, Haile.  See Luke 1: 31-35.  See also 5.385-389 when Raphael greets Eve.	1.00		
+12:works	PL.12.p009	12	394	1 John 3: 8	b.1JO.3.8	b.1JO.3.8	ok	his works.  See 1 John 3: 8.	1.00		
+12:curseddeath	PL.12.p009	12	406	Galatians 3:13-14	b.GAL.3.13	b.GAL.3.14	ok	cursed death.  Crucifixion was considered by ancient Jews to be a form of damnation; the Romans considered it a punishment fit only for slav	1.00		
+12:own	PL.12.p009	12	414	Luke 23: 13-24	b.LUK.23.13	b.LUK.23.24	ok	By his own Nation.  Here Milton participates in one of the more persistent anti-Jewish slurs in his day, that Jews, not Romans, nailed Jesus	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+12:own	PL.12.p009	12	414	John 19: 12-18	b.JOH.19.12	b.JOH.19.18	ok	By his own Nation.  Here Milton participates in one of the more persistent anti-Jewish slurs in his day, that Jews, not Romans, nailed Jesus	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+12:own	PL.12.p009	12	414	Mark 15: 6-25	b.MAR.15.6	b.MAR.15.25	ok	By his own Nation.  Here Milton participates in one of the more persistent anti-Jewish slurs in his day, that Jews, not Romans, nailed Jesus	1.00	QUOTE_NEITHER	QUOTE_NOT_IN_CITED_VERSE
+12:henails	PL.12.p009	12	415	Colossians 2:10-14	b.COL.2.10	b.COL.2.14	ok	he nailes.  See Colossians 2:10-14. Michael refers to "the Law" as Adam's "Enemies."	1.00		
+12:Starres	PL.12.p009	12	422	Job 38: 7	b.JOB.38.7	b.JOB.38.7	ok	Starres of Morn.  The phrase echoes to Job 38: 7.	1.00		
+12:Faith	PL.12.p009	12	449	Galatians 3:7	b.GAL.3.7	b.GAL.3.7	ok	Sons/ Of Abrahams Faith.  The Sons of Abraham's faith, as opposed to sons of Abraham's loins, would be Gentiles converted to Christianity, a	1.00		
+12:aire	PL.12.p009	12	454	Ephesians 2:2	b.EPH.2.2	b.EPH.2.2	ok	Prince of aire.  The Geneva glosses to Ephesians 2:2, identify "the prince of the power of the air" as Satan.	1.00	QUOTE_IN_VERSE	OTHER_VERSION
+12:Whether	PL.12.p009	12	463	Revelation 21:1	b.REV.21.1	b.REV.21.1	ok	Whether in Heav'n or Earth.  Will the  faithful be rewarded with bliss in a new earth or in heaven?  See the Geneva comments on Revelation 2	1.00		OTHER_VERSION
+12:abound	PL.12.p011	12	478	Romans 5: 20	b.ROM.5.20	b.ROM.5.20	ok	grace shall abound.  The phrase echoes Romans 5: 20.	1.00		
+12:Comforter	PL.12.p012	12	486	John 15: 26	b.JOH.15.26	b.JOH.15.26	ok	Comforter.  See John 15: 26 where the Comforter is referred to as "the Spirit of truth."	1.00	QUOTE_IN_VERSE	
+12:lawoffaith	PL.12.p012	12	488	Romans 3:23-31	b.ROM.3.23	b.ROM.3.31	ok	Law of Faith.  Given the opposition Michael has already established between "the Law" and faith, this locution sounds almost oxymoronic, but	1.00		
+12:Armour	PL.12.p012	12	491	Ephesians 6: 11-17	b.EPH.6.11	b.EPH.6.17	ok	spiritual Armour.  See Ephesians 6: 11-17 and Spenser's Redcrosse Knight in The Faerie Queene 1.	1.00		
+12:alltongues	PL.12.p012	12	501	Mark 16:14-20	b.MAR.16.14	b.MAR.16.20	ok	all Tongues.  See the words of the risen Jesus reported in Mark 16:14-20, and the account of the spiritual miracle of all languages in Acts 	1.00		
+12:grievous	PL.12.p012	12	508	Acts 20: 29	b.ACT.20.29	b.ACT.20.29	ok	grievous Wolves.  See Acts 20: 29 and "Lycidas" 128.	1.00		
+12:Spirit	PL.12.p012	12	533	John 4: 23	b.JOH.4.23	b.JOH.4.23	ok	Spirit and Truth.  See John 4: 23.	1.00		
+12:groaning	PL.12.p012	12	539	Romans 8: 22	b.ROM.8.22	b.ROM.8.22	ok	groaning.   The phrase echoes  Romans 8: 22.	1.00		
+12:feare	PL.12.p013	12	562	Psalm 111: 10	b.PSA.111.10	b.PSA.111.10	ok	feare.  See Psalm 111: 10.	1.00		
+12:Merciful	PL.12.p013	12	565	Psalm 145: 9	b.PSA.145.9	b.PSA.145.9	ok	Merciful.  Psalm 145: 9.	1.00		
+12:overcoming	PL.12.p013	12	566	Romans 12: 21	b.ROM.12.21	b.ROM.12.21	ok	overcoming evil.  Romans 12: 21.	1.00		

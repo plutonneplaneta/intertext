@@ -1,0 +1,99 @@
+record_id	has_bridge	bridge_type	thresholds_used	has_bridge_anchored	shared_rare_lemmas	shared_bigrams	anchored_evidence
+R001	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	brood		
+R002	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1		hid noth	hid noth
+R003	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		happ stat,impiou war	
+R004	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R005	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	obliuiou		
+R006	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R007	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		shad high	
+R008	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R009	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R010	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	brittl,considerat	ran purpl,summer day	
+R011	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	abomination,adoni,astart,brittl,brut,dorian,emperor,ezekiel	burst for,human sacrific	
+R012	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	architect,rifl		
+R013	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		angr iou,pour for,summer day	
+R014	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	belu	stat high	
+R015	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	penanc		
+R016	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R017	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	arbitrar	hurl headlong,imperial power	
+R018	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		dusk cloud	
+R019	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	damn,disgorg,forlorn,labyrin	rag fir	
+R020	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	antagonist	dea liu	
+R021	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	antagonist,inclination,licha,period,prouidenc	rag fir	
+R022	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	antagonist,inclination,licha,period,prouidenc	rag fir	licha
+R023	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	acheron,cocytu,prouidenc		
+R024	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R025	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	dolorou,pythian	water fli	
+R026	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	dolorou,pythian	water fli	
+R027	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	dolorou,pythian	water fli	
+R028	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	acheron,cocytu,irksom		
+R029	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	calabria,laplan,witch	either sid,laplan witch,right han	calabria
+R030	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		either sid,hell explor	
+R031	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	calabria,laplan,witch	either sid,laplan witch,right han	
+R032	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	atom,consistenc,harsh,lighter,moist,recoil,torri		
+R033	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		wid benea	
+R034	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	calmer,whirlpool	argo pass	whirlpool
+R035	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	reuisit,soiourn,stea		
+R036	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	thamyri		thamyri
+R037	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	andromeda,brightnes,splendor	radiant light	
+R038	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	assyrian,entwin,immortalit,mirror,tuft,unadorn,usher		
+R039	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	assyrian,bush,chew,enna,pearl,unadorn		enna
+R040	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	bush,daphn,eastwar,gran,impli,pearl,pendant,simplicit	eternal spr,liu creatur,open fiel	daphn
+R041	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	assyrian,bush,compliant,daphn,pearl,pendant,ruminat,tendril		
+R042	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	hyacinthin,umbrageou	hyacinthin lock	hyacinthin,hyacinthin lock
+R043	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	barr,bowr,disheuel,entwin,grot,oront	myrtl crown	
+R044	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R045	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		superior lou	
+R046	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	adoration,patriarch		
+R047	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1		golden scal	golden scal
+R048	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R049	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R050	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R051	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R052	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R053	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		gau way,open wid	
+R054	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R055	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	alcinou		alcinou
+R056	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R057	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R058	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	twixt		
+R059	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		mortal woun	
+R060	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R061	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	impair		
+R062	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	rhodop		
+R063	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		first began	
+R064	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	listn		
+R065	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	dreg	turn roun	
+R066	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	bush,ferment,humi,unadorn,unsight	brought for,god saw,great mother	
+R067	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	calu,clod,equalit,omnipotent	cam for,creep thing,liu creatur,tawn lion	calu,clod
+R068	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	calu,clod,equalit,omnipotent	cam for,creep thing,liu creatur,tawn lion	
+R069	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R070	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R071	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	slumbr,tragic		
+R072	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1		stern achill	stern achill
+R073	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	caparison,unsung		
+R074	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	distast,sewer,uenial,unblam		
+R075	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	slumbr		
+R076	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	coniugal		
+R077	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	speciou		
+R078	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	adoni,anno,feminin,permission,pomona,uertumnu		pomona,uertumnu
+R079	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	abstract,bush,proserpina,riuulet	tim remain	proserpina
+R080	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	alcinou	sinc first	alcinou
+R081	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	hermion,illyria		illyria
+R082	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	carbuncl,epidauru,scipio		epidauru
+R083	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	fraudulent		
+R084	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R085	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R086	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	entwin		
+R087	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	heathen,pythian,python,slim	clos follow,grown larger,open fiel	pythian,python
+R088	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	bluster,euru,tropic	twic ten	
+R089	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	pyrrha		pyrrha
+R090	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	ianu		
+R091	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R092	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R093	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	1	film		film
+R094	0	none	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0			
+R095	1	bigram	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0		eye appear	
+R096	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	moist		
+R097	1	rare_lemma	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	abat,clamor,whereon		
+R098	1	both	rare_lemma:len>=4,df_src<=5/75 units,df_PL<=15/368 paras; bigram:adjacent non-stop stems	0	attain,entr	law ordain	

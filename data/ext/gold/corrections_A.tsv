@@ -1,0 +1,12 @@
+note	ref_text	action	field	old	new	evidence
+7:greatlights	Genesis 1:16-8	set	verse_last	b.GEN.1.16	b.GEN.1.18	ref_text literal «1:16-8»: сокращённая запись диапазона 16-18
+7:reptile	Genesis 1:20-5	set	verse_last	b.GEN.1.20	b.GEN.1.25	ref_text literal «1:20-5»: сокращённая запись диапазона 20-25
+6:isolation	Genesis 18: 20-19	set	verse_last	b.GEN.18.20	b.GEN.18.20	конец диапазона «20-19» не разбирается (перекрёстная глава); оставлен только первый стих
+12:christal	Psalm 136:49-50	drop	*			в примечании: «his translation of Psalm 136:49-50» -- перевод Мильтона, в KJV Пс. 136 содержит 26 стихов
+9:line1058	Psalm 6:10	set	verse_first	b.PSA.6.10	b.PSA.109.29	цитата «Let mine adversaries be clothed with shame» дословно в Пс. 109:29 (KJV); Пс. 6:10 -- другой текст
+9:line1058	Psalm 6:10	set	verse_last	b.PSA.6.10	b.PSA.109.29	то же
+6:Wonders	Matthew 13: 39	set	verse_first	b.MAT.13.39	b.MAT.12.39	цитата о знаке пророка Ионы -- Мф. 12:39-40; ручная разметка: not_by_text
+6:Wonders	Matthew 13: 39	set	verse_last	b.MAT.13.39	b.MAT.12.40	то же
+1:brooding	Genesis 1:2	drop	*			дубль записи 1:chaos2 (то же место, тот же стих)
+4:mysterious2	Ephesians 5: 31-32	drop	*			дубль записи 4:sex (то же место, тот же диапазон)
+12:line222	Exodus 13: 17-18	drop	*			дубль записи 12:readiest (то же место, тот же диапазон)

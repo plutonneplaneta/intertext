@@ -1,0 +1,41 @@
+item_id	label	comment
+M01	not_by_text	quote is Vadimov, not Bunin
+M02	not_by_text	quote absent from matched source
+M03	not_by_text	quote absent from matched source
+M04	source	Note cites Averchenko "Четверг"; matched work is that story but shown passage lacks quote; doubtful
+M05	not_by_text	quote absent from matched source
+M06	not_by_text	quote absent from matched source
+M07	not_by_text	quote absent from matched source
+M08	not_by_text	quote absent from matched source
+M09	not_by_text	quote absent from matched source
+M10	background	Gilyarovsky quote exact, but cited as historical fact (French barbers), not as literary parallel; doubtful
+M11	not_by_text	title only; matched Gogol notebook
+M12	not_by_text	quote absent from matched source
+M13	not_by_text	quote absent from matched source
+M14	not_by_text	quote absent from matched source
+M15	not_by_text	quote absent from matched source
+M16	not_by_text	quote absent from matched source
+M17	not_by_text	quote absent from matched source
+M18	not_by_text	quote is Erenburg
+M19	source	Vechny muzh, towel bandage; note gives it as parallel
+M20	not_by_text	quote absent from matched source
+M21	source	Note cites Revizor line; matched chunk is Act IV, quote not in shown window; work correct; doubtful
+M22	source	Bunin Kazimir Stanislavovich; note cites as parallel
+M23	not_by_text	quote absent from matched source
+M24	not_by_text	quote absent from matched source
+M25	not_by_text	quote absent from matched source
+M26	source	Chekhov Vosklitsatelny znak, note cites as comic parallel
+M27	not_by_text	quote absent from matched source
+M28	not_by_text	quote absent from matched source
+M29	not_by_text	quote absent from matched source
+M30	source	Averchenko Nastoyashchie parni; shown window lacks exact phrase; minor doubt
+M31	source	Chekhov Toska
+M32	not_by_text	quote is Dead Souls, not Revizor
+M33	not_by_text	quote is not Gogol early redactions
+M34	not_by_text	quote absent from matched source
+M35	not_by_text	quote is Leonov
+M36	source	Match is on title only, in commentary/variants of Gogol story; note cites story as treasure-loss parallel; doubtful
+M37	not_by_text	quote is Erenburg
+M38	background	Chekhov quote present but cited to illustrate conductors status, not as parallel to passage; doubtful
+M39	not_by_text	quote is Erenburg
+M40	not_by_text	quote absent from matched source

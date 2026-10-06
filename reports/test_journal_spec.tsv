@@ -1,0 +1,43 @@
+id	family	status	prespecified	note	new_file	new_label	base_file	base_label
+H1a	H1	актуально	да	добавка surprisal 1.5B к базе, Карамазовы (обучение на C&P)	../data/gold/ranks_heldout_bk_15.jsonl	+surprisal	../data/gold/ranks_heldout_bk_15.jsonl	база 12
+H1b	H1	актуально	да	добавка surprisal 3B к базе, Карамазовы (обучение на C&P)	../data/gold/ranks_heldout_bk_3b.jsonl	+surprisal	../data/gold/ranks_heldout_bk_3b.jsonl	база 12
+D1	D	актуально	нет	открытие: +surprisal 1.5B, C&P, LOO	../data/gold/ranks_fixed_sur15.jsonl	+surprisal 15	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+D2	D	актуально	нет	открытие: +surprisal 3B, C&P, LOO	../data/gold/ranks_fixed_sur3b.jsonl	+surprisal 3b	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+D3	D	актуально	нет	один surprisal 1.5B против базы, C&P	../data/gold/ranks_fixed_sur15.jsonl	только surprisal 15	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+D4	D	актуально	нет	один surprisal 3B против базы, C&P	../data/gold/ranks_fixed_sur3b.jsonl	только surprisal 3b	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+D5	D	актуально	нет	база + surprisal 1.5B + длина стиха, C&P	../data/gold/ranks_fixed_sur15.jsonl	база 12 + surprisal 15 + длина	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+D6	D	актуально	нет	база + surprisal 3B + длина стиха, C&P	../data/gold/ranks_fixed_sur3b.jsonl	база 12 + surprisal 3b + длина	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+K1	контроль	контроль	нет	перемешанный surprisal 1.5B (плацебо), C&P	../data/gold/ranks_fixed_sur15.jsonl	перемешанный surprisal 15	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+K2	контроль	контроль	нет	перемешанный surprisal 3B (плацебо), C&P	../data/gold/ranks_fixed_sur3b.jsonl	перемешанный surprisal 3b	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+G1	G	актуально	нет	разведочно: WL по редкости, C&P, исправленная база	../data/gold/ranks_fixed_graph.jsonl	+WL по редкости (исправл. база)	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+G2	G	актуально	нет	разведочно: MCS, C&P, исправленная база	../data/gold/ranks_fixed_graph.jsonl	+MCS (исправл. база)	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+G3	G	актуально	нет	разведочно: WL и MCS, C&P, исправленная база	../data/gold/ranks_fixed_graph.jsonl	+WL и MCS (исправл. база)	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+B1	B	актуально	нет	разведочно: +e5-large, Карамазовы	../data/gold/ranks_heldout_bk_dense.jsonl	+e5-large	../data/gold/ranks_heldout_bk_dense.jsonl	база 12
+B2	B	актуально	нет	разведочно: +bge-m3, Карамазовы	../data/gold/ranks_heldout_bk_dense.jsonl	+bge-m3	../data/gold/ranks_heldout_bk_dense.jsonl	база 12
+B3	B	актуально	нет	разведочно: +sbert-ru, Карамазовы	../data/gold/ranks_heldout_bk_dense.jsonl	+sbert-ru	../data/gold/ranks_heldout_bk_dense.jsonl	база 12
+B4	B	актуально	нет	разведочно: +bge-reranker, Карамазовы	../data/gold/ranks_heldout_bk_dense.jsonl	+bge-reranker	../data/gold/ranks_heldout_bk_dense.jsonl	база 12
+B5	B	актуально	нет	разведочно: +bge-reranker + surprisal 1.5B, Карамазовы	../data/gold/ranks_heldout_bk_dense.jsonl	+bge-reranker + surprisal 1.5B	../data/gold/ranks_heldout_bk_dense.jsonl	база 12
+X1	отозвано	отозвано	нет	WL: БАЗА БЕЗ dep_pair2 (мёртвый скорер), заменено строками D/G	../data/gold/ranks_phase5.jsonl	+WL h1 по редкости	../data/gold/ranks_phase5.jsonl	база 12
+X2	отозвано	отозвано	нет	MCS: БАЗА БЕЗ dep_pair2 (мёртвый скорер), заменено строками D/G	../data/gold/ranks_phase5.jsonl	+MCS	../data/gold/ranks_phase5.jsonl	база 12
+X3	отозвано	отозвано	нет	GNN обученная: БАЗА БЕЗ dep_pair2 (мёртвый скорер), заменено строками D/G	../data/gold/ranks_phase6.jsonl	+GNN обученная	../data/gold/ranks_phase6.jsonl	база 12
+X4	отозвано	отозвано	нет	GNN случайные веса: БАЗА БЕЗ dep_pair2 (мёртвый скорер), заменено строками D/G	../data/gold/ranks_phase6.jsonl	+GNN случайные веса	../data/gold/ranks_phase6.jsonl	база 12
+X5	отозвано	отозвано	нет	surprisal 1.5B: БАЗА БЕЗ dep_pair2 (мёртвый скорер), заменено строками D/G	../data/gold/ranks_phase10.jsonl	+surprisal	../data/gold/ranks_phase10.jsonl	база 12
+X6	отозвано	отозвано	нет	surprisal 3B: БАЗА БЕЗ dep_pair2 (мёртвый скорер), заменено строками D/G	../data/gold/ranks_phase10_3b.jsonl	+surprisal 3B	../data/gold/ranks_phase10.jsonl	база 12
+M1	M	актуально	нет	разведочно: общие слова замаскированы против контекста как есть (один surprisal 1.5B, C&P)	../data/gold/ranks_mech.jsonl	только surprisal, общие слова замаскированы	../data/gold/ranks_mech.jsonl	только surprisal (контекст как есть)
+M2	M	актуально	нет	разведочно: слова стиха перемешаны против контекста как есть (один surprisal 1.5B, C&P)	../data/gold/ranks_mech.jsonl	только surprisal, слова стиха перемешаны	../data/gold/ranks_mech.jsonl	только surprisal (контекст как есть)
+Bc1	Bc	актуально	нет	разведочно: +e5-large, C&P, LOO	../data/gold/ranks_fixed_dense.jsonl	+e5-large	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+Bc2	Bc	актуально	нет	разведочно: +bge-m3, C&P, LOO	../data/gold/ranks_fixed_dense.jsonl	+bge-m3	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+Bc3	Bc	актуально	нет	разведочно: +sbert-ru, C&P, LOO	../data/gold/ranks_fixed_dense.jsonl	+sbert-ru	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+Bc4	Bc	актуально	нет	разведочно: +bge-reranker, C&P, LOO	../data/gold/ranks_fixed_dense.jsonl	+bge-reranker	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+Bc5	Bc	актуально	нет	разведочно: +bge-reranker + surprisal 1.5B, C&P, LOO	../data/gold/ranks_fixed_dense.jsonl	+bge-reranker + surprisal 1.5B	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+Bc6	Bc	актуально	нет	разведочно: только bge-reranker, C&P, LOO	../data/gold/ranks_fixed_dense.jsonl	только bge-reranker	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+GN1	GN	актуально	нет	разведочно: +GNN обученная (исправл. база), C&P	../data/gold/ranks_fixed_gnn.jsonl	+GNN обученная (исправл. база)	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+GN2	GN	актуально	нет	разведочно: +GNN случайные веса (исправл. база), C&P	../data/gold/ranks_fixed_gnn.jsonl	+GNN случайные веса (исправл. база)	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+P1	контроль	контроль	нет	плацебо: база + перемешанный surprisal 1.5B, C&P	../data/gold/ranks_placebo_cp.jsonl	+перемешанный surprisal (плацебо)	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+P2	контроль	контроль	нет	плацебо: база + tfidf_rare, нормированный в пуле, C&P	../data/gold/ranks_placebo_cp.jsonl	+tfidf_rare в пуле (нормировка)	../data/gold/ranks_fixed_base.jsonl	база 12 (dep_pair2 живой)
+P3	контроль	контроль	нет	плацебо: база + перемешанный surprisal 1.5B, Карамазовы	../data/gold/ranks_placebo_bk.jsonl	+перемешанный surprisal (плацебо)	../data/gold/ranks_placebo_bk.jsonl	база 12
+P4	контроль	контроль	нет	плацебо: база + tfidf_rare, нормированный в пуле, Карамазовы	../data/gold/ranks_placebo_bk.jsonl	+tfidf_rare в пуле (нормировка)	../data/gold/ranks_placebo_bk.jsonl	база 12
+H1pa	H1p	актуально	да	ЧАСТЬ 2: добавка surprisal 1.5B к базе, Идиот+Бесы+Подросток (21 место)	../data/gold/ranks_heldout_t2_15.jsonl	+surprisal	../data/gold/ranks_heldout_t2_15.jsonl	база 12
+H1pb	H1p	актуально	да	ЧАСТЬ 2: добавка surprisal 3B к базе, Идиот+Бесы+Подросток (21 место)	../data/gold/ranks_heldout_t2_3b.jsonl	+surprisal	../data/gold/ranks_heldout_t2_3b.jsonl	база 12
+E1	E	актуально	нет	разведочно: все 65 независимых мест, +surprisal 1.5B	../data/gold/ranks_heldout_allindep_15.jsonl	+surprisal	../data/gold/ranks_heldout_allindep_15.jsonl	база 12
+E2	E	актуально	нет	разведочно: все 65 независимых мест, +surprisal 3B	../data/gold/ranks_heldout_allindep_3b.jsonl	+surprisal	../data/gold/ranks_heldout_allindep_3b.jsonl	база 12

@@ -1,0 +1,175 @@
+{
+ "R001": [
+  "book_level_ref"
+ ],
+ "R023": [
+  "book_level_ref"
+ ],
+ "R028": [
+  "book_level_ref",
+  "weak_name_Chimera_absent_in_unit_present_in:8"
+ ],
+ "R029": [
+  "book_level_ref",
+  "dup_place_unit"
+ ],
+ "R031": [
+  "book_level_ref",
+  "dup_place_unit"
+ ],
+ "R035": [
+  "book_level_ref"
+ ],
+ "R039": [
+  "book_level_ref"
+ ],
+ "R056": [
+  "book_level_ref"
+ ],
+ "R060": [
+  "book_level_ref",
+  "weak_name_Raphael_absent_in_author"
+ ],
+ "R062": [
+  "book_level_ref"
+ ],
+ "R067": [
+  "book_level_ref",
+  "dup_place_unit"
+ ],
+ "R071": [
+  "book_level_ref"
+ ],
+ "R072": [
+  "book_level_ref"
+ ],
+ "R073": [
+  "book_level_ref"
+ ],
+ "R075": [
+  "book_level_ref"
+ ],
+ "R080": [
+  "book_level_ref",
+  "weak_name_Laertes_absent_in_unit_present_in:1,2,4,9"
+ ],
+ "R091": [
+  "book_level_ref"
+ ],
+ "R096": [
+  "ref_range_reversed",
+  "ref_line_doubtful_external"
+ ],
+ "R002": [
+  "shared_note_multi_ref"
+ ],
+ "R003": [
+  "shared_note_multi_ref"
+ ],
+ "R007": [
+  "shared_note_multi_ref"
+ ],
+ "R008": [
+  "shared_note_multi_ref"
+ ],
+ "R013": [
+  "shared_note_multi_ref"
+ ],
+ "R014": [
+  "shared_note_multi_ref"
+ ],
+ "R019": [
+  "shared_note_multi_ref",
+  "weak_name_Olympian_absent_in_author",
+  "weak_name_Pythian_absent_in_author"
+ ],
+ "R020": [
+  "shared_note_multi_ref",
+  "weak_name_Olympian_absent_in_unit_present_in:1,2,4,5",
+  "weak_name_Pythian_absent_in_unit_present_in:9,24"
+ ],
+ "R021": [
+  "dup_place_unit",
+  "weak_name_Oechalia_absent_in_author"
+ ],
+ "R022": [
+  "dup_place_unit",
+  "weak_name_Oeta_absent_in_author"
+ ],
+ "R025": [
+  "dup_place_unit"
+ ],
+ "R026": [
+  "dup_place_unit",
+  "weak_name_Medusa_absent_in_unit_present_in:7"
+ ],
+ "R027": [
+  "dup_place_unit"
+ ],
+ "R041": [
+  "shared_note_multi_ref"
+ ],
+ "R042": [
+  "shared_note_multi_ref"
+ ],
+ "R043": [
+  "shared_note_multi_ref",
+  "weak_name_Hyacinthin_absent_in_author"
+ ],
+ "R047": [
+  "shared_note_multi_ref"
+ ],
+ "R048": [
+  "shared_note_multi_ref"
+ ],
+ "R049": [
+  "shared_note_multi_ref"
+ ],
+ "R053": [
+  "shared_note_multi_ref",
+  "weak_name_Maia_absent_in_unit_present_in:11"
+ ],
+ "R054": [
+  "shared_note_multi_ref",
+  "weak_name_Maia_absent_in_unit_present_in:8"
+ ],
+ "R068": [
+  "dup_place_unit"
+ ],
+ "R069": [
+  "shared_note_multi_ref"
+ ],
+ "R070": [
+  "shared_note_multi_ref"
+ ],
+ "R085": [
+  "note_id_line_mismatch"
+ ],
+ "R086": [
+  "note_id_line_mismatch"
+ ],
+ "R092": [
+  "shared_note_multi_ref"
+ ],
+ "R093": [
+  "shared_note_multi_ref"
+ ],
+ "R009": [
+  "weak_name_Orion_absent_in_unit_present_in:3,7,10"
+ ],
+ "R030": [
+  "weak_name_Cerberian_absent_in_author"
+ ],
+ "R037": [
+  "weak_name_Hesperian_absent_in_unit_present_in:2,5,8,9"
+ ],
+ "R038": [
+  "weak_name_Hesperian_absent_in_unit_present_in:2,5,8,9"
+ ],
+ "R011": [
+  "ref_line_doubtful_external"
+ ],
+ "R066": [
+  "ref_line_doubtful_external"
+ ]
+}

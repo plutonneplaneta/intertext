@@ -1,0 +1,10 @@
+ШАГ 2 / материал A: записей 394
+записей с флагом: 35 (8.9%)
+дублей (место, источник, диапазон): 3
+  OTHER_VERSION: 16 (4.1%)
+  QUOTE_NOT_IN_CITED_VERSE: 14 (3.6%)
+  HEAD_NOT_IN_PARAGRAPH: 2 (0.5%)
+  RANGE_SHORTHAND: 2 (0.5%)
+  RANGE_BACKWARDS: 1 (0.3%)
+  NO_SUCH_VERSE: 1 (0.3%)
+цитата в примечании: 50 записей; {'QUOTE_IN_VERSE': 34, 'QUOTE_NEITHER': 14, 'QUOTE_IS_MILTON': 2}

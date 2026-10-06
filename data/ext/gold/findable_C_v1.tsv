@@ -1,0 +1,382 @@
+note	ref_text	has_bridge	rare	bigram
+1:PP.1.p001.1	Isa. 64:6	1	rag	
+1:PP.1.p001.2	Luke 14:33	0		
+1:PP.1.p001.3	Ps. 38:4	1	burden	
+1:PP.1.p001.4	Hab. 2:2	1	read	
+1:PP.1.p001.5	Acts 16:30	0		
+1:PP.1.p001.6	Acts 16:31	0		
+1:PP.1.p001.7	Acts 2:37	0		
+1:PP.1.p004.1	Job 33:23	0		
+1:PP.1.p005.1	Heb. 9:27	0		
+1:PP.1.p005.2	Job 16:21	0		
+1:PP.1.p005.3	Ezek. 22:14	0		
+1:PP.1.p007.1	Isa. 30:33	1	tophet	
+1:PP.1.p008.1	Matt. 3:7	1		flee_from
+1:PP.1.p009.1	Matt. 7:13	1	wide	
+1:PP.1.p009.2	Matt. 7:14	0		
+1:PP.1.p009.3	Ps. 119:105	0		
+1:PP.1.p009.4	2 Pet. 1:19	1	shin	
+1:PP.1.p011.1	Luke 14:26	0		
+1:PP.1.p011.2	Gen. 19:17	1	behind	
+1:PP.1.p012.1	Jer. 20:10	0		
+1:PP.1.p014.1	2 Cor. 4:18	0		
+1:PP.1.p014.2	Luke 15:17	1	enough,spare	
+1:PP.1.p016.1	1 Pet. 1:4	1	fad,incorruptible,undefil	an_inheritance inheritance_incorruptible
+1:PP.1.p016.2	Heb. 11:16	0		
+1:PP.1.p018.1	Luke 9:62	1	plough	
+1:PP.1.p019.1	Prov. 26:16	1	reason,render,wiser	can_render render_reason
+1:PP.1.p022.1	Heb. 9:17-22	0		
+1:PP.1.p022.2	Heb. 13:20	0		
+1:PP.1.p032.1	Titus 1:2	1		cannot_lie
+1:PP.1.p034.1	Isa. 45:17	1	everlast	
+1:PP.1.p034.2	John 10:28	0		
+1:PP.1.p034.3	John 10:29	0		
+1:PP.1.p036.1	2 Tim. 4:8	1	crown	
+1:PP.1.p036.2	Rev. 3:4	1	garment	
+1:PP.1.p036.3	Matt. 13:43	1	shine	
+1:PP.1.p038.1	Isa. 25:6-8	1	tear,wipe	tear_from will_wipe
+1:PP.1.p038.2	Rev. 7:17	1	tear,wipe	tear_from
+1:PP.1.p038.3	Rev. 21:4	1	sorrow,tear,wipe	no_more tear_from
+1:PP.1.p040.1	Isa. 6:2	1	seraphim	
+1:PP.1.p040.2	1 Thess. 4:16	0		
+1:PP.1.p040.3	1 Thess. 4:17	0		
+1:PP.1.p040.4	Rev. 5:11	1		ten_thousand
+1:PP.1.p040.5	Rev. 4:4	1	crown	
+1:PP.1.p040.6	Rev. 14:1-5	1	harp,virgin	
+1:PP.1.p040.7	John 12:25	0		
+1:PP.1.p040.8	2 Cor. 5:4	0		
+1:PP.1.p053.1	Ps. 40:2	0		
+1:PP.1.p055.1	Isa. 35:3	0		
+1:PP.1.p055.2	Isa. 35:4	0		
+1:PP.1.p056.1	1 Sam. 12:23	0		
+1:PP.1.p062.1	1 Cor 7:29	1		had_none
+1:PP.1.p083.1	Ex. 19:16	0		
+1:PP.1.p083.2	Ex. 19:18	0		
+1:PP.1.p083.3	Heb. 12:21	1	quake	
+1:PP.1.p100.1	Heb. 12:25	1	escap,escape,refus	away_from earth_much
+1:PP.1.p100.2	Heb. 10:38	1	draw,just,pleasure	any_man back_my
+1:PP.1.p101.1	John 20:27	1	faithles	
+1:PP.1.p102.1	1 John 4:5	1		world_therefore
+1:PP.1.p102.2	Gal 6:12	1	cros	
+1:PP.1.p104.1	Luke 13:24	1	strait,strive	strait_gate
+1:PP.1.p104.2	Matt. 7:14	1	few,lead,strait	few_there
+1:PP.1.p105.1	Heb. 11:25	0		
+1:PP.1.p105.2	Heb. 11:26	1	treasur	
+1:PP.1.p105.3	Mark 8:35	1	lose	will_save
+1:PP.1.p105.4	John 12:25	1	eternal,hat,lose	
+1:PP.1.p105.5	Matt. 10:39	1	lose	
+1:PP.1.p105.6	Luke 14:26	1	disciple	life_also my_disciple
+1:PP.1.p107.1	Gal 4:21-27	1	bondage,free,sinai	her_children mount_sinai
+1:PP.1.p107.2	Gal. 3:10	1	continu,curs,curse	are_under are_written
+1:PP.1.p110.1	Ps. 2:12	1	kindl	perish_from way_when
+1:PP.1.p110.2	Matt 7:8	1	knock	
+1:PP.1.p138.1	Matt 7:14	1	narrow	
+1:PP.1.p147.1	1 Cor. 4:15	0		
+1:PP.1.p147.2	Gal. 4:19	1	birth,travail	
+1:PP.1.p150.1	Rom. 7:6	0		
+1:PP.1.p150.2	1 Cor. 15:56	0		
+1:PP.1.p150.3	Rom. 5:20	0		
+1:PP.1.p151.1	John 15:3	1		clean_through
+1:PP.1.p151.2	Eph. 5:26	0		
+1:PP.1.p151.3	Acts 15:9	0		
+1:PP.1.p151.4	Rom. 16:25	1	gospel	
+1:PP.1.p151.5	Rom. 16:26	0		
+1:PP.1.p151.6	John 15:13	0		
+1:PP.1.p157.1	Luke 16:25	1	comfort,lazaru,receivedst	art_torment evil_thing
+1:PP.1.p159.1	2 Cor. 4:18	1	eternal,temporal	are_eternal are_seen
+1:PP.1.p164.1	2 Cor. 12:9	0		
+1:PP.1.p167.1	Acts 14:22	0		
+1:PP.1.p174.1	Luke 8:13	0		
+1:PP.1.p183.1	Heb. 6:6	1	afresh	
+1:PP.1.p183.2	Luke 19:14	0		
+1:PP.1.p183.3	Heb. 10:28-29	1	count,despis,despite	an_unho done_despite
+1:PP.1.p191.1	1 Cor. 15:52	0		
+1:PP.1.p191.4	John 5:28	1	grav	
+1:PP.1.p191.5	John 5:29	0		
+1:PP.1.p191.8	Rev. 20:11-14	1	lake	sat_on
+1:PP.1.p191.9	Isa. 26:21	0		
+1:PP.1.p191.10	Micah 7:16	0		
+1:PP.1.p191.11	Micah 7:17	0		
+1:PP.1.p191.12	Ps. 95:1-3	0		
+1:PP.1.p191.13	Dan. 7:10	1	issu	came_forth from_before
+1:PP.1.p191.14	Mal. 3:2	0		
+1:PP.1.p191.15	Mal. 3:3	0		
+1:PP.1.p191.16	Dan. 7:9	1	flame	
+1:PP.1.p191.17	Dan. 7:10	1	issu	came_forth from_before
+1:PP.1.p191.18	Matt. 3:12	1	chaff,garner,wheat	wheat_into
+1:PP.1.p191.19	Matt. 13:30	1	tar,wheat	into_my wheat_into
+1:PP.1.p191.20	Mal. 4:1	1	stubble	
+1:PP.1.p191.21	Luke 3:17	1	chaff,garner,wheat	wheat_into
+1:PP.1.p191.24	Rom. 3:14	0		
+1:PP.1.p191.25	Rom. 3:15	0		
+1:PP.1.p198.1	Isa. 26:1	0		
+1:PP.1.p200.1	Zech. 12:10	0		
+1:PP.1.p200.2	Mark 2:5	1	forgiven	forgiven_thee thy_sin
+1:PP.1.p200.3	Zech. 3:4	1	change,rai	
+1:PP.1.p200.4	Eph. 1:13	1	seal	
+1:PP.1.p205.1	Prov. 23:34	1	mast,top	
+1:PP.1.p205.2	1 Pet. 5:8	1	roar	roar_lion
+1:PP.1.p209.1	John 10:1	1	climb,robber,thief	climb_up other_way
+1:PP.1.p217.1	Gal. 2:16	0		
+1:PP.1.p219.1	Isa. 49:10	0		
+1:PP.1.p223.1	Prov. 6:6	1	ant,consider,sluggard	consider_her her_way
+1:PP.1.p226.1	Rev. 2:5	0		
+1:PP.1.p229.1	Mark 8:34-37	0		
+1:PP.1.p234.1	Gen. 9:27	1	japh,shem	
+1:PP.1.p259.1	Heb. 11:15	1	mindful,opportunity,tru	been_mindful came_out
+1:PP.1.p259.2	Heb. 11:16	1		an_heaven better_country
+1:PP.1.p263.1	Rom 7:16-19	0		
+1:PP.1.p270.1	Isa. 25:8	0		
+1:PP.1.p270.2	Rev. 21:4	1		no_more
+1:PP.1.p277.1	Gen. 19:14	1	mock,seem	as_one
+1:PP.1.p288.1	1 John 3:12	1	cain	brother_righteou own_work
+1:PP.1.p288.2	Ezek. 3:19	1		deliver_thy hast_deliver
+1:PP.1.p289.1	Heb. 2:14	0		
+1:PP.1.p289.2	Heb. 2:15	0		
+1:PP.1.p291.1	1 Sam 2:8	1	beggar,dunghill	
+1:PP.1.p291.2	Ps. 113:7	1	dunghill	
+1:PP.1.p296.1	Heb 11:33	1	obtain,promis,stopp	kingdom_wrought obtain_promis
+1:PP.1.p296.2	Heb 11:34	1	alien,edge,escap	fire_escap made_strong
+1:PP.1.p300.1	Isa. 33:16	0		
+1:PP.1.p300.2	Isa. 33:17	0		
+1:PP.1.p316.1	Rom 6:23	1	wag	
+1:PP.1.p335.1	Micah 7:8	1		against_me enemy_when
+1:PP.1.p337.1	Rom. 8:37	1	conqueror,nay	are_more conqueror_through
+1:PP.1.p337.2	James 4:7	0		
+1:PP.1.p344.1	Jer. 2:6	1	desert,drought,pit	man_dwelt no_man
+1:PP.1.p352.1	Ps. 44:19	1	shadow	
+1:PP.1.p352.2	Ps. 107:10	1	shadow	
+1:PP.1.p354.1	Job 3:5	0		
+1:PP.1.p354.2	Job 10:22	1	itself,order	as_dark dark_as
+1:PP.1.p355.1	Jer. 2:6	0		
+1:PP.1.p357.1	Ps. 69:14	1	deep	
+1:PP.1.p357.2	Ps. 69:15	1	deep	
+1:PP.1.p360.1	Eph. 6:18	0		
+1:PP.1.p360.2	Ps. 116:4	1	beseech	beseech_thee deliver_my
+1:PP.1.p362.1	Ps. 23:4	1	shadow	death_will fear_no
+1:PP.1.p365.1	Job 9:11	1	perceive	
+1:PP.1.p366.1	Amos 5:8	1	shadow	death_into
+1:PP.1.p367.1	Job 12:22	1	deep,discover,shadow	bring_out deep_thing
+1:PP.1.p368.1	Job 29:3	1	candle,shin	candle_shin light_walk
+1:PP.1.p389.1	Jer. 29:18	0		
+1:PP.1.p389.2	Jer. 29:19	0		
+1:PP.1.p392.1	2 Pet. 2:22	1	dog,happen,mire	her_wallow own_vomit
+1:PP.1.p396.1	Gen. 39:11-13	0		
+1:PP.1.p400.1	Ps. 22:14	0		
+1:PP.1.p403.1	Prov. 5:5	1	hell,step	her_step hold_on
+1:PP.1.p403.2	Job 31:1	1		mine_eye
+1:PP.1.p405.1	Eph. 4:22	1	lust	old_man
+1:PP.1.p405.2	1 John 2:16	1	lust,pride	
+1:PP.1.p409.1	Rom. 7:24	1	wretch	wretch_man
+1:PP.1.p428.1	1 Cor. 1:26	0		
+1:PP.1.p428.2	1 Cor. 3:18	0		
+1:PP.1.p428.3	Phil. 3:7	1	los	
+1:PP.1.p428.4	Phil. 3:8	1	los	
+1:PP.1.p428.5	John 7:48	0		
+1:PP.1.p430.1	Luke 16:15	1	esteem	among_men esteem_among
+1:PP.1.p430.2	Mark 8:38	0		
+1:PP.1.p432.1	Prov. 3:35	1	inherit,promotion,shame	inherit_glory
+1:PP.1.p469.1	Matt. 23:3	0		
+1:PP.1.p469.2	1 Cor 4:20	0		
+1:PP.1.p469.3	Rom. 2:24	0		
+1:PP.1.p469.4	Rom. 2:25	0		
+1:PP.1.p474.1	Lev. 11:3-7	1	chew,cud,divid	
+1:PP.1.p474.2	Deut. 14:6-8	1	chew,cud,divid	
+1:PP.1.p475.1	1 Cor. 13:1-3	1	cymbal,tinkl	sound_bras tinkl_cymbal
+1:PP.1.p475.2	1 Cor. 14:7	1		giv_sound life_giv
+1:PP.1.p491.2	Ps. 119:34	1	observe	give_me keep_thy
+1:PP.1.p521.1	1 Cor. 9:24-27	1	crown,incorruptible,obtain	an_incorruptible may_obtain
+1:PP.1.p521.2	Rev. 3:11	1	crown	man_take no_man
+1:PP.1.p525.2	Eccl. 2:11	1	vanity	
+1:PP.1.p525.3	Eccl. 2:17	1	vanity	
+1:PP.1.p525.4	Eccl. 11:8	1	vanity	
+1:PP.1.p531.1	1 Cor. 5:10	1	need	go_out need_go
+1:PP.1.p533.1	1 Cor. 2:7-8	0		
+1:PP.1.p536.1	Prov. 23:23	1	buy	
+1:PP.1.p536.2	Heb. 11:13-16	1	pilgrim,whence	
+1:PP.1.p564.2	Dan. 3:6	1	fiery,furnace,whoso	cast_into fiery_furnace
+1:PP.1.p575.1	Prov. 26:25	1	fair	
+1:PP.1.p620.1	Gen. 34:20-23	1	circumcis,hamor,male	are_circumcis circumcis_as
+1:PP.1.p621.1	Luke 20:46-47	1	damn,greater,widow	greater_damn long_prayer
+1:PP.1.p623.1	Acts 8:19-22	1		holy_ghost
+1:PP.1.p630.1	Hos. 14:8	1		have_heard
+1:PP.1.p636.1	2 Tim. 4:10	1	dema	
+1:PP.1.p643.1	Gen. 19:26	1	salt	look_back
+1:PP.1.p647.1	Num. 26:9	1	abiram,dathan,korah	
+1:PP.1.p647.2	Num. 26:10	1	korah	fifty_men two_hundr
+1:PP.1.p648.1	Gen. 13:13	1	sinner,sodom	sinner_before
+1:PP.1.p648.2	Gen. 13:10	1	garden,sodom	
+1:PP.1.p653.1	Num. 21:4	1	discourag,journey	discourag_because much_discourag
+1:PP.1.p656.1	Isa. 9:16	0		
+1:PP.1.p667.1	Jer. 31:21	1	highway	heart_toward highway_even
+1:PP.1.p668.1	Ps. 88:18	1	acquaintance,friend	far_from
+1:PP.1.p671.1	Job 7:15	1	choos,rather,strangl	choos_strangl my_soul
+1:PP.1.p686.1	John 10:11	0		
+1:PP.1.p692.1	Hos. 14:9	1	transgressor	fall_therein
+1:PP.1.p694.1	Heb. 13:1-2	1	entertain,forgetful	entertain_stranger
+1:PP.1.p697.1	2 Tim. 2:17	1	philetu	
+1:PP.1.p697.2	2 Tim. 2:18	1	err,resurrection	
+1:PP.1.p718.1	Prov. 26:12	1	conceit	fool_than more_hope
+1:PP.1.p718.2	Eccl. 10:3	1	fail	every_one fool_walk
+1:PP.1.p724.1	1 Peter 4:18	1	scarce	
+1:PP.1.p728.1	1 Peter 1:9	0		
+1:PP.1.p733.1	Heb. 12:16	1	birthright,esau,sold	
+1:PP.1.p734.1	Gen. 25:32	1	birthright,esau,point	am_at behold_am
+1:PP.1.p734.2	Jer. 2:24	1	occasion	her_occasion
+1:PP.1.p740.1	1 Pet. 5:8	1	roar	
+1:PP.1.p747.1	Job 41:26-29	1	arrow,count,dart	are_count are_turn
+1:PP.1.p747.2	Job 39:19-25	1	afar,affright,fierce	afar_off affright_neither
+1:PP.1.p750.1	Eph. 6:16	1	dart,fiery,quench	faith_wherewith fiery_dart
+1:PP.1.p751.2	Ps. 3:5-8	1		set_themselv ten_thousand
+1:PP.1.p751.3	Ps. 27:1-3	0		
+1:PP.1.p751.4	Isa. 10:4	1		fall_under
+1:PP.1.p755.1	Prov. 29:5	1	flatter,net	neighbour_spread spread_net
+1:PP.1.p756.1	Ps. 17:4	1	destroyer,path	have_kept kept_me
+1:PP.1.p756.2	Rom. 16:18	0		
+1:PP.1.p757.1	Deut. 25:2	1		lie_down
+1:PP.1.p773.1	2 Cor. 5:7	1		by_faith walk_by
+1:PP.1.p773.2	Prov. 19:27	1	cease,err,instruction	cease_my err_from
+1:PP.1.p773.3	Heb. 10:39	0		
+1:PP.1.p774.1	1 John 2:21	1		no_lie
+1:PP.1.p779.1	1 Thess. 5:6	1	sleep,sober,watch	as_do do_other
+1:PP.1.p780.1	Eccl. 9:9	1		thy_labour
+1:PP.1.p793.1	Rom. 6:21-23	0		
+1:PP.1.p793.2	Eph. 5:6	1	disobedience	these_thing
+1:PP.1.p819.1	Isa. 64:6	1	filthy,rag,righteousness	are_as as_filthy
+1:PP.1.p819.2	Gal. 2:16	1	justif	no_flesh we_have
+1:PP.1.p819.3	Luke 17:10	1	unprofitable	are_unprofitable have_done
+1:PP.1.p835.1	Matt. 11:28	0		
+1:PP.1.p835.2	Matt. 24:35	0		
+1:PP.1.p845.1	Heb. 2:3	0		
+1:PP.1.p847.1	Eph. 1:18	0		
+1:PP.1.p847.2	Eph. 1:19	0		
+1:PP.1.p847.3	Acts 16:30	0		
+1:PP.1.p847.4	Acts 16:31	1		believe_on jesu_christ
+1:PP.1.p848.1	John 6:35	1	hunger,never,thirst	believ_on never_hunger
+1:PP.1.p848.2	John 6:37	1		cast_out me_will
+1:PP.1.p848.3	1 Tim. 1:15	1	accept,sinner	came_into christ_jesu
+1:PP.1.p848.4	Rom. 10:4	1		every_one
+1:PP.1.p848.5	Rom. 4:25	1	justific	our_justific
+1:PP.1.p848.6	Rev. 1:5	1		from_our jesu_christ
+1:PP.1.p848.7	1 Tim. 2:5	1	mediator	christ_jesu
+1:PP.1.p848.8	Heb. 7:24	0		
+1:PP.1.p848.9	Heb. 7:25	1	intercession	ever_liv make_intercession
+1:PP.1.p865.1	Prov. 13:4	1	desir,sluggard	hath_noth sluggard_desir
+1:PP.1.p869.1	Prov. 28:26	1		own_heart
+1:PP.1.p885.2	Gen. 6:5	1	imagin	every_imagin only_evil
+1:PP.1.p885.3	Rom. 8:21	0		
+1:PP.1.p910.1	Matt. 11:27	1		no_man
+1:PP.1.p948.1	2 Pet. 2:22	1	dog,true,vomit	own_vomit vomit_again
+1:PP.1.p949.1	Prov. 29:25	1	snare	bring_snare man_bring
+1:PP.1.p964.1	Isa. 62:5	1	bride,bridegroom,rejoic	bride_so bridegroom_rejoic
+1:PP.1.p964.2	Isa. 62:8	1	corn	
+1:PP.1.p964.3	Isa. 62:11	1	reward	behold_thy com_behold
+1:PP.1.p964.4	Isa. 62:12	1		holy_people sought_out
+1:PP.1.p966.1	Deut. 23:24	0		
+1:PP.1.p972.1	1 Cor. 15:51	0		
+1:PP.1.p972.2	1 Cor. 15:52	1	last	
+1:PP.1.p973.1	Rev. 20:4-6	1	resurrection	
+1:PP.1.p976.1	Ps. 73:4	1	band,firm	are_no no_band
+1:PP.1.p976.2	Ps. 73:5	1	plagu	as_other like_other
+1:PP.1.p977.1	Isa. 43:2	1	overflow	overflow_thee pass_through
+1:PP.1.p980.1	Heb. 12:22-24	1	company,innumerable,just	heaven_jerusalem innumerable_company
+1:PP.1.p980.2	Rev. 2:7	1	paradise	
+1:PP.1.p980.3	Rev. 3:4	1	white	
+1:PP.1.p980.4	Rev. 21:4	1	former,sorrow,tear	are_pass former_thing
+1:PP.1.p980.5	Rev. 21:5	0		
+1:PP.1.p980.6	Isa. 57:1	1		away_from taken_away
+1:PP.1.p980.7	Isa. 57:2	1	bed,each	bed_each each_one
+1:PP.1.p980.8	Isa. 65:17	1	former	
+1:PP.1.p980.9	Gal. 6:7	1	reap	
+1:PP.1.p980.10	1 John 3:2	0		
+1:PP.1.p981.1	Rev. 19:9	1	marriage,supper	are_call bless_are
+1:PP.1.p983.1	Rev. 22:14	1		bless_are gat_into
+1:PP.1.p984.1	Isa. 26:2	1		may_enter righteou_nation
+1:PP.1.p985.1	Rev. 5:13	1	sitt	say_bless sitt_upon
+1:PP.1.p987.1	Rev. 4:8	1	wing	holy_holy say_holy
+1:PP.1.p101.t0.1	Matt. 12:31	1	forgiven	
+1:PP.1.p101.t0.2	Mark 3:28	1	blasphem,forgiven	
+1:PP.1.p191.t0.2	1 Thes. 4:16	0		
+1:PP.1.p191.t0.3	Jude 1:14	0		
+1:PP.1.p191.t0.6	2 Thes. 1:7	0		
+1:PP.1.p191.t0.7	2 Thes. 1:8	1	flam	flam_fire
+1:PP.1.p191.t4.1	1 Thes. 4:16	0		
+1:PP.1.p191.t4.2	1 Thes. 4:17	0		
+1:PP.1.p226.t0.2	1 Thes. 5:7	1	sleep	
+1:PP.1.p226.t0.3	1 Thes. 5:8	0		
+1:PP.1.p228.t0.1	1 Thes. 5:6	1	sleep	
+1:PP.1.p228.t0.2	1 Thes. 5:7	1	sleep	
+1:PP.1.p473.t0.1	James 1:27	1	affliction,fatherles,pure	himself_unspott keep_himself
+1:PP.1.p473.t1.2	Matt. 13:25	1	sow	
+1:PP.1.p498.t0.1	John 16:8	0		
+1:PP.1.p498.t0.2	Rom. 7:24	0		
+1:PP.1.p498.t0.3	John 16:9	0		
+1:PP.1.p498.t0.4	Mark 16:16	1	damn	
+1:PP.1.p498.t1.1	Ps. 38:18	0		
+1:PP.1.p498.t1.2	Jer. 31:19	0		
+1:PP.1.p498.t1.3	Gal. 2:16	1		jesu_christ
+1:PP.1.p498.t1.4	Acts 4:12	0		
+1:PP.1.p498.t1.5	Matt. 5:6	0		
+1:PP.1.p498.t1.6	Rev. 21:6	0		
+1:PP.1.p500.t0.1	Rom. 10:10	1	confession	
+1:PP.1.p500.t0.2	Phil. 1:27	0		
+1:PP.1.p500.t0.3	Matt. 5:19	0		
+1:PP.1.p501.t0.1	John 14:15	0		
+1:PP.1.p501.t0.2	Ps. 50:23	1	convers	
+1:PP.1.p501.t0.3	Job 42:5-6	1	abhor	
+1:PP.1.p501.t0.4	Eze. 20:43	0		
+1:PP.1.p521.t0.1	John 4:36	1	reap,sow	rejoice_together
+1:PP.1.p521.t0.2	Gal. 6:9	1	due,faint,reap	due_season reap_if
+1:PP.1.p531.t1.1	Matt. 4:8	0		
+1:PP.1.p531.t1.2	Luke 4:5-7	0		
+1:PP.1.p535.t0.1	Ps. 119:37	1	vanity	away_mine behold_vanity
+1:PP.1.p535.t0.2	Phil. 3:19-20	0		
+1:PP.1.p564.t0.1	Exo. 1:22	1		cast_into
+1:PP.1.p640.t0.1	2 Kings 5:20	1	gehazi	
+1:PP.1.p640.t0.2	Matt. 26:14	1	juda	
+1:PP.1.p640.t0.3	Matt. 26:15	0		
+1:PP.1.p640.t0.4	Matt. 27:1-5	1	hang,juda	
+1:PP.1.p650.t0.1	Ps. 65:9	0		
+1:PP.1.p650.t1.1	Ps. 23:2	1	green	lie_down
+1:PP.1.p650.t1.2	Isa. 14:30	1		lie_down
+1:PP.1.p699.t0.1	Pro. 21:16	1	wander	wander_out
+1:PP.1.p721.t0.1	Matt. 12:45	0		
+1:PP.1.p721.t0.2	Prov. 5:22	1	cord	
+1:PP.1.p751.t0.1	Exo. 33:15	0		
+1:PP.1.p756.t1.1	Prov. 29:5	1	net	
+1:PP.1.p756.t1.2	Dan. 11:32	0		
+1:PP.1.p756.t1.3	2 Cor. 11:13	1	false,transform	
+1:PP.1.p756.t1.4	2 Cor. 11:14	1	transform	an_angel into_an
+1:PP.1.p757.t1.1	2 Chron. 6:26	0		
+1:PP.1.p757.t1.2	2 Chron. 6:27	1		good_way should_walk
+1:PP.1.p757.t1.3	Rev. 3:19	1	chasten,rebuke,repent	as_love as_many
+1:PP.1.p768.t0.1	Jer. 22:12	1		no_more
+1:PP.1.p768.t0.2	Eccl. 10:15	0		
+1:PP.1.p835.t2.1	Ps. 95:6	0		
+1:PP.1.p835.t2.2	Dan. 6:10	1	kne	
+1:PP.1.p835.t2.3	Jer. 29:12	0		
+1:PP.1.p835.t2.4	Jer. 29:13	0		
+1:PP.1.p835.t3.1	Exo. 25:22	1	seat	mercy_seat
+1:PP.1.p835.t3.2	Lev. 16:2	1	seat	mercy_seat
+1:PP.1.p835.t3.3	Num. 7:89	1	seat	mercy_seat
+1:PP.1.p835.t3.4	Heb. 4:16	0		
+1:PP.1.p848.t0.1	2 Cor. 12:9	1	sufficient	my_grace
+1:PP.1.p889.t0.1	Ps. 125:5	1	crook	crook_way
+1:PP.1.p889.t0.2	Prov. 2:15	1	crook	are_crook way_are
+1:PP.1.p910.t1.1	1 Cor. 12:3	1		man_can no_man
+1:PP.1.p910.t1.2	Eph. 1:18	0		
+1:PP.1.p910.t1.3	Eph. 1:19	1		exceed_great mighty_power
+1:PP.1.p922.t0.1	Prov. 1:7	0		
+1:PP.1.p922.t0.2	Prov. 9:10	0		
+1:PP.1.p922.t0.3	Job 28:28	0		
+1:PP.1.p922.t0.4	Ps. 111:10	0		
+1:PP.1.p964.t0.1	Isa. 62:4	1	beulah	
+1:PP.1.p964.t0.2	Song 2:10-12	1	bird,flower,turtle	appear_on flower_appear
+1:PP.1.p968.t0.1	Rev. 21:18	1	pure	pure_gold
+1:PP.1.p968.t0.2	2 Cor. 3:18	1		face_behold open_face
+1:PP.1.p980.t5.1	1 Thes. 4:13-16	1	shout,sorrow	
+1:PP.1.p980.t5.2	Jude 1:14	0		
+1:PP.1.p980.t5.3	Dan. 7:9	1	white	
+1:PP.1.p980.t5.4	Dan. 7:10	0		
+1:PP.1.p980.t5.5	1 Cor. 6:2	1		you_are
+1:PP.1.p980.t5.6	1 Cor. 6:3	0		

@@ -1,0 +1,99 @@
+note	ref_text	has_bridge	rare	bigram
+1:woe	Aeneid book 4	0		
+1:iliad	Iliad 2.484-85	0		
+1:iliad	Aeneid 1.8	0		
+1:adamantine	Aeneid 6.548	0		
+1:servitude	Odyssey 11.489-91	0		
+1:ethereal	Aeneid 8.626-29	1	glas	
+1:leaves	Aeneid 6.307-14	0		
+1:leaves	Iliad 6.145-50	0		
+1:orion	Aeneid 1. 535	0		
+1:cranes	Iliad 3. 1-5	1	considerate	
+1:phlegra	Metamorphoses 10. 318	1	abomin,adoni,astarte	
+1:relate	Iliad 1. 591-5	0		
+1:Bees	Iliad 2. 87-90	0		
+1:Bees	Aeneid 1.430-36	1	graven,hive	
+2:ascentiseasy	Aeneid 6. 126-129	1	penance	
+2:line245	Iliad 4. 3-4	0		
+2:oath	Iliad 1. 530	0		
+2:lines434-436	Aeneid 6.438	0		
+2:line530	Aeneid 5.604	1	damn,disgorge,labyrinth	
+2:line530	Iliad 23. 800	1	antagonist	
+2:oechalia	Metamorphoses 9. 134	1	licha	
+2:lines542-546	Metamorphoses 9. 134	1	licha	
+2:ravishment	Odyssey book 10	1	cocytu	
+2:harpy-footedFuries	Aeneid 3.211-217	0		
+2:smalldrop	Odyssey 11.582	1	dolorou,pythian	
+2:Medusa	Odyssey 11.627	1	dolorou,pythian	
+2:Tantalus	Odyssey 11.582	1	dolorou,pythian	
+2:gorgons	Aeneid 6	1	cocytu	
+2:lines649-660	Metamorphoses 14	1	lapland,witch	lapland_witch
+2:Cerberian	Iliad 8.365	0		
+2:waist	Metamorphoses 14	1	lapland,witch	lapland_witch
+2:lines895-897	Metamorphoses 1.5-20	1	adhere,atom	
+2:goldenChain	Iliad 8. 15-24	0		
+2:Charybdis	Odyssey 12. 234-259	1	calmer	
+3:orphean	Metamorphoses 10	1	sojourn	
+3:thamyris	Iliad 2.591-4	1	thamyri	
+3:hesperian	Metamorphoses 4. 632-40	1	andromeda,ridge,splendor	
+4:fable	Metamorphoses 4. 632-680	1	immortality,usher	
+4:milt	Metamorphoses 5	1	bush,chew,enna	
+4:dap	Metamorphoses 1.452-68	1	adam,angel,bush	
+4:lok	Metamorphoses 10.163-219	1	bush,compliant,ruminat	
+4:lok	Odyssey 6. 231	1	fence,umbrageou	
+4:lok	Aeneid 1.590-91	1	bowr,oront	
+4:met	Metamorphoses 3.402-510	0		
+4:juno	Iliad 14.346-51	0		
+4:lov	Metamorphoses 1. 468	1	adam,patriarch	
+4:asz	Iliad 8. 69-72	0		
+4:asz	Iliad 22. 209	0		
+4:asz	Aeneid 12. 725-727	0		
+5:rosie	Odyssey 2.1	0		
+5:bird	Metamorphoses 6.440-670	0		
+5:fairest	Iliad 22. 315	0		
+5:maia	Odyssey 10.275	0		
+5:maia	Aeneid 4.219-278	0		
+5:alcinous	Odyssey 7.115-34	0		
+5:reveal	Odyssey 9	0		
+6:rosie	Odyssey 2.1	0		
+6:undaunted	Iliad 22.98	0		
+6:humor	Iliad 5.334-417	1	condense,fluid	
+6:Raphael	Odyssey 9	0		
+6:chariot	Metamorphoses 2.42	0		
+7:thracianbard	Metamorphoses 11	0		
+7:invoke	Iliad 1.1	0		
+7:interpreter	Aeneid 4. 378	0		
+7:balanced	Metamorphoses 1. 18	0		
+7:prolific	Metamorphoses 1. 150	1	bush,ferment,unsight	
+7:ovid	Metamorphoses 1	0		
+7:master	Metamorphoses 1.76-82	0		
+8:line561-570	Odyssey 10.275	0		
+8:line561-570	Aeneid 4.238-48	1	accuse	
+9:worldofwoe	Aeneid book 4	1	slumbr,tragic	
+9:line15a	Iliad 22	0		
+9:line17	Aeneid 7	1	caparison,unsung	
+9:line19	Odyssey 1.19-20	1	distaste,sewer,unblam	
+9:line19a	Aeneid 1	1	slumbr	
+9:foodoflove	Metamorphoses 9.749	0		
+9:begone	Aeneid 4.381	1	speciou	
+9:line394	Metamorphoses 14.628	1	adoni,feminine,includ	
+9:line395	Metamorphoses 5.341	1	bush,proserpina,rivulet	
+9:line441	Odyssey 7	0		
+9:line505	Metamorphoses 4.563-603	1	hermione,illyria	
+9:line506	Metamorphoses 15.669-74	1	epidauru	
+9:line522	Odyssey 10.238	1	fraudulent	
+9:line953	Aeneid 4.554	0		
+9:line1037	Iliad 14.292-353	1	hyacinth	
+10:line533	Metamorphoses  4. 575-89	0		
+10:line531	Metamorphoses  1. 421-40	1	pythian,python,slime	
+10:dungeon	Aeneid 1. 56-123	1	euru,tropic	
+11:pair	Metamorphoses 1.314-449	1	pyrrha	
+11:Argus	Metamorphoses 1.673-715	1	adam	
+11:rosie	Odyssey 2	0		
+11:film	Iliad 5.127	0		
+11:film	Aeneid 2.604	0		
+11:behold	Aeneid 6:680-686	0		
+11:cave	Aeneid 6.237	0		
+11:wind	Metamorphoses 1.264-226	1	adam,angel	
+11:North-winde	Metamorphoses 1.328	1	abat,adam,clamor	
+12:seaven	Aeneid 6. 800	0		

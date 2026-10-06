@@ -1,0 +1,392 @@
+## R001 [S] note=1:woe PL 1.3 ref='Aeneid book 4' unit=Aeneid.4
+LINE: Brought Death into the World, and all our woe,
+NOTE: Death into the World, and all our woe. This locution echoes fairly closely Virgil's narrative voice in Aeneid book 4, announcing that death and woe followed the ersatz nuptials of Aeneas and Dido:To the same cave come Dido and the Trojan chief. Primal Earth and nuptial Juno give the sign; fires flashed in Heaven, the witness to their bridal, and on the mountaintop screamed the Nymphs. That day the first of death, the first of calamity was cause.
+
+## R002  note=1:iliad PL 1.27 ref='Iliad 2.484-85' unit=Iliad.2
+LINE: Say first, for Heav'n hides nothing from thy view
+NOTE: Say first. Compare this with Homer's invocations to the muse in the Iliad 2.484-85. See also Virgil's Aeneid 1.8 .
+
+## R003 [S] note=1:iliad PL 1.27 ref='Aeneid 1.8' unit=Aeneid.1
+LINE: Say first, for Heav'n hides nothing from thy view
+NOTE: Say first. Compare this with Homer's invocations to the muse in the Iliad 2.484-85. See also Virgil's Aeneid 1.8 .
+
+## R004  note=1:adamantine PL 1.48 ref='Aeneid 6.548' unit=Aeneid.6
+LINE: In Adamantine Chains and penal Fire,
+NOTE: Adamantine.  Unbreakable, rocklike. See Virgil's Aeneid 6.548 where we hear about an underworld gate "and pillars of solid adamant."
+
+## R005 [S] note=1:servitude PL 1.263 ref='Odyssey 11.489-91' unit=Odyssey.11
+LINE: Better to reign in Hell, then serve in Heav'n.
+NOTE: serve in Heav'n.  But see Abdiel's (chronologically) prior warning to Satan: 6. 178-88.  Homer's Odysseus says that when he interviewed Achilles in the underworld, Achilles expressed an  attitude opposite to Satan's: "I should choose, so I might live on earth, to serve as the hireling of another, some landless man with hardly enough to live on, rather than to be lord over all the dead that have perished"  (Odyssey 11.489-91). See also Psalm 84:10.
+
+## R006 [S] note=1:ethereal PL 1.285 ref='Aeneid 8.626-29' unit=Aeneid.8
+LINE:  Ethereal temper, massy, large and round,
+NOTE: Ethereal temper.  Tempered in ethereal (heavenly) fire.  Aeneas's shield was said to have been forged in the netherworld by Vulcan and was blazoned with stories of gods and heroes (Aeneid 8.626-29).
+
+## R007  note=1:leaves PL 1.302 ref='Aeneid 6.307-14' unit=Aeneid.6
+LINE: Thick as Autumnal Leaves that strow the Brooks
+NOTE: Autumnal Leaves. A common simile for the dead in classical epic; see Virgil's Aeneid 6.307-14, Homer's Iliad 6.145-50 and Dante's Inferno 3.112-15).
+
+## R008 [S] note=1:leaves PL 1.302 ref='Iliad 6.145-50' unit=Iliad.6
+LINE: Thick as Autumnal Leaves that strow the Brooks
+NOTE: Autumnal Leaves. A common simile for the dead in classical epic; see Virgil's Aeneid 6.307-14, Homer's Iliad 6.145-50 and Dante's Inferno 3.112-15).
+
+## R009 [S] note=1:orion PL 1.305 ref='Aeneid 1. 535' unit=Aeneid.1
+LINE: Afloat, when with fierce Winds Orion arm'd
+NOTE: Orion.  A "stormy" constellation in Aeneid 1. 535.
+
+## R010  note=1:cranes PL 1.576 ref='Iliad 3. 1-5' unit=Iliad.3
+LINE: Warr'd on by Cranes: though all the Giant brood
+NOTE: Warr'd on by Cranes.  In Iliad 3. 1-5, Homer compares the cries of the Trojans to the sound made by cranes in their annual rush to the sea, when they slaughter pygmies in their path.
+
+## R011  note=1:phlegra PL 1.577 ref='Metamorphoses 10. 318' unit=Metamorphoses.10
+LINE: Of Phlegra with th' Heroic Race were joyn'd
+NOTE: Phlegra.  In Ovid's Metamorphoses 10. 318, the giants battle the gods on the plain of Phlegra in Macedonia.
+
+## R012 [S] note=1:relate PL 1.746 ref='Iliad 1. 591-5' unit=Iliad.1
+LINE: On Lemnos th' Ægean Ile: thus they relate,
+NOTE: they relate.  Homer, in Iliad 1. 591-5 tells the story of Hephaistos's fall.
+
+## R013  note=1:Bees PL 1.768 ref='Iliad 2. 87-90' unit=Iliad.2
+LINE: Brusht with the hiss of russling wings. As Bees
+NOTE: Bees.  Homer describes the Achaean assembly (Iliad 2. 87-90) and Virgil the Carthaginians (Aeneid 1.430-36) as busy bees.
+
+## R014 [S] note=1:Bees PL 1.768 ref='Aeneid 1.430-36' unit=Aeneid.1
+LINE: Brusht with the hiss of russling wings. As Bees
+NOTE: Bees.  Homer describes the Achaean assembly (Iliad 2. 87-90) and Virgil the Carthaginians (Aeneid 1.430-36) as busy bees.
+
+## R015  note=2:ascentiseasy PL 2.81 ref='Aeneid 6. 126-129' unit=Aeneid.6
+LINE: We sunk thus low? Th' ascent is easie then;
+NOTE: Th' ascent is easie.    Contrast with the sybil's warning to Aeneas about the difficulty of returning from Hades. (Aeneid 6. 126-129). Also note the contrast to Dante, who found his ascent difficult (blocked by a leopard, lion and a she-wolf), but his descent into hell unimpeded. (Inferno 1.)
+
+## R016  note=2:line245 PL 2.245 ref='Iliad 4. 3-4' unit=Iliad.4
+LINE: Ambrosial Odours and Ambrosial Flowers,
+NOTE: Ambrosial Flowers.    In the Iliad 4. 3-4,  Hebe pours ambrosia, or nectar, for the gods. Thus ambrosia was thought to be the proper food of gods. 
+
+## R017 [S] note=2:oath PL 2.352 ref='Iliad 1. 530' unit=Iliad.1
+LINE: Pronounc'd among the Gods, and by an Oath,
+NOTE: by an Oath.    Milton combines biblical representations of God taking an oath by himself "because he could swear by no greater" (Hebrews 6: 13; Genesis 22: 16) with classical recollections of Zeus shaking Olympus as he makes a vow to Thetis (Iliad 1. 530). 
+
+## R018 [S] note=2:lines434-436 PL 2.434 ref='Aeneid 6.438' unit=Aeneid.6
+LINE: Our prison strong, this huge convex of Fire,
+NOTE: convex of Fire.    Convex refers to the spherical area around Hell; "ninefold" refers to the nine circles of the Styx around the underworld of the Aeneid 6.438, and "gates of burning Adamant" recall Virgil's columns surrounding the gates of Tartarus (Hughes 242). This structure of Hell is also employed by Dante in the Inferno, where each of the nine circles of Hell hosts different sinners.  
+
+## R019  note=2:line530 PL 2.530 ref='Aeneid 5.604' unit=Aeneid.5
+LINE: As at th' Olympian Games or Pythian fields;
+NOTE: th' Olympian Games or Pythian fields.    This alludes to the annual games of remembrance in Aeneid 5.604, and the games at the tomb of Patroclus in the Iliad 23. 800.  The Pythian fields were near Delphi, where the Pythian games, which celebrated the victory of Apollo over the Python, were held.  Why would Milton describe contests like these as fit pastimes for devils?
+
+## R020  note=2:line530 PL 2.530 ref='Iliad 23. 800' unit=Iliad.23
+LINE: As at th' Olympian Games or Pythian fields;
+NOTE: th' Olympian Games or Pythian fields.    This alludes to the annual games of remembrance in Aeneid 5.604, and the games at the tomb of Patroclus in the Iliad 23. 800.  The Pythian fields were near Delphi, where the Pythian games, which celebrated the victory of Apollo over the Python, were held.  Why would Milton describe contests like these as fit pastimes for devils?
+
+## R021 [S] note=2:oechalia PL 2.542 ref='Metamorphoses 9. 134' unit=Metamorphoses.9
+LINE: As when Alcides from Oechalia Crown'd
+NOTE: Oechalia.   Misprinted as Oealia in 1667.  See Seneca's Hercules Furens, Sophocles's Trachiniae, and Ovid's Metamorphoses 9. 134.
+
+## R022  note=2:lines542-546 PL 2.545 ref='Metamorphoses 9. 134' unit=Metamorphoses.9
+LINE: And Lichas from the top of Oeta threw
+NOTE: Lichas  from the top of Oeta.    Returning victorious from Oechalia, in Laconia, Hercules was brought a gift of the cloak of the centaur Nessus, whom he had years earlier fought and killed. The cloak was poisoned and destroyed him, causing him to throw the innocent Lichas into the sea. See Ovid's Metamorphoses 9. 134, Sophocles' Trachiniae, and Seneca's Hercules Furens. 
+
+## R023 [S] note=2:ravishment PL 2.554 ref='Odyssey book 10' unit=Odyssey.10
+LINE: Suspended Hell, and took with ravishment
+NOTE: took with ravishment.    The devils' song charms the senses as the cup of Circe charms her captives to their ruin in Homer's Odyssey book 10. (Schwartz 90). 
+
+## R024 [S] note=2:harpy-footedFuries PL 2.596 ref='Aeneid 3.211-217' unit=Aeneid.3
+LINE: Thither by harpy-footed Furies hail'd,
+NOTE: harpy-footed Furies.    The harpies, who attacked Aeneas and his men, had the faces and breasts of young women, the wings and bodies of birds, and talons for hands (Aeneid 3.211-217).  See also Inferno 13. 12.       
+
+## R025  note=2:smalldrop PL 2.607 ref='Odyssey 11.582' unit=Odyssey.11
+LINE: The tempting stream, with one small drop to loose
+NOTE: one small drop.    An echo of the story of Tantalus in Odyssey 11.582. 
+
+## R026  note=2:Medusa PL 2.611 ref='Odyssey 11.627' unit=Odyssey.11
+LINE: Medusa with Gorgonian terror guards
+NOTE: Medusa.    Gorgon who had snakes for hair and whose appearance turned men into stones. See Odyssey 11.627.
+
+## R027  note=2:Tantalus PL 2.614 ref='Odyssey 11.582' unit=Odyssey.11
+LINE: The lip of Tantalus. Thus roving on
+NOTE: Tantalus.    Tantalus was condemned in Hell to suffer intense thirst in a pool whose water rose just below the reach of his lips. See Odyssey 11.582.
+
+## R028  note=2:gorgons PL 2.628 ref='Aeneid 6' unit=Aeneid.6
+LINE: Gorgons and Hydra's, and Chimera's dire.
+NOTE: Gorgons and Hydra's, and Chimera's.    The hydra was a nine-headed dragon, the chimera breathed fire, and for the gorgons, see line 611 and note. See also Aeneid 6.
+
+## R029 [S] note=2:lines649-660 PL 2.650 ref='Metamorphoses 14' unit=Metamorphoses.14
+LINE: The one seem'd Woman to the waste, and fair,
+NOTE: seem'd Woman.  Sin owes her serpentine nether parts to conceptions like Spenser's Error: Halfe like a serpent horribly displaide, But th'other halfe did a woman's shape retaine. (Faerie  Queene  1.1.14)But the dogs around Sin's waist, and especially their Cerberean mouths—a literally Ovidian phrase—plainly match Ovid's description of Scylla, the lovely nymph whose body Circe transformed into a mass of yelping hounds from the waist down (Metamorphoses 14.). Finally,-according to Ovid-she became the dangerous reef between Sicily (Trinacria) and the toe of the Italian boot (Calabria) (Hughes 246).
+
+## R030  note=2:Cerberian PL 2.655 ref='Iliad 8.365' unit=Iliad.8
+LINE: With wide Cerberian mouths full loud, and rung
+NOTE: Cerberian.  Like the legendary "hound of Hell," Cerberus.  See Homer's Iliad 8.365.
+
+## R031  note=2:waist PL 2.660 ref='Metamorphoses 14' unit=Metamorphoses.14
+LINE: Vex'd Scylla bathing in the Sea that parts
+NOTE: Scylla.  For the story of Scylla's vexation, see Ovid's Metamorphoses 14.
+
+## R032 [S] note=2:lines895-897 PL 2.896 ref='Metamorphoses 1.5-20' unit=Metamorphoses.1
+LINE: Eternal Anarchie, amidst the noise
+NOTE: Eternal Anarchie.    See Ovid's Metamorphoses 1.5-20. 
+
+## R033 [S] note=2:goldenChain PL 2.1005 ref='Iliad 8. 15-24' unit=Iliad.8
+LINE: Hung ore my Realm, link'd in a golden Chain
+NOTE: golden Chain.    See Iliad 8. 15-24 for the legend of the golden chain linking the earth and the heavens. 
+
+## R034 [S] note=2:Charybdis PL 2.1020 ref='Odyssey 12. 234-259' unit=Odyssey.12
+LINE: Charybdis, and by th' other whirlpool steard.
+NOTE: Charybdis.    Whirlpool opposite Scylla, the more treacherous whirlpool. See Odyssey 12. 234-259.
+
+## R035  note=3:orphean PL 3.17 ref='Metamorphoses 10' unit=Metamorphoses.10
+LINE: With other notes then to th' Orphean Lyre
+NOTE: Orphean.  The legendary orator, poet and musician, Orpheus, travelled to Hades to plead for the release of his young wife, Eurydice. See Ovid's Metamorphoses 10.
+
+## R036  note=3:thamyris PL 3.35 ref='Iliad 2.591-4' unit=Iliad.2
+LINE: Blind Thamyris and blind Mæonides,
+NOTE: Thamyris.  Homer mentions this blind Thracian in the Iliad 2.591-4.
+
+## R037  note=3:hesperian PL 3.568 ref='Metamorphoses 4. 632-40' unit=Metamorphoses.4
+LINE: Like those Hesperian Gardens fam'd of old,
+NOTE: Hesperian Gardens.  As in A Mask 981-982, this refers to the Hesperides, a legendary orchard at the edge of the world where golden fruit grew, as told in Ovid's Metamorphoses 4. 632-40. The isles have been associated with both the Canary Islands and British Isles. 
+
+## R038 [S] note=4:fable PL 4.250 ref='Metamorphoses 4. 632-680' unit=Metamorphoses.4
+LINE: Hung amiable, Hesperian Fables true,
+NOTE: Hesperian Fables.  Referring to the stories of Hesperian gardens, a legendary orchard at the edge of the world where golden fruit grew, as described in Ovid's Metamorphoses 4. 632-680. The isles have been associated with both the Canary Islands and British Isles.    See also A Mask 981.
+
+## R039  note=4:milt PL 4.269 ref='Metamorphoses 5' unit=Metamorphoses.5
+LINE: Of Enna, where Proserpin gathering flours
+NOTE: Proserpin.  Milton refers to the stories of Proserpina in Ovid's Metamorphoses 5 and the Homeric Hymn to Demeter. Proserpina, daughter of Zeus and Ceres, is carried away by Dis (Pluto) while gathering flowers in Enna, Sicily.   Ceres, the goddess of corn, prevented any crops from growing while she searched for her daughter. Finally, Dis agreed to return Proserpina to her mother for six months each year. Thus, the crops only grow for half a year.  These might be called negative similes, since each comparison is evoked by "Not" or "nor."
+
+## R040 [S] note=4:dap PL 4.273 ref='Metamorphoses 1.452-68' unit=Metamorphoses.1
+LINE: Of Daphne by Orontes, and th' inspir'd
+NOTE: Daphne.  The gardens of Daphne on the river Orontes in Syria were known for their magnificent cypress and laurel trees, which were watered by a springs, dedicated to Apollo and named after the Castalian Spring on Mt. Parnassus. According to Ovid (Metamorphoses 1.452-68), upon Phoebus Apollo's attempt to rape her, Daphne tried to run away and then turned into a laurel tree. See Bernini's Apollo e Dafne  
+
+## R041 [S] note=4:lok PL 4.301 ref='Metamorphoses 10.163-219' unit=Metamorphoses.10
+LINE: Absolute rule; and Hyacinthin Locks
+NOTE: Hyacinthin Locks.  The poem  compares Adam to Hyacinthus, the boy beloved of Apollo in Orpheus's song from Ovid's Metamorphoses 10.163-219 ("youth of Amyclae").  Milton likens Adam to Apollo's "beloved" as an example of ideal male beauty. Milton often alludes to Orpheus (Lycidas 58-63, A Mask 84-88, "At a Solemn Music") as a classical example of the power of poetic song.  Homer describes Odysseus' head and hair in a similar fashion at just those moments when Athena pays special attentions to him (Odyssey 6. 231: "made the locks to flow in curls like the hyacinth flower."  The word "Clustring" also alludes to a similar description of the "beauty of flowing locks" Venus bestows upon Aeneas in the Aeneid 1.590-91.  See a yellow hyacinth in bloom.  On hair length for men and women, see also 1 Corinthians 11:15.  See John Guillory's essay, "Milton, Narcissism, Gender: On the Genealogy of Male Self-Esteem." Perhaps Milton imagines an Adam not unlike Michelangelo's David (1504).
+
+## R042 [S] note=4:lok PL 4.301 ref='Odyssey 6. 231' unit=Odyssey.6
+LINE: Absolute rule; and Hyacinthin Locks
+NOTE: Hyacinthin Locks.  The poem  compares Adam to Hyacinthus, the boy beloved of Apollo in Orpheus's song from Ovid's Metamorphoses 10.163-219 ("youth of Amyclae").  Milton likens Adam to Apollo's "beloved" as an example of ideal male beauty. Milton often alludes to Orpheus (Lycidas 58-63, A Mask 84-88, "At a Solemn Music") as a classical example of the power of poetic song.  Homer describes Odysseus' head and hair in a similar fashion at just those moments when Athena pays special attentions to him (Odyssey 6. 231: "made the locks to flow in curls like the hyacinth flower."  The word "Clustring" also alludes to a similar description of the "beauty of flowing locks" Venus bestows upon Aeneas in the Aeneid 1.590-91.  See a yellow hyacinth in bloom.  On hair length for men and women, see also 1 Corinthians 11:15.  See John Guillory's essay, "Milton, Narcissism, Gender: On the Genealogy of Male Self-Esteem." Perhaps Milton imagines an Adam not unlike Michelangelo's David (1504).
+
+## R043  note=4:lok PL 4.301 ref='Aeneid 1.590-91' unit=Aeneid.1
+LINE: Absolute rule; and Hyacinthin Locks
+NOTE: Hyacinthin Locks.  The poem  compares Adam to Hyacinthus, the boy beloved of Apollo in Orpheus's song from Ovid's Metamorphoses 10.163-219 ("youth of Amyclae").  Milton likens Adam to Apollo's "beloved" as an example of ideal male beauty. Milton often alludes to Orpheus (Lycidas 58-63, A Mask 84-88, "At a Solemn Music") as a classical example of the power of poetic song.  Homer describes Odysseus' head and hair in a similar fashion at just those moments when Athena pays special attentions to him (Odyssey 6. 231: "made the locks to flow in curls like the hyacinth flower."  The word "Clustring" also alludes to a similar description of the "beauty of flowing locks" Venus bestows upon Aeneas in the Aeneid 1.590-91.  See a yellow hyacinth in bloom.  On hair length for men and women, see also 1 Corinthians 11:15.  See John Guillory's essay, "Milton, Narcissism, Gender: On the Genealogy of Male Self-Esteem." Perhaps Milton imagines an Adam not unlike Michelangelo's David (1504).
+
+## R044  note=4:met PL 4.461 ref='Metamorphoses 3.402-510' unit=Metamorphoses.3
+LINE: A Shape within the watry gleam appeard
+NOTE: A Shape.  Milton echoes here in Eve's actions the myth of Narcissus in Ovid's Metamorphoses 3.402-510. For further discussion of Eve's narcissism see the essay by James Earl, "Eve's Narcissism" in Milton Quarterly19 (1985):13-16.
+
+## R045 [S] note=4:juno PL 4.500 ref='Iliad 14.346-51' unit=Iliad.14
+LINE: On Juno smiles, when he impregns the Clouds
+NOTE: Juno.  Jupiter's queen, and, allegorically, the air.  John Leonard (Introduction to PL xxxvi-xxxvii) hears an echo here of the story of Hera's (Juno's) seduction of Zeus (Jupiter) in Homer's Iliad 14.346-51. 
+
+## R046  note=4:lov PL 4.763 ref='Metamorphoses 1. 468' unit=Metamorphoses.1
+LINE: Here Love his golden shafts imploies, here lights
+NOTE: Love.  Milton's description of "Love" is similar to Ovid's representation of Cupid, son of Venus. See Metamorphoses 1. 468.  See also the story of the Marriage of Cupid and Psyche from Apuleius' The Golden Ass.
+
+## R047  note=4:asz PL 4.997 ref='Iliad 8. 69-72' unit=Iliad.8
+LINE: Hung forth in Heav'n his golden Scales, yet seen
+NOTE: Scales.  Milton remembered the golden scales in which Zeus weighed and compared the destinies of the Greeks and Trojans Iliad 8. 69-72, and of Hector against Achilles Iliad 22. 209), or the weighing of Aeneas's fate against that of Turnus (Aeneid 12. 725-727), but he gives the conception cosmic scope by identifying the scales with the constellation of Libra which stands between the Virgin and the Scorpion in the Zodiac. 
+
+## R048  note=4:asz PL 4.997 ref='Iliad 22. 209' unit=Iliad.22
+LINE: Hung forth in Heav'n his golden Scales, yet seen
+NOTE: Scales.  Milton remembered the golden scales in which Zeus weighed and compared the destinies of the Greeks and Trojans Iliad 8. 69-72, and of Hector against Achilles Iliad 22. 209), or the weighing of Aeneas's fate against that of Turnus (Aeneid 12. 725-727), but he gives the conception cosmic scope by identifying the scales with the constellation of Libra which stands between the Virgin and the Scorpion in the Zodiac. 
+
+## R049 [S] note=4:asz PL 4.997 ref='Aeneid 12. 725-727' unit=Aeneid.12
+LINE: Hung forth in Heav'n his golden Scales, yet seen
+NOTE: Scales.  Milton remembered the golden scales in which Zeus weighed and compared the destinies of the Greeks and Trojans Iliad 8. 69-72, and of Hector against Achilles Iliad 22. 209), or the weighing of Aeneas's fate against that of Turnus (Aeneid 12. 725-727), but he gives the conception cosmic scope by identifying the scales with the constellation of Libra which stands between the Virgin and the Scorpion in the Zodiac. 
+
+## R050  note=5:rosie PL 5.1 ref='Odyssey 2.1' unit=Odyssey.2
+LINE: NOw Morn her rosie steps in th' Eastern Clime
+NOTE: rosie steps.  Milton echoes Homer's "rosy-fingered dawn" (Odyssey 2.1).  Does this invite us to compare Homer's Odysseus with Milton's Adam, or simply Milton's poem to Homer's?  See other instances at 11.175 and  6.3. 
+
+## R051  note=5:bird PL 5.40 ref='Metamorphoses 6.440-670' unit=Metamorphoses.6
+LINE: To the night-warbling Bird, that now awake
+NOTE: night-warbling Bird.  The nightingale.  Mention of the nightingale cannot help but evoke memory of Ovid's story of the rape of Philomela in Metamorphoses 6.440-670.
+
+## R052  note=5:fairest PL 5.166 ref='Iliad 22. 315' unit=Iliad.22
+LINE: Fairest of Starrs, last in the train of Night,
+NOTE: Fairest of Starrs.  The morning star called Lucifer (light-bringer) by  day and Hesperus by night.  It is the brightest star in Homer's Iliad 22. 315.  
+
+## R053  note=5:maia PL 5.285 ref='Odyssey 10.275' unit=Odyssey.10
+LINE: Skie-tinctur'd grain. Like Maia's son he stood,
+NOTE: Maia's son. In classical mythology the heavenly messenger was Hermes or Mercury.  Maia, daughter of Atlas, bore Hermes to Zeus (see Pseudo-Apollodorus' Library 3.10.2).  Milton echoes here the visit Hermes makes to Odysseus in Odyssey 10.275 to warn him about, and give him  herbal protection against, Circe's charms.  Virgil's Aeneid 4.219-278  tells of Mercury's mission  to Aeneas in Carthage to encourage him to abandon Dido and Carthage and resume his destiny as an empire founder.  Compare these to Raphael's warnings about Eve's beauty in 8.560-594.
+
+## R054  note=5:maia PL 5.285 ref='Aeneid 4.219-278' unit=Aeneid.4
+LINE: Skie-tinctur'd grain. Like Maia's son he stood,
+NOTE: Maia's son. In classical mythology the heavenly messenger was Hermes or Mercury.  Maia, daughter of Atlas, bore Hermes to Zeus (see Pseudo-Apollodorus' Library 3.10.2).  Milton echoes here the visit Hermes makes to Odysseus in Odyssey 10.275 to warn him about, and give him  herbal protection against, Circe's charms.  Virgil's Aeneid 4.219-278  tells of Mercury's mission  to Aeneas in Carthage to encourage him to abandon Dido and Carthage and resume his destiny as an empire founder.  Compare these to Raphael's warnings about Eve's beauty in 8.560-594.
+
+## R055  note=5:alcinous PL 5.341 ref='Odyssey 7.115-34' unit=Odyssey.7
+LINE: Alcinous reign'd, fruit of all kindes, in coate,
+NOTE: Alcinous.  He is the king of Phaiakia in Homer's Odyssey 7.115-34.   Odysseus visits his paradisal garden of perpetual harvest. 
+
+## R056 [S] note=5:reveal PL 5.570 ref='Odyssey 9' unit=Odyssey.9
+LINE: Not lawful to reveal? yet for thy good
+NOTE: to reveal.  Classical epics often included large sections of reported action.  Here Raphael tells Adam of Satan's original rebellion; in subsequent books he will tell the stories of war in heaven (book 6) and creation (book 7). For classical examples of this mode consider Aeneas's relation to Dido the story of the  fall of Troy in  books 2 and 3 of the Aeneid.  Also significant is the reported action in the middle books of Homer's Odyssey 9-12.  
+
+## R057  note=6:rosie PL 6.3 ref='Odyssey 2.1' unit=Odyssey.2
+LINE: Wak't by the circling Hours, with rosie hand
+NOTE: with rosie hand.  As at the opening of book 5, Milton echoes Homer's image of the "rosy fingered dawn" (Odyssey 2.1).
+
+## R058  note=6:undaunted PL 6.113 ref='Iliad 22.98' unit=Iliad.22
+LINE: And thus his own undaunted heart explores.
+NOTE: undaunted heart explores.  The phrase recalls Homer's introduction of Hector's speech before his battle with Achilles in Iliad 22.98. 
+
+## R059  note=6:humor PL 6.332 ref='Iliad 5.334-417' unit=Iliad.5
+LINE: A stream of Nectarous humor issuing flow'd
+NOTE: Nectarous humor.   This passage echoes one in the Iliad 5.334-417, which also describes a celestial battle. Aphrodite's hand is pierced and she bleeds the nectarous blood of the Gods (ichor), but is healed by Dione, her mother. 
+
+## R060  note=6:Raphael PL 6.363 ref='Odyssey 9' unit=Odyssey.9
+LINE: Uriel and Raphael his vaunting foe,
+NOTE: Raphael.   Raphael speaks of himself in the third person; he has not introduced himself to Adam by name, nor does he ever.  Thus, he is in some ways like Odysseus relating the stories of the Trojan War to Alcinous and his people (Odyssey 9). Unlike Odysseus, however, he does not reveal his identity nor focus his story on himself, but on  the Son's authority and the moral victory of Abdiel. 
+
+## R061  note=6:chariot PL 6.711 ref='Metamorphoses 2.42' unit=Metamorphoses.2
+LINE: Ascend my Chariot, guide the rapid Wheeles
+NOTE: Ascend my Chariot.  The image alludes to the legend of Phaeton who stole his father Phoebus' (Apollo's) chariot (the sun) and wrecked it, destroying both himself and much of the earth (Ovid's Metamorphoses 2.42 and following).  Unlike Phaeton,  Milton's Son is invited to ride the Father's chariot. 
+
+## R062 [S] note=7:thracianbard PL 7.34 ref='Metamorphoses 11' unit=Metamorphoses.11
+LINE: Of that wilde Rout that tore the Thracian Bard
+NOTE: Thracian Bard. Orpheus, from Thrace,  was torn to pieces by followers of Bacchus after he offended the Bacchantes. (Metamorphoses 11 and "Lycidas" 58-63).  Also see Albrecht Durer's 1594 engraving, Death of Orpheus.
+
+## R063  note=7:invoke PL 7.40 ref='Iliad 1.1' unit=Iliad.1
+LINE: Say Goddess, what ensu'd when Raphael,
+NOTE: Say Goddess. Homer invokes his muse in a similar way. See his Iliad 1.1.
+
+## R064  note=7:interpreter PL 7.72 ref='Aeneid 4. 378' unit=Aeneid.4
+LINE: Divine interpreter, by favour sent
+NOTE: Divine interpreter. This title recalls Virgil's nickname for Mercury — interpres divum (messenger of heaven):  Aeneid 4. 378.
+
+## R065 [S] note=7:balanced PL 7.242 ref='Metamorphoses 1. 18' unit=Metamorphoses.1
+LINE: And Earth self ballanc't on her Center hung.
+NOTE: Earth self-balanc't.  Milton echoes much that is found in Ovid's account of creation (Metamorphoses 1. 18), even though Ovid's description assumes a geocentric, Ptolemaic view of the cosmos as opposed to the Copernican model supported by Galileo's observations.  For Milton, perhaps, the ultimate authority is neither model, but Job 26: 7.
+
+## R066  note=7:prolific PL 7.280 ref='Metamorphoses 1. 150' unit=Metamorphoses.1
+LINE: Prolific humour soft'ning all her Globe,
+NOTE: Prolific humour. Fertile fluid.  The images of prolific humor and embryon waters are more Ovidian than biblical (Metamorphoses 1. 150)  They remind one of Lucretius's theories of the origins of organic life (The Nature of Things 5.783-820).
+
+## R067 [S] note=7:ovid PL 7.463 ref='Metamorphoses 1' unit=Metamorphoses.1
+LINE: The grassie Clods now Calv'd, now half appeer'd
+NOTE: now half appeer'd.  These images are very reminiscent of the autochthonous creation in Ovid's Metamorphoses 1.    
+
+## R068 [S] note=7:master PL 7.505 ref='Metamorphoses 1.76-82' unit=Metamorphoses.1
+LINE: There wanted yet the Master work, the end
+NOTE: Master work.  This idea is similar to that articulated in Ovid's Metamorphoses 1.76-82. 
+
+## R069  note=8:line561-570 PL 8.570 ref='Odyssey 10.275' unit=Odyssey.10
+LINE: Not thy subjection: weigh with her thy self;
+NOTE: Not thy subjection.   See God's rebuke to Adam in   10.145-56.  Unlike Hermes' warning to Odysseus to beware of Circe's charms (Odyssey 10.275), and Mercury's mission to Aeneas to move him to abandon Dido (Aeneid 4.238-48), Raphael warns Adam to stay with Eve but avoid being subdued by her "out-side" charms; see Adam's fall in 9.999. 
+
+## R070 [S] note=8:line561-570 PL 8.570 ref='Aeneid 4.238-48' unit=Aeneid.4
+LINE: Not thy subjection: weigh with her thy self;
+NOTE: Not thy subjection.   See God's rebuke to Adam in   10.145-56.  Unlike Hermes' warning to Odysseus to beware of Circe's charms (Odyssey 10.275), and Mercury's mission to Aeneas to move him to abandon Dido (Aeneid 4.238-48), Raphael warns Adam to stay with Eve but avoid being subdued by her "out-side" charms; see Adam's fall in 9.999. 
+
+## R071  note=9:worldofwoe PL 9.11 ref='Aeneid book 4' unit=Aeneid.4
+LINE: That brought into this World a world of woe,
+NOTE: into this World a world of woe. This line echoes the early lines of book 1, which in turn echo fairly closely Virgil's narrative voice in Aeneid book 4, announcing that death and woe followed the ersatz nuptials of Aeneas and Dido:   "To the same cave come Dido and the Trojan chief. Primal Earth and nuptial Juno give the sign; fires flashed in Heaven, the witness to their bridal, and on the mountaintop screamed the Nymphs. That day the first of death, the first of calamity was cause."
+
+## R072  note=9:line15a PL 9.15 ref='Iliad 22' unit=Iliad.22
+LINE: Of stern Achilles on his Foe pursu'd
+NOTE: his Foe.   Hector: Achilles pursued Hector around the walls of Troy (Iliad 22).
+
+## R073  note=9:line17 PL 9.17 ref='Aeneid 7' unit=Aeneid.7
+LINE: Of Turnus for Lavinia disespous'd,
+NOTE: Turnus for Lavinia.   A secondary theme of Virgil's Aeneid is the rage of Turnus for the loss to Aeneas of his beloved Lavinia (Aeneid 7).
+
+## R074  note=9:line19 PL 9.19 ref='Odyssey 1.19-20' unit=Odyssey.1
+LINE: Perplex'd  the Greek and Cytherea's Son;
+NOTE: the Greek.   Odysseus; his wandering at sea was caused by Neptune's (Poseidon's) anger (Odyssey 1.19-20).
+
+## R075 [S] note=9:line19a PL 9.19 ref='Aeneid 1' unit=Aeneid.1
+LINE: Perplex'd  the Greek and Cytherea's Son;
+NOTE: Cytherea's son.   Aeneas; Milton alludes to two classical heroes persecuted by Gods — Odysseus by Neptune and Aeneas by Juno (Aeneid 1). 
+
+## R076  note=9:foodoflove PL 9.240 ref='Metamorphoses 9.749' unit=Metamorphoses.9
+LINE: To brute deni'd, and are of Love the food,
+NOTE: of Love the food.   For Ovid, hope is the food of love (Metamorphoses 9.749); for Shakespeare's Orsino, it is music (Twelfth Night 1.1.1); for Adam, it is smiles.
+
+## R077 [S] note=9:begone PL 9.372 ref='Aeneid 4.381' unit=Aeneid.4
+LINE: Go; for thy stay, not free, absents thee more;
+NOTE: Go.   James Nohrnberg pointed out that Adam's imperative "Go," here echoes Dido's "I, sequere Italiam ventis" (Go! Seek out Italy through the winds) in Aeneid 4.381, though of course the gender roles are reversed and Eve plays the epic adventurer and would-be empire founder. This casts Adam as the disappointed beloved. Unlike Hermes, who prompted Aeneas to leave Dido and Carthage, Raphael was sent to warn Adam of a different sort of willing obedience. Aeneas says he does not seek Italy of his own free act: "Italiam non sponte sequor” (4.361) (MLA Milton General Session January 9, 2016 in Austin, Texas).
+
+## R078  note=9:line394 PL 9.394 ref='Metamorphoses 14.628' unit=Metamorphoses.14
+LINE: Likeliest she seemd, Pomona when she fled
+NOTE: Pomona.   Goddess of orchards or fruit: Ovid tells the story of Pomona being wooed by Vertumnus who eventually succeeds (Metamorphoses 14.628). 
+
+## R079 [S] note=9:line395 PL 9.395 ref='Metamorphoses 5.341' unit=Metamorphoses.5
+LINE: Vertumnus, or to Ceres in her Prime,
+NOTE: Ceres.   Ovid says that Ceres was the first to teach men to use the plow before the birth of Proserpina (Metamorphoses 5.341). 
+
+## R080 [S] note=9:line441 PL 9.441 ref='Odyssey 7' unit=Odyssey.7
+LINE: Alcinous, host of old Laertes Son,
+NOTE: Laertes son.  Odysseus, who visited the Garden of Alcinous in Odyssey 7.
+
+## R081  note=9:line505 PL 9.505 ref='Metamorphoses 4.563-603' unit=Metamorphoses.4
+LINE: Lovelier, not those that in Illyria chang'd
+NOTE: chang'd.   The narrator alludes to Ovid's story of the metamorphosis of Cadmus and Harmonia into serpents (Metamorphoses 4.563-603).
+
+## R082  note=9:line506 PL 9.506 ref='Metamorphoses 15.669-74' unit=Metamorphoses.15
+LINE: Hermione and Cadmus, or the God
+NOTE: the God.   Æsculapius, the god of healing,  appeared in his temple in Epidaurus in the body of a serpent (Metamorphoses 15.669-74).
+
+## R083  note=9:line522 PL 9.522 ref='Odyssey 10.238' unit=Odyssey.10
+LINE: Then at Circean call the Herd disguis'd.
+NOTE: Herd disguis'd.   A reference to Circe's victims (See Odyssey 10.238), whom she turned into groveling swine. 
+
+## R084 [S] note=9:line953 PL 9.953 ref='Aeneid 4.554' unit=Aeneid.4
+LINE: Certain to undergoe like doom, if Death
+NOTE: Certain.   Resolved.  The phrase ironically echoes Aeneas's opposite declaration, certus eundi, announcing his intention to leave Carthage and Dido (Aeneid 4.554).
+
+## R085 [S] note=9:line1037 PL 9.1045 ref='Iliad 14.292-353' unit=Iliad.14
+LINE: Oppress'd them, wearied with thir amorous play.
+NOTE: Lines 1037-1045.   Similar to the scene between Zeus and Hera in Iliad 14.292-353.
+
+## R086  note=10:line533 PL 10.514 ref='Metamorphoses  4. 575-89' unit=Metamorphoses.4
+LINE: A monstrous Serpent on his Belly prone,
+NOTE: monstrous Serpent.   See Ovid's Metamorphoses  4. 575-89 for the story of Cadmus turning into a serpent. See also Dante's Inferno Canto 25.
+
+## R087  note=10:line531 PL 10.531 ref='Metamorphoses  1. 421-40' unit=Metamorphoses.1
+LINE: Huge Python, and his Power no less he seem'd
+NOTE: Python.   Snakes once were  thought  spontaneously to generate from an interaction of sun on the mud flats.  See Ovid's Metamorphoses  1. 421-40 for the story of the origins of snakes, Python, and the Pythian games.
+
+## R088  note=10:dungeon PL 10.697 ref='Aeneid 1. 56-123' unit=Aeneid.1
+LINE: Bursting thir brazen Dungeon, armd with ice
+NOTE: Dungeon.   According to Virgil's Aeneid 1. 56-123, Aeolus kept the winds in a cave covered with mountains until he needed them.
+
+## R089 [S] note=11:pair PL 11.10 ref='Metamorphoses 1.314-449' unit=Metamorphoses.1
+LINE: Seem'd thir Petition, then when th' ancient Pair
+NOTE: th' ancient Pair.  See the story of Deucalion and Pyrrha in Ovid's Metamorphoses 1.314-449. The ancient couple were the sole survivors of a worldwide flood, floating in a "little skiff."
+
+## R090 [S] note=11:Argus PL 11.131 ref='Metamorphoses 1.673-715' unit=Metamorphoses.1
+LINE: Of Argus, and more wakeful then to drouze,
+NOTE: Argus.  For the story of how Hermes outwitted Argos when Argos was guarding Io from Zeus's lust, see Ovid's Metamorphoses 1.673-715.
+
+## R091 [S] note=11:rosie PL 11.175 ref='Odyssey 2' unit=Odyssey.2
+LINE: Her rosie progress smiling; let us forth,
+NOTE: rosie progress.  Milton echoes Homer's favorite epic description of sunrise, the "rosy-fingered Dawn"; see, for example, Odyssey 2.
+
+## R092  note=11:film PL 11.412 ref='Iliad 5.127' unit=Iliad.5
+LINE: Michael from Adams eyes the Filme remov'd
+NOTE: Filme remov'd.  Many epic heroes underwent ritualistic eye-cleaning.  See Homer's Iliad 5.127, Virgil's Aeneid 2.604, Tasso's Jerusalem Delivered 18.93 (XCIII).  See also Paul in Acts 9:18.
+
+## R093 [S] note=11:film PL 11.412 ref='Aeneid 2.604' unit=Aeneid.2
+LINE: Michael from Adams eyes the Filme remov'd
+NOTE: Filme remov'd.  Many epic heroes underwent ritualistic eye-cleaning.  See Homer's Iliad 5.127, Virgil's Aeneid 2.604, Tasso's Jerusalem Delivered 18.93 (XCIII).  See also Paul in Acts 9:18.
+
+## R094 [S] note=11:behold PL 11.423 ref='Aeneid 6:680-686' unit=Aeneid.6
+LINE: Adam, now ope thine eyes, and first behold
+NOTE: behold.  Aeneas and his father, Anchises, also behold a vision of the future in Virgil's Aeneid 6:680-686, 756. 
+
+## R095  note=11:cave PL 11.469 ref='Aeneid 6.237' unit=Aeneid.6
+LINE: To his grim Cave, all dismal; yet to sense
+NOTE: his grim Cave.  In Virgil's Aeneid 6.237, Avernus, the underworld river, runs in a deep, deep cave.
+
+## R096  note=11:wind PL 11.738 ref='Metamorphoses 1.264-226' unit=Metamorphoses.1
+LINE: Meanwhile the Southwind rose, and with black wings
+NOTE: Southwind.  The description of the southwind recalls Ovid's narration of the Deucalion and Pyrrha story in Metamorphoses 1.264-226.
+
+## R097  note=11:North-winde PL 11.842 ref='Metamorphoses 1.328' unit=Metamorphoses.1
+LINE: Drivn by a keen North- winde, that blowing drie
+NOTE: North-winde.  Again, echoing Metamorphoses 1.328.
+
+## R098  note=12:seaven PL 12.158 ref='Aeneid 6. 800' unit=Aeneid.6
+LINE: See where it flows, disgorging at  seaven mouthes
+NOTE: seaven mouthes.  Virgil's Aeneid 6. 800 speaks of the Nile as seven-mouthed.
+
